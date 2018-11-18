@@ -23,4 +23,4 @@
 
 - This is a initial proof of concept and work in progess
 
-![Screenshot]('docs/import.gif')
+![Screenshot](/docs/import.gif)
