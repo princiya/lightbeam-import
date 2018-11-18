@@ -1,0 +1,11 @@
+{
+  "name": "lightbeam-import",
+  "version": "1.0.0",
+  "description": "A web application to import multiple lightbeam datasets and visualise them collectively.",
+  "main": "index.js",
+  "author": "Princiya",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
