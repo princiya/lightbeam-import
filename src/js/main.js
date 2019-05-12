@@ -128,11 +128,11 @@ async function showViz(value) {
   const id = document.getElementById(`country-${value}`);
 
   if (id && id.style.fill === 'green') {
-    d3.json(`../../data/${country}-mobile.json`, websites => {
+    d3.json(`/lightbeam-import/data/${country}-mobile.json`, websites => {
       process(websites, 'mobile', value);
     });
 
-    d3.json(`../../data/${country}-news.json`, websites => {
+    d3.json(`/lightbeam-import/data/${country}-news.json`, websites => {
       process(websites, 'news', value);
     });
   } else {
