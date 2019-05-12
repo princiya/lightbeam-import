@@ -1,0 +1,400 @@
+{
+  "5690326.fls.doubleclick.net": {
+    "hostname": "5690326.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "5994599.fls.doubleclick.net": {
+    "hostname": "5994599.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a1telekom.egain.cloud": {
+    "hostname": "a1telekom.egain.cloud",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "act.webmasterplan.com": {
+    "hostname": "act.webmasterplan.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.ad-srv.net": {
+    "hostname": "ad.ad-srv.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.analytics-egain.com": {
+    "hostname": "analytics.analytics-egain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apm.a1.net": {
+    "hostname": "apm.a1.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "asmp.a1.net": {
+    "hostname": "asmp.a1.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn11.a1.net": {
+    "hostname": "cdn11.a1.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn12.a1.net": {
+    "hostname": "cdn12.a1.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn13.a1.net": {
+    "hostname": "cdn13.a1.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dmp.theadex.com": {
+    "hostname": "dmp.theadex.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hal9000.redintelligence.net": {
+    "hostname": "hal9000.redintelligence.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.webmasterplan.com": {
+    "hostname": "p.webmasterplan.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r.adc-srv.net": {
+    "hostname": "r.adc-srv.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rules.quantcount.com": {
+    "hostname": "rules.quantcount.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.quantserve.com": {
+    "hostname": "secure.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.a1.net": {
+    "hostname": "www.a1.net",
+    "favicon": "https://cdn12.a1.net/assetsup/theme-a1/last/img/piano.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn11.a1.net",
+      "cdn12.a1.net",
+      "cdn13.a1.net",
+      "asmp.a1.net",
+      "www.googletagmanager.com",
+      "bat.bing.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "www.googleadservices.com",
+      "static.hotjar.com",
+      "act.webmasterplan.com",
+      "5690326.fls.doubleclick.net",
+      "www.youtube.com",
+      "googleads.g.doubleclick.net",
+      "script.hotjar.com",
+      "adservice.google.com",
+      "s.ytimg.com",
+      "www.facebook.com",
+      "www.google.com",
+      "static.ads-twitter.com",
+      "www.google.at",
+      "dmp.theadex.com",
+      "vars.hotjar.com",
+      "t.co",
+      "analytics.twitter.com",
+      "p.webmasterplan.com",
+      "apm.a1.net",
+      "secure.quantserve.com",
+      "analytics.analytics-egain.com",
+      "www.ad4mat.net",
+      "rules.quantcount.com",
+      "r.adc-srv.net",
+      "hal9000.redintelligence.net",
+      "fonts.googleapis.com",
+      "ad.ad-srv.net",
+      "track.adform.net",
+      "5994599.fls.doubleclick.net",
+      "pixel.quantserve.com",
+      "a1telekom.egain.cloud"
+    ]
+  },
+  "www.ad4mat.net": {
+    "hostname": "www.ad4mat.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.at": {
+    "hostname": "www.google.at",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.a1.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

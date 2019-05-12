@@ -1,26 +1,14 @@
-# Lightbeam
+# Lightbeam-Import
 
-💡 Import Lightbeam data from different geographical locations to identify patterns and trends. 💡
+💡🗺️ Displays imported [Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/) data from different geographical locations to identify patterns and trends. 💡🗺️
 
-## Setup
-
-- Clone this repository
-- While in the repository directory, run the following:
-  - `npm install`
-  - `node index.js`
-- Open a browser and type `localhost:3000`
-- This application highlights the countries in the world map corresponding to the data sets available in the `data` folder
-- Click on a country code from the left panel to visualise the corresponding data set
-
-## Import data
-
-- Place the lightbeam data sets in the `data` folder
-- The naming convention is `[country-code].json`
-  - Example: `usa.json`
-- Detailed list of country codes can be found in `src/world/world_population.tsv` file
+⚖️📉 This is in collaboration with the [Global Data Justice](http://globaldatajustice.org) project. ⚖️📉
 
 ## Notes
 
 - This is a initial proof of concept and work in progess
 
-![Screenshot](/docs/import.gif)
+![Screenshot](/docs/map.gif)
+
+- This version has data collected from volunteers from 32 different countries
+- The aim of this research is to explore what third-party trackers loaded through particular websites can tell us about the firms, networks and transfers that make up the global data market

@@ -1,0 +1,1090 @@
+{
+  "7q1z79gxsi.global.ssl.fastly.net": {
+    "hostname": "7q1z79gxsi.global.ssl.fastly.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aax.amazon-adsystem.com": {
+    "hostname": "aax.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "admin.brightcove.com": {
+    "hostname": "admin.brightcove.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.adaptv.advertising.com": {
+    "hostname": "ads.adaptv.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adserver.adtechus.com": {
+    "hostname": "adserver.adtechus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.jm": {
+    "hostname": "adservice.google.com.jm",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com",
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apex.go.sonobi.com": {
+    "hostname": "apex.go.sonobi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.gannett-cdn.com": {
+    "hostname": "api.gannett-cdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.rlcdn.com": {
+    "hostname": "api.rlcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "as-sec.casalemedia.com": {
+    "hostname": "as-sec.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.marfeel.com": {
+    "hostname": "b.marfeel.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.marfeelcache.com": {
+    "hostname": "b.marfeelcache.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.scorecardresearch.com": {
+    "hostname": "b.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bidder.criteo.com": {
+    "hostname": "bidder.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.amazon-adsystem.com": {
+    "hostname": "c.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c2.taboola.com": {
+    "hostname": "c2.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cache.legacy.com": {
+    "hostname": "cache.legacy.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.adsafeprotected.com": {
+    "hostname": "cdn.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.krxd.net": {
+    "hostname": "cdn.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.syndication.twimg.com": {
+    "hostname": "cdn.syndication.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.taboola.com": {
+    "hostname": "cdn.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cf-images.us-east-1.prod.boltdns.net": {
+    "hostname": "cf-images.us-east-1.prod.boltdns.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clarium.global.ssl.fastly.net": {
+    "hostname": "clarium.global.ssl.fastly.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.jquery.com": {
+    "hostname": "code.jquery.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "colossusssp.com": {
+    "hostname": "colossusssp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cse.google.com.jm": {
+    "hostname": "cse.google.com.jm",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "digital.olivesoftware.com": {
+    "hostname": "digital.olivesoftware.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e.serverbid.com": {
+    "hostname": "e.serverbid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "edge.api.brightcove.com": {
+    "hostname": "edge.api.brightcove.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fastlane.rubiconproject.com": {
+    "hostname": "fastlane.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gallery.jamaica-gleaner.com": {
+    "hostname": "gallery.jamaica-gleaner.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gannett-d.openx.net": {
+    "hostname": "gannett-d.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gannett.demdex.net": {
+    "hostname": "gannett.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "go-jamaica.com": {
+    "hostname": "go-jamaica.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hbopenbid.pubmatic.com": {
+    "hostname": "hbopenbid.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ytimg.com": {
+    "hostname": "i.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.cars.com": {
+    "hostname": "images.cars.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.taboola.com": {
+    "hostname": "images.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imasdk.googleapis.com": {
+    "hostname": "imasdk.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jamaica-gleaner.com": {
+    "hostname": "jamaica-gleaner.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAD////////////+/v77+PP16d705tjx5Njm1cnOr5rRr5Dfxanx6eX+/v7////////////////38uzSqXzDjGXVs6H8+vj+/v7+/v7WwLPt4tfIlEezcQ7EmnH07uz////////y6+Wyeki2eVO+kn3u49z58+7+/v7////n2c/////9/PnLmk3RoGnEnID39PP+/f2xgF22elTFlnzcysHVu6XGj1jRpWj9+/vfzL/v6OLy6+Dcv6DqyZ/Vn1TJrJncysGwdVPWrZbDnYb8+/rdw6y4eDG6eiDk0MHfxqnz6dny5Mj26tfZo1TNjw63iVm/m4vXr5fx3crDn4n////gx7SxbA6zbQPcwqzcwqT+/v7+/v7059HNjw3IhgC1hE/Dno3x3crkw6XCnYb////r2cy3dRyzbwLbwanZvZ/o28zr2rrVrWvIhgDHggDEoYTMrJvkwqTSoHK/l33////89+nIkjm6eRnJo3/exaj///78+/jSmzjHgwC6fy3z7erJp5PRn3HBhDu2iF/////99+rQn1bVpXLYt5LIpYL6+PfMoWXFggfNoF7x6ub////Tuqy/gTm1cQWqcTT////99+rnx57nwpPfxKby6t/Pq33n0Kj17uf+/v7////////49fOuciezbgCnZQ3v6OT99+rtzZ7VnUffxKb+/v7y6Nft49v////////////////+/v7gzr2ycA68fCLNr53gybHer2HLiwnfxKb+/v7+/v7l2M7v6Ob////////////////+/v7izbbSomzXr4fv5eDx4MLXp0zfw6TJrZPGlEq+lGq6mIz28vL////////////////+/v717N/mxZjZsHT69vL+/v7p1r7EhhzFfgCybQKsbzOwgWX7+vr////////////////////+/v79+vb58uX38uv+/f338OLFjjrbu5T8+PHr3Mzp3df////////////////////////////////+/v7+/v7////69/P7+ff///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.googletagservices.com",
+      "old.jamaica-gleaner.com",
+      "b.marfeelcache.com",
+      "fonts.googleapis.com",
+      "go-jamaica.com",
+      "admin.brightcove.com",
+      "adservice.google.com.jm",
+      "securepubads.g.doubleclick.net",
+      "fonts.gstatic.com",
+      "players.brightcove.net",
+      "cse.google.com.jm",
+      "code.jquery.com",
+      "gallery.jamaica-gleaner.com",
+      "jamaica-gleaner.disqus.com",
+      "pagead2.googlesyndication.com",
+      "vjs.zencdn.net",
+      "www.google-analytics.com",
+      "www.sparklit.com",
+      "imasdk.googleapis.com",
+      "metrics.brightcove.com",
+      "edge.api.brightcove.com",
+      "cdn.ampproject.org",
+      "googleads.g.doubleclick.net",
+      "adservice.google.com",
+      "tpc.googlesyndication.com",
+      "s0.2mdn.net",
+      "stats.g.doubleclick.net",
+      "manifest.prod.boltdns.net",
+      "cf-images.us-east-1.prod.boltdns.net",
+      "pubads.g.doubleclick.net",
+      "ads.adaptv.advertising.com"
+    ]
+  },
+  "jamaica-gleaner.disqus.com": {
+    "hostname": "jamaica-gleaner.disqus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jamaicaobserver.disqus.com": {
+    "hostname": "jamaicaobserver.disqus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js-sec.indexww.com": {
+    "hostname": "js-sec.indexww.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "login.gcion.com": {
+    "hostname": "login.gcion.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "manifest.prod.boltdns.net": {
+    "hostname": "manifest.prod.boltdns.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.adsrvr.org": {
+    "hostname": "match.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "metrics.brightcove.com": {
+    "hostname": "metrics.brightcove.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mid.rkdms.com": {
+    "hostname": "mid.rkdms.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nr.taboola.com": {
+    "hostname": "nr.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "old.jamaica-gleaner.com": {
+    "hostname": "old.jamaica-gleaner.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "partner.googleadservices.com": {
+    "hostname": "partner.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.twimg.com": {
+    "hostname": "pbs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.adsafeprotected.com": {
+    "hostname": "pixel.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.mathtag.com": {
+    "hostname": "pixel.mathtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "players.brightcove.net": {
+    "hostname": "players.brightcove.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pubads.g.doubleclick.net": {
+    "hostname": "pubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com",
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "quantcast.mgr.consensu.org": {
+    "hostname": "quantcast.mgr.consensu.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com",
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sofia.trustx.org": {
+    "hostname": "sofia.trustx.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "srepdata.thegleaner.com": {
+    "hostname": "srepdata.thegleaner.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.chartbeat.com": {
+    "hostname": "static.chartbeat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.criteo.net": {
+    "hostname": "static.criteo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.doubleclick.net": {
+    "hostname": "static.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.quantcast.mgr.consensu.org": {
+    "hostname": "static.quantcast.mgr.consensu.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.bounceexchange.com": {
+    "hostname": "tag.bounceexchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tlx.3lift.com": {
+    "hostname": "tlx.3lift.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "translate.google.com": {
+    "hostname": "translate.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "translate.googleapis.com": {
+    "hostname": "translate.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trc.taboola.com": {
+    "hostname": "trc.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "user.thegleaner.com": {
+    "hostname": "user.thegleaner.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vjs.zencdn.net": {
+    "hostname": "vjs.zencdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget.perfectmarket.com": {
+    "hostname": "widget.perfectmarket.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets-code.websta.me": {
+    "hostname": "widgets-code.websta.me",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gannett-cdn.com": {
+    "hostname": "www.gannett-cdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "data:image/x-icon;base64,AAABAAIAEBAAAAEAIABoBAAAJgAAACAgAAABACAAqBAAAI4EAAAoAAAAEAAAACAAAAABACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///zD9/f2W/f392P39/fn9/f35/f391/39/ZT+/v4uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/v7+Cf39/Zn///////////////////////////////////////////39/ZX///8IAAAAAAAAAAAAAAAA/v7+Cf39/cH/////+v35/7TZp/92ul3/WKs6/1iqOv9yuFn/rNWd//j79v///////f39v////wgAAAAAAAAAAP39/Zn/////7PXp/3G3WP9TqDT/U6g0/1OoNP9TqDT/U6g0/1OoNP+Or1j//vDo///////9/f2VAAAAAP///zD/////+vz5/3G3V/9TqDT/WKo6/6LQkf/U6cz/1urO/6rUm/+Zo0r/8IZB//adZ////v7///////7+/i79/f2Y/////4nWzf9Lqkj/Vqo4/9Xqzv///////////////////////ebY//SHRv/0hUL//NjD///////9/f2U/f392v////8sxPH/Ebzt/43RsP/////////////////////////////////4roL/9IVC//i1jf///////f391/39/fr/////Cr37/wW8+/+16/7/////////////////9IVC//SFQv/0hUL/9IVC//SFQv/3pnX///////39/fn9/f36/////wu++/8FvPv/tuz+//////////////////SFQv/0hUL/9IVC//SFQv/0hUL/96p7///////9/f35/f392/////81yfz/CrL5/2uk9v///////////////////////////////////////////////////////f392P39/Zn/////ks/7/zdS7P84Rur/0NT6///////////////////////9/f////////////////////////39/Zb+/v4y//////n5/v9WYu3/NUPq/ztJ6/+VnPT/z9L6/9HU+v+WnfT/Ul7t/+Hj/P////////////////////8wAAAAAP39/Z3/////6Or9/1hj7v81Q+r/NUPq/zVD6v81Q+r/NUPq/zVD6v9sdvD////////////9/f2YAAAAAAAAAAD///8K/f39w//////5+f7/paz2/11p7v88Suv/Okfq/1pm7v+iqfX/+fn+///////9/f3B/v7+CQAAAAAAAAAAAAAAAP///wr9/f2d///////////////////////////////////////////9/f2Z/v7+CQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7+/jL9/f2Z/f392/39/fr9/f36/f392v39/Zj///8wAAAAAAAAAAAAAAAAAAAAAPAPAADAAwAAgAEAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAACAAQAAwAMAAPAPAAAoAAAAIAAAAEAAAAABACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7+/g3+/v5X/f39mf39/cj9/f3q/f39+f39/fn9/f3q/f39yP39/Zn+/v5W////DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7+/iT9/f2c/f399f/////////////////////////////////////////////////////9/f31/f39mv7+/iMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7+/gn9/f2K/f39+////////////////////////////////////////////////////////////////////////////f39+v39/Yf///8IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+/v4k/f390v////////////////////////////////////////////////////////////////////////////////////////////////39/dD///8iAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////MP39/er//////////////////////////+r05v+v16H/gsBs/2WxSf9Wqjj/Vqk3/2OwRv99vWX/pdKV/97u2P////////////////////////////39/ej+/v4vAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7+/iT9/f3q/////////////////////+v15/+Pxnv/VKk2/1OoNP9TqDT/U6g0/1OoNP9TqDT/U6g0/1OoNP9TqDT/U6g0/36+Z//d7tf///////////////////////39/ej///8iAAAAAAAAAAAAAAAAAAAAAAAAAAD///8K/f390//////////////////////E4bn/XKw+/1OoNP9TqDT/U6g0/1OoNP9TqDT/U6g0/1OoNP9TqDT/U6g0/1OoNP9TqDT/U6g0/1apN/+x0pv///////////////////////39/dD///8IAAAAAAAAAAAAAAAAAAAAAP39/Yv/////////////////////sdij/1OoNP9TqDT/U6g0/1OoNP9TqDT/U6g0/1OoNP9TqDT/U6g0/1OoNP9TqDT/U6g0/1OoNP9TqDT/YKU1/8qOPv/5wZ////////////////////////39/YcAAAAAAAAAAAAAAAD+/v4l/f39+////////////////8Lgt/9TqDT/U6g0/1OoNP9TqDT/U6g0/1OoNP9utlT/n86N/7faqv+426v/pdKV/3u8ZP9UqDX/U6g0/3egN//jiUH/9IVC//SFQv/82MP//////////////////f39+v7+/iMAAAAAAAAAAP39/Z3////////////////q9Ob/W6w+/1OoNP9TqDT/U6g0/1OoNP9nskz/zOXC/////////////////////////////////+Dv2v+osWP/8YVC//SFQv/0hUL/9IVC//WQVP/++fb//////////////////f39mgAAAAD+/v4O/f399v///////////////4LHj/9TqDT/U6g0/1OoNP9TqDT/dblc//L58P/////////////////////////////////////////////8+v/3p3f/9IVC//SFQv/0hUL/9IVC//rIqf/////////////////9/f31////DP7+/ln////////////////f9v7/Cbz2/zOwhv9TqDT/U6g0/2KwRv/v9+z///////////////////////////////////////////////////////738//1kFT/9IVC//SFQv/0hUL/9plg///////////////////////+/v5W/f39nP///////////////4jf/f8FvPv/Bbz7/yG1s/9QqDz/vN2w//////////////////////////////////////////////////////////////////rHqP/0hUL/9IVC//SFQv/0hUL//vDn//////////////////39/Zn9/f3L////////////////R878/wW8+/8FvPv/Bbz7/y7C5P/7/fr//////////////////////////////////////////////////////////////////ere//SFQv/0hUL/9IVC//SFQv/718H//////////////////f39yP39/ez///////////////8cwvv/Bbz7/wW8+/8FvPv/WNL8///////////////////////////////////////0hUL/9IVC//SFQv/0hUL/9IVC//SFQv/0hUL/9IVC//SFQv/0hUL/9IVC//rIqv/////////////////9/f3q/f39+v///////////////we9+/8FvPv/Bbz7/wW8+/993P3///////////////////////////////////////SFQv/0hUL/9IVC//SFQv/0hUL/9IVC//SFQv/0hUL/9IVC//SFQv/0hUL/+cGf//////////////////39/fn9/f36////////////////B737/wW8+/8FvPv/Bbz7/33c/f//////////////////////////////////////9IVC//SFQv/0hUL/9IVC//SFQv/0hUL/9IVC//SFQv/0hUL/9IVC//SFQv/6xaX//////////////////f39+f39/e3///////////////8cwvv/Bbz7/wW8+/8FvPv/WdP8///////////////////////////////////////0hUL/9IVC//SFQv/0hUL/9IVC//SFQv/0hUL/9IVC//SFQv/0hUL/9IVC//vVv//////////////////9/f3q/f39y////////////////0bN/P8FvPv/Bbz7/wW8+/8hrvn/+/v///////////////////////////////////////////////////////////////////////////////////////////////////////////////////39/cj9/f2c////////////////ht/9/wW8+/8FvPv/FZP1/zRJ6/+zuPf//////////////////////////////////////////////////////////////////////////////////////////////////////////////////f39mf7+/lr////////////////d9v7/B7n7/yB38f81Q+r/NUPq/0hV7P/u8P3////////////////////////////////////////////////////////////////////////////////////////////////////////////+/v5X////D/39/ff///////////////9tkPT/NUPq/zVD6v81Q+r/NUPq/2Fs7//y8v7////////////////////////////////////////////09f7//////////////////////////////////////////////////f399f7+/g0AAAAA/f39n////////////////+Tm/P89Suv/NUPq/zVD6v81Q+r/NUPq/1Bc7f/IzPn/////////////////////////////////x8v5/0xY7P+MlPP////////////////////////////////////////////9/f2cAAAAAAAAAAD+/v4n/f39/P///////////////7W69/81Q+r/NUPq/zVD6v81Q+r/NUPq/zVD6v9ZZe7/k5v0/6609/+vtff/lJv0/1pm7v81Q+r/NUPq/zVD6v+GjvL//v7//////////////////////////////f39+/7+/iQAAAAAAAAAAAAAAAD9/f2N/////////////////////6Cn9f81Q+r/NUPq/zVD6v81Q+r/NUPq/zVD6v81Q+r/NUPq/zVD6v81Q+r/NUPq/zVD6v81Q+r/NUPq/zVD6v+BivL////////////////////////////9/f2KAAAAAAAAAAAAAAAAAAAAAP7+/gv9/f3V/////////////////////7W69/8+S+v/NUPq/zVD6v81Q+r/NUPq/zVD6v81Q+r/NUPq/zVD6v81Q+r/NUPq/zVD6v81Q+r/P0zr/7q/+P///////////////////////f390v7+/gkAAAAAAAAAAAAAAAAAAAAAAAAAAP7+/ib9/f3r/////////////////////+Xn/P94gfH/NkTq/zVD6v81Q+r/NUPq/zVD6v81Q+r/NUPq/zVD6v81Q+r/NkTq/3Z/8f/l5/z///////////////////////39/er+/v4kAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7+/jL9/f3r///////////////////////////k5vz/nqX1/2p08P9IVez/OEbq/zdF6v9GU+z/aHLv/5qh9f/i5Pz////////////////////////////9/f3q////MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7+/ib9/f3V/////////////////////////////////////////////////////////////////////////////////////////////////f390v7+/iQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wr9/f2N/f39/P///////////////////////////////////////////////////////////////////////////f39+/39/Yv+/v4JAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+/v4n/f39n/39/ff//////////////////////////////////////////////////////f399v39/Z3+/v4lAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/v7+Dv7+/lr9/f2c/f39y/39/e39/f36/f39+v39/ez9/f3L/f39nP7+/ln+/v4OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AA///AAD//AAAP/gAAB/wAAAP4AAAB8AAAAPAAAADgAAAAYAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABgAAAAcAAAAPAAAAD4AAAB/AAAA/4AAAf/AAAP/8AAP//wAP/",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "jamaica-gleaner.com",
+      "googleads.g.doubleclick.net",
+      "www.gstatic.com"
+    ]
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com",
+      "jamaica-gleaner.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.jamaicaobserver.com": {
+    "hostname": "www.jamaicaobserver.com",
+    "favicon": "data:image/x-icon;base64,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",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "quantcast.mgr.consensu.org",
+      "partner.googleadservices.com",
+      "translate.google.com",
+      "b.marfeel.com",
+      "static.quantcast.mgr.consensu.org",
+      "digital.olivesoftware.com",
+      "translate.googleapis.com",
+      "www.googletagmanager.com",
+      "widgets-code.websta.me",
+      "www.gstatic.com",
+      "jamaicaobserver.disqus.com",
+      "www.google.com",
+      "www.youtube.com",
+      "c2.taboola.com",
+      "cdn.taboola.com",
+      "www.googletagservices.com",
+      "platform.twitter.com",
+      "fonts.gstatic.com",
+      "b.scorecardresearch.com",
+      "widget.perfectmarket.com",
+      "connect.facebook.net",
+      "adservice.google.com.jm",
+      "securepubads.g.doubleclick.net",
+      "adservice.google.com",
+      "googleads.g.doubleclick.net",
+      "static.doubleclick.net",
+      "trc.taboola.com",
+      "syndication.twitter.com",
+      "s.ytimg.com",
+      "cdn.ampproject.org",
+      "www.google-analytics.com",
+      "nr.taboola.com",
+      "pagead2.googlesyndication.com",
+      "cdn.syndication.twimg.com",
+      "tpc.googlesyndication.com",
+      "stats.g.doubleclick.net",
+      "staticxx.facebook.com",
+      "images.taboola.com",
+      "pbs.twimg.com",
+      "yt3.ggpht.com",
+      "i.ytimg.com"
+    ]
+  },
+  "www.npttech.com": {
+    "hostname": "www.npttech.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thegleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.sparklit.com": {
+    "hostname": "www.sparklit.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "jamaica-gleaner.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.thegleaner.com": {
+    "hostname": "www.thegleaner.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gannett-cdn.com",
+      "login.gcion.com",
+      "cache.legacy.com",
+      "images.cars.com",
+      "clarium.global.ssl.fastly.net",
+      "cdn.taboola.com",
+      "7q1z79gxsi.global.ssl.fastly.net",
+      "js-sec.indexww.com",
+      "tags.tiqcdn.com",
+      "user.thegleaner.com",
+      "pubads.g.doubleclick.net",
+      "sofia.trustx.org",
+      "ib.adnxs.com",
+      "bidder.criteo.com",
+      "fastlane.rubiconproject.com",
+      "hbopenbid.pubmatic.com",
+      "apex.go.sonobi.com",
+      "e.serverbid.com",
+      "colossusssp.com",
+      "api.rlcdn.com",
+      "adserver.adtechus.com",
+      "mid.rkdms.com",
+      "tlx.3lift.com",
+      "gannett-d.openx.net",
+      "match.adsrvr.org",
+      "api.gannett-cdn.com",
+      "as-sec.casalemedia.com",
+      "www.npttech.com",
+      "dpm.demdex.net",
+      "gannett.demdex.net",
+      "www.googletagservices.com",
+      "cdn.adsafeprotected.com",
+      "static.chartbeat.com",
+      "c.amazon-adsystem.com",
+      "srepdata.thegleaner.com",
+      "sb.scorecardresearch.com",
+      "cdn.krxd.net",
+      "connect.facebook.net",
+      "ad.doubleclick.net",
+      "tag.bounceexchange.com",
+      "static.criteo.net",
+      "pixel.adsafeprotected.com",
+      "adservice.google.com.jm",
+      "aax.amazon-adsystem.com",
+      "securepubads.g.doubleclick.net",
+      "pixel.mathtag.com",
+      "trc.taboola.com"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "yt3.ggpht.com": {
+    "hostname": "yt3.ggpht.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.jamaicaobserver.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

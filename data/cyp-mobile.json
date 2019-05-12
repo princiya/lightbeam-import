@@ -1,0 +1,30 @@
+{
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cyta.com.cy"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.cyta.com.cy": {
+    "hostname": "www.cyta.com.cy",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AstW1AFKiUwCo0rUAgs6pAIrQrgBbw5gAqtvBEnHIoE5Ru4dmYruDZmy2ej+RxZgCb7ByAGWvagDP59QAyuTPALLVtQBSolMAqNK1AIPPqgCM0LAWX8Sapj24g/48t4T/O7iF/zS0fv8zrm7/Q6Zf5nKxdFxmr2sAz+fUAMrkzwCy1bUAUqJTAKnTtgCH0Kw0O7eC8T+4h/9WwJX/X8Oa/17Emv9Twpr/RcGU/zO1fP8olj//a7FumdPq2ADN5tIAsta1AFOiVACu1bkPOrZ+9EW7jP9hw5z/eM6s/4jYu/+C1LX/bcOa/1Czgv9CtIH4P7F27CCKJf9us3GAoM+tALXXtw5YpFecULB4uTa5hP9Zwpj/ftW1/43Ts/9momr/On41/yx0Jv8lcCD/KHEi87DXwBuOxZNPMpM04qTRsSiGwYs6LJAv/zKra/9EvY7/a82n/2Onff8kYA//GV8E/yZ0Jv8wiD//NJFG/ySBMP+AsIRqjMWNAIXCih2eyZNRebuAci6RMv84rG7/ScaZ/0adaP8MOwD/GVsA/yt3K/8zjUP/OqNZ/zuqZP80oVH/TaBCiF2b/wCJxoAAp8vdDkufUI43lTb/OKZh/0LEkP9Quo//GlQK/yFiBf8sezH/N5VL/zusaP9Av33/NZtX/0iPjrZkoP+PHWH70jV3/cdEmkqQOJU2/y+bQv8zpHf/KHgk/xVNAP8hYwb/K3ot/zSPRf87p1v/PbNo/zV5Tv8XhMr/EoX//xFY8v9HgvXDX6xnjCiNJ/9+v3x9aJfdegUpF/8RRAD/HVwC/yhuHv8ufzf/NIxH/y91Pv8rdWz/E7r//xqa/P8PYPL/cJ73dJrHnVJksGt1d7t2AOP0/wAfWb3hABcH/wwoAP8dTAz/IFwa/xtfFP8/dUn/W8js/w7A//8Qlvn/Gmjz/7rQ/BqVypsAYq9pAHS5dADc7v8AstX/KR931fcATlv/DE8s/y5mPf9pnYf/m9rz/0TT//8Fs/7/Uav4f3Wh+Gq1zPsAlcmbAGGvaABzuXMA2uz/AKvO/wClyv8eNa3/vge4//8yzf//WNn//zrL//8av//cd9X8SUyq+AByn/gAs8v7AJXJmwBhr2gAc7lzANns/wCozf8AnsX/AI+//AOB1/9WK8b/kSLE/5Vy1v1kXc39EnPU/ABLqfgAcZ/4ALPL+wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A//////wP///wB///4AP//8AB//8AAP//AAT//wAG//8AAP//AAD//wAA//8wAP//8AH///gH///8D////////w==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com",
+      "fonts.googleapis.com"
+    ]
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cyta.com.cy"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

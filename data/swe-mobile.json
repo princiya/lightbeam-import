@@ -1,0 +1,230 @@
+{
+  "5239714.fls.doubleclick.net": {
+    "hostname": "5239714.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.se": {
+    "hostname": "adservice.google.se",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.decibelinsight.net": {
+    "hostname": "cdn.decibelinsight.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "comviq-ui-cdn.azureedge.net": {
+    "hostname": "comviq-ui-cdn.azureedge.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d6tizftlrpuof.cloudfront.net": {
+    "hostname": "d6tizftlrpuof.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imp.nowinteract.com": {
+    "hostname": "imp.nowinteract.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nowinteract-nowinteractnordi.netdna-ssl.com": {
+    "hostname": "nowinteract-nowinteractnordi.netdna-ssl.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "online.adservicemedia.dk": {
+    "hostname": "online.adservicemedia.dk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rum-collector-2.pingdom.net": {
+    "hostname": "rum-collector-2.pingdom.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rum-static.pingdom.net": {
+    "hostname": "rum-static.pingdom.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "w.usabilla.com": {
+    "hostname": "w.usabilla.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.comviq.se": {
+    "hostname": "www.comviq.se",
+    "favicon": "data:image/x-icon;base64,AAABAAIAEBAQAAEABAAoAQAAJgAAACAgEAABAAQA6AIAAE4BAAAoAAAAEAAAACAAAAABAAQAAAAAAIAAAAARCwAAEQsAABAAAAAQAAAAZ294ALXJ2QC1y9cAhJCZACAgJAC3ytkAt8rXAEVIUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGJRUlElVSZRJWUWIlIlUSZVFWBERDVVYVEWBEREQyJhIiZEQwRHVVFhVUQGF0clJhEVRAInR2UVFiZEBlUiJiYWIUQFViIRJhEVRAJnR2UVZVVEBSdHVSYiJkRDBEdREVEWBEREQyJhVRVgREQxVWUlZRYiERVSIWJRUlEmVRUVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAgAAAAQAAAAAEABAAAAAAAAAIAABELAAARCwAAEAAAABAAAAC2ydgABAQEAJWlsgBPWF8Ao7TAAHyJkwCwwM8AsMLNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGZFVVVgAAAAAAAAAAAAAAAFEREREwAAAAAAAAAAAAAAERERERESAAAAAAAAAAAAYRERERERE0YAAAAAAAAABlEREyIjERFQAAAAAAAAAAAxEVcAADERNgAAAAAAAAAEERFgAABxERQAAAAAAAAAAhETAAAAAxESAAAAAAAAAAIREwAAAAMREgAAAAAAAAACERMAAAADERIAAAAAAAAAAhETAAAAAAAAAAAAAAAAAAIREwAAAAAAAAAAAAAAAAACERMAAAAAAAAAAAAAAAAAAhETAAAAAAAAAAAAAAAAAAIREwAAAAAAAAAAAAAAAAACERMAAAAAAAAAAAAAAAAAAhETAAAABCImAAAAAAAAAAIREwAAAAMREgAAAAAAAAACERMAAAADERIAAAAAAAAAAhERAAAAARESAAAAAAAAAAAREVAAAFEREAAAAAAAAAAAMRETIiMREVYAAAAAAAAAAAERERERERFgAAAAAAAAAAAEEREREREUAAAAAAAAAAAAAGMRERETQAAAAAAAAAAAAAAARVVVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "rum-static.pingdom.net",
+      "comviq-ui-cdn.azureedge.net",
+      "fonts.googleapis.com",
+      "www.google-analytics.com",
+      "www.googletagmanager.com",
+      "5239714.fls.doubleclick.net",
+      "bat.bing.com",
+      "online.adservicemedia.dk",
+      "nowinteract-nowinteractnordi.netdna-ssl.com",
+      "www.googleadservices.com",
+      "adservice.google.com",
+      "cdn.decibelinsight.net",
+      "adservice.google.se",
+      "imp.nowinteract.com",
+      "connect.facebook.net",
+      "www.google.se",
+      "googleads.g.doubleclick.net",
+      "www.google.com",
+      "www.facebook.com",
+      "w.usabilla.com",
+      "rum-collector-2.pingdom.net",
+      "d6tizftlrpuof.cloudfront.net"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.se": {
+    "hostname": "www.google.se",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.comviq.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

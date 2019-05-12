@@ -1,0 +1,260 @@
+{
+  "5452414.fls.doubleclick.net": {
+    "hostname": "5452414.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.be": {
+    "hostname": "adservice.google.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "belgacom.dimelochat.com": {
+    "hostname": "belgacom.dimelochat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent-pref.trustarc.com": {
+    "hostname": "consent-pref.trustarc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent-st.trustarc.com": {
+    "hostname": "consent-st.trustarc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent.trustarc.com": {
+    "hostname": "consent.trustarc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent.truste.com": {
+    "hostname": "consent.truste.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images-mds.staticskynet.be": {
+    "hostname": "images-mds.staticskynet.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prefmgr-cookie.truste-svc.net": {
+    "hostname": "prefmgr-cookie.truste-svc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "proximus.demdex.net": {
+    "hostname": "proximus.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "proximusnv.tt.omtrdc.net": {
+    "hostname": "proximusnv.tt.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "smetrics.proximus.be": {
+    "hostname": "smetrics.proximus.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "weather-api.additionly.com": {
+    "hostname": "weather-api.additionly.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.be": {
+    "hostname": "www.google.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.proximus.be": {
+    "hostname": "www.proximus.be",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAAAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8BkS1cH5EtXIWRLVyLkS1cKf///wH///8B////Af///wH///8B////AZEtXCmRLVyNkS1ciZEtXB////8BkS1cS5EtXOeRLVz/kS1c/5EtXP2RLVw7////Af///wH///8B////AZEtXDuRLVz9kS1c/5EtXP+RLVznkS1cS5EtXL2RLVz/kS1cmZEtXIuRLVz/kS1c55EtXA////8B////AZEtXA+RLVznkS1c/5EtXI2RLVyZkS1c/5EtXL2RLVy9kS1c/5EtXJf///8BkS1cnZEtXP+RLVx3////Af///wGRLVx1kS1c/5EtXKP///8BkS1ck5EtXP+RLVy9kS1cXZEtXPeRLVz/kS1ckZEtXIORLVz/kS1cw////wH///8BkS1cx5EtXP+RLVx5kS1ci5EtXP+RLVz3kS1cXf///wGRLVw5kS1c9ZEtXP+RLVz/kS1c/5EtXP+RLVzLkS1cy5EtXP+RLVz/kS1c/5EtXP+RLVz1kS1cOf///wH///8B////AZEtXA+RLVx3kS1cy5EtXP+RLVz/kS1c/5EtXP+RLVz/kS1c/5EtXNGRLVx3kS1cDf///wH///8B////Af///wH///8B////Af///wGRLVzLkS1c/////wH///8BkS1c/5EtXMv///8B////Af///wH///8B////Af///wH///8B////Af///wH///8BkS1cy5EtXP////8B////AZEtXP+RLVzL////Af///wH///8B////Af///wH///8B////AZEtXA+RLVx3kS1cz5EtXP+RLVz/kS1c/5EtXP+RLVz/kS1c/5EtXNGRLVx3kS1cDf///wH///8B////AZEtXDmRLVz1kS1c/5EtXP+RLVz/kS1c/5EtXMuRLVzLkS1c/5EtXP+RLVz/kS1c/5EtXPWRLVw5////AZEtXF2RLVz3kS1c/5EtXJWRLVx5kS1c/5EtXMn///8B////AZEtXMeRLVz/kS1ceZEtXI2RLVz/kS1c95EtXF2RLVy9kS1c/5EtXJf///8BkS1cm5EtXP+RLVx1////Af///wGRLVx1kS1c/5EtXKP///8BkS1cl5EtXP+RLVy9kS1cvZEtXP+RLVyZkS1ci5EtXP+RLVznkS1cD////wH///8BkS1cD5EtXOeRLVz/kS1ci5EtXJmRLVz/kS1cvZEtXEuRLVznkS1c/5EtXP+RLVz9kS1cO////wH///8B////Af///wGRLVw7kS1c/ZEtXP+RLVz/kS1c55EtXEv///8BkS1cS5EtXMmRLVzNkS1cW////wH///8B////Af///wH///8B////AZEtXFuRLVzNkS1cyZEtXEv///8BAAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//w==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "tags.tiqcdn.com",
+      "consent.truste.com",
+      "consent.trustarc.com",
+      "consent-pref.trustarc.com",
+      "consent-st.trustarc.com",
+      "prefmgr-cookie.truste-svc.net",
+      "www.google-analytics.com",
+      "dpm.demdex.net",
+      "smetrics.proximus.be",
+      "proximus.demdex.net",
+      "www.google.be",
+      "belgacom.dimelochat.com",
+      "proximusnv.tt.omtrdc.net",
+      "weather-api.additionly.com",
+      "connect.facebook.net",
+      "www.googletagmanager.com",
+      "static.hotjar.com",
+      "www.facebook.com",
+      "vars.hotjar.com",
+      "script.hotjar.com",
+      "5452414.fls.doubleclick.net",
+      "adservice.google.com",
+      "adservice.google.be",
+      "www.skynet.be",
+      "images-mds.staticskynet.be"
+    ]
+  },
+  "www.skynet.be": {
+    "hostname": "www.skynet.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.proximus.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

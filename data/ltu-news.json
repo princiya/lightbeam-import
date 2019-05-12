@@ -1,0 +1,1559 @@
+{
+  "a.audrte.com": {
+    "hostname": "a.audrte.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "acdn.adnxs.com": {
+    "hostname": "acdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.360yield.com": {
+    "hostname": "ad.360yield.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.yieldlab.net": {
+    "hostname": "ad.yieldlab.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "admp-tc-delfilt.adtlgc.com": {
+    "hostname": "admp-tc-delfilt.adtlgc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adnet-d.openx.net": {
+    "hostname": "adnet-d.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.betweendigital.com": {
+    "hostname": "ads.betweendigital.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.pubmatic.com": {
+    "hostname": "ads.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.yieldmo.com": {
+    "hostname": "ads.yieldmo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.lt": {
+    "hostname": "adservice.google.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adx.adform.net": {
+    "hostname": "adx.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ag.innovid.com": {
+    "hostname": "ag.innovid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "as-sec.casalemedia.com": {
+    "hostname": "as-sec.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "banners.adnetmedia.lt": {
+    "hostname": "banners.adnetmedia.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bbcdn-bbnaut.ibillboard.com": {
+    "hostname": "bbcdn-bbnaut.ibillboard.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bbcdn-static.bbelements.com": {
+    "hostname": "bbcdn-static.bbelements.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bbnaut.bbelements.com": {
+    "hostname": "bbnaut.bbelements.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bbnaut.ibillboard.com": {
+    "hostname": "bbnaut.ibillboard.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bbnaut.m6r.eu": {
+    "hostname": "bbnaut.m6r.eu",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bcp.crwdcntrl.net": {
+    "hostname": "bcp.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bucket.mlcdn.com": {
+    "hostname": "bucket.mlcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c1.adform.net": {
+    "hostname": "c1.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.digitru.st": {
+    "hostname": "cdn.digitru.st",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.onesignal.com": {
+    "hostname": "cdn.onesignal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "certify-js.alexametrics.com": {
+    "hostname": "certify-js.alexametrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "certify.alexametrics.com": {
+    "hostname": "certify.alexametrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.adform.net": {
+    "hostname": "cm.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.adsafety.net": {
+    "hostname": "cm.adsafety.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cmp.digitru.st": {
+    "hostname": "cmp.digitru.st",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cms.quantserve.com": {
+    "hostname": "cms.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.createjs.com": {
+    "hostname": "code.createjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.jquery.com": {
+    "hostname": "code.jquery.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code3.adtlgc.com": {
+    "hostname": "code3.adtlgc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collector.cint.com": {
+    "hostname": "collector.cint.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cookiex.ngd.yahoo.com": {
+    "hostname": "cookiex.ngd.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csi.gstatic.com": {
+    "hostname": "csi.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cx.atdmt.com": {
+    "hostname": "cx.atdmt.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.agkn.com": {
+    "hostname": "d.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d5p.de17a.com": {
+    "hostname": "d5p.de17a.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dclk-match.dotomi.com": {
+    "hostname": "dclk-match.dotomi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dis.criteo.com": {
+    "hostname": "dis.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dmp.adform.net": {
+    "hostname": "dmp.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsum-sec.casalemedia.com": {
+    "hostname": "dsum-sec.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ebs2.delfi.lt": {
+    "hostname": "ebs2.delfi.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eu-u.openx.net": {
+    "hostname": "eu-u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eus.rubiconproject.com": {
+    "hostname": "eus.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fastlane.rubiconproject.com": {
+    "hostname": "fastlane.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fcmatch.youtube.com": {
+    "hostname": "fcmatch.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "files.cvonline.lt": {
+    "hostname": "files.cvonline.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mail.google.com",
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g.dcdn.lt": {
+    "hostname": "g.dcdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g.delfi.lt": {
+    "hostname": "g.delfi.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g1.acdn.lt": {
+    "hostname": "g1.acdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g1.dcdn.lt": {
+    "hostname": "g1.dcdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g2.acdn.lt": {
+    "hostname": "g2.acdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g2.dcdn.lt": {
+    "hostname": "g2.dcdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g3.acdn.lt": {
+    "hostname": "g3.acdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g3.dcdn.lt": {
+    "hostname": "g3.dcdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g4.acdn.lt": {
+    "hostname": "g4.acdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g4.dcdn.lt": {
+    "hostname": "g4.dcdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "galt.hit.gemius.pl": {
+    "hostname": "galt.hit.gemius.pl",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "global.ib-ibi.com": {
+    "hostname": "global.ib-ibi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "go.eu.bbelements.com": {
+    "hostname": "go.eu.bbelements.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gs.delfi.lt": {
+    "hostname": "gs.delfi.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gum.criteo.com": {
+    "hostname": "gum.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hbopenbid.pubmatic.com": {
+    "hostname": "hbopenbid.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ctnsnet.com": {
+    "hostname": "i.ctnsnet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.cxense.com": {
+    "hostname": "id.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id5-sync.com": {
+    "hostname": "id5-sync.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ih.adscale.de": {
+    "hostname": "ih.adscale.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image2.pubmatic.com": {
+    "hostname": "image2.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image4.pubmatic.com": {
+    "hostname": "image4.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image6.pubmatic.com": {
+    "hostname": "image6.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.adscale.de": {
+    "hostname": "js.adscale.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "keytarget.adnet.lt": {
+    "hostname": "keytarget.adnet.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lijuke.panel.kantartns.lt": {
+    "hostname": "lijuke.panel.kantartns.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lisource.panel.kantartns.lt": {
+    "hostname": "lisource.panel.kantartns.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lisslpagestat.panel.kantartns.lt": {
+    "hostname": "lisslpagestat.panel.kantartns.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "load77.exelator.com": {
+    "hostname": "load77.exelator.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ls.hit.gemius.pl": {
+    "hostname": "ls.hit.gemius.pl",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lt.hit.gemius.pl": {
+    "hostname": "lt.hit.gemius.pl",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.adnxs.com": {
+    "hostname": "m.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mail.google.com": {
+    "hostname": "mail.google.com",
+    "favicon": "data:image/x-icon;base64,AAABAAIAICAAAAEACACoCAAAJgAAABAQAAABAAgAaAUAAM4IAAAoAAAAIAAAAEAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIzCqACQxrAAmMqwAJTOtACUysgAlM7MAKTSvACYztAAmNLEAJjS1ACY0tgAmNLcAJjS4ACc1tQAnNbYAJzW3ACs4rQAtObkALjvCADA8wgAwPcIANkK2ADJAwgA5RLwAMkDMADRB0AA1Q9AANkLUADRD0wA1Q9MANUTTADZE0wA9SMYAN0TWADZF0wA3RNgAOEXVADxIygA3RdYAOkjLADdG1AA5SM0AO0nJADpIzQA4R9QAOEXbADpG1wA5R9QAO0jRADhG2QA6R9UAPkrKADhG2wA6SNQAP0vLADtJ1AA/S8wAOUfcADtK1AA6SNwAO0jcADxK1QA7SdwAPEncAD1L1QA9StoAQ07LADxK3AA/S9gARVDIAD1L3ABGUcUAPkvcAEFN1wBCTtQAP0zdAD9N3QBATtoAQE7dAEFO3QBCT90AQlDbAENQ3QBEUdoARFHdAE1XxgBFUd0ATljGAE9YxgBPWcMARVLeAEZT3QBJVt0ATFndAFpjvQBOW90AXWXDAFZj3wBcZ+AAXWjgAHN5uwBmceEAanXhAHmAxwB8gsgAgoa6AH6DygB9hOIAiY3DAIOL5ACUl7kAiZHkAIqS5ACfo8kAq6y8AKusvQCfpOYAsrK6AKKo5wCwssQAqK3lAK2x5wDAv70AurzPAMHBvwDCwb8AwL/KAMXEwgDGxcMAxcXEAMXFxgDJyMYAyMjHAMvKyQDBxOkAwsXqAM7OzgDR0dAA09LRANPS0gDT09MA09PUANTU0wDU1NUAzM/qAMzP6wDV1dQAzc/rANbW1QDO0esA19fWANfX1wDY2NcA2dnYANrZ2ADa2tkA29rZANra2gDb29oA3NvaANvb2wDc3NsA3dzbANzc3ADd3dwA3d3dAN7e3QDf3t0A3t7eAN/e3gDf394A4ODfAOHg4ADh4d8A4eHhAOLi4QDi4uIA4+PiAOPj4wDk5OMA5OTkAOXl5ADl5eUA4uPtAObl5QDj5O0A5ubmAOPk7gDk5e4A5+fnAOjo5wDo6OgA6enpAOrq6gDr6+sA7OzsAO3t7QDu7u4A7+/vAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8cWGBizr6+vr6+vr6+vr6+vraGkp6qrrQQEEMfHx8fHFBwcHLrEwcDAwMDAwMDAwL6vsbK0uLq9DAwMAMfHx8ccHBwcsLTEwsDAwMDAwMC9q6yusbK1uLoLDAwMx8fHxx0dHR6wsLDCw8DAwMDAuqapqqyvsbS1uA8MDAzHx8fHHx8fHrCwsLC9xMDAwLqhn6Spq6yvsrS4Cw8MDMfHx8cfHx8fsLCwsLC2xMG4mZmen6Spq66xsrUKDwwMx8fHxyIiIiKwsLCwsLCwv5aUmJmhoqaqrK+ytAoLDwzHx8fHKCgoIrCwsLCwsKWFio6JkpyhpKmrrrGyCgoPDMfHx8coKCgosLCwsLCkg4SBaGqCjJufpqqsr7IJCgsPx8fHxywsLCywsLCwoYB/c1cuLlh3i52kqauusQkKCw/Hx8fHLy8vL7CwsKB9emk2Pjw8OzNsiJqmqqyvDQoKD8fHx8c1NTU1sLCjfHVeMkM+Pzw8OyRgfpemrK8NCQoLx8fHxzc3NzWwo31uR0FGQ0NbWzw7OzFFcY+mrg0JCgvHx8fHNzc3N6N6ZDBLSEZGY5ORYjw7OzkaZ42oDQ4KC8fHx8c9PTopcllETEtLSHDGxsXFbzs7OTkhVXsIDQoLx8fHxz09KxVCT05MTFyHxsbGxcXFhlY5OTQ0JQYDBwvHx8fHQCcXSVBPT05mu8bGxsbFxcXFuWU5OTQ0GxEBBcfHx8cqIFFSUlBPdsbGxsbGxsbFxcXFxXQ5NDQtIxMCx8fHxzhUVFJSYZXGxsbGxsbGxsXFxcXFxZBfNC0tLRLHx8fHSlpUUm28xsbGxsbGxsbGxcXFxcXFxbdrLS0tGcfHx8fHU115xMTExMTExMTExMTEw8PDw8PDw8N4TSbHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f//////////////////////////+AAAAfAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAAD4AAAB////////////////////////////////ygAAAAQAAAAIAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiLqEAIy+kACUysgAlM7EAJjS1ACY0tgAmNLcAJzW0ACY0uAAnNbUAJzW3AC06uwAzP7UANUC1ADE9wgA2QrAAMkDMADlFvgA1Q9AANEPTADVD0wA2RNMAOEXQADtIxQA3RNYANkXTADlHzAA8SMgAOkfQADhH1AA+SsgAOkbXADlH1AA4RtsAO0fXAEBLyAA8SdEAO0nUADlH3AA6SNwAO0jcADxJ3AA8StwAPUvcAEFN2AA/TN0AQU7dAERR1wBDUN0ARFHdAEpX2gBVYMMAV2DGAFBd3gBTX94AVWHdAHB2uAB3fsUAeX/FAHyCyAByfOIAiYyvAHZ/4gCen6gAmp7CAKusrACfpOYAoqjnALS1wAC+vsAAwMHCAMTFxwDHx8cAy8vMAM7NzgDP0M8Ays3oANPT1ADMz+kAzM/rANbV1QDN0OsA2dnYANrZ2ADa2toA3NzbAN3d3ADe3twA3t7dAN/e3gDf394A4N/gAODg3wDg4OAA4eDgAOHh4ADh4eEA4eHiAOLi4QDi4uIA4+PiAOPj4wDk5OQA5eXkAObl5QDj5O0A4+TuAOnp6QDq6uoA6+vrAOzs7ADt7e0A7u7uAO/v7wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJyFxBnYmJiYmJaVVdcAg9ychQTZm9sa2tmWmBlaAYIcnIVFWNjbW1fU1ZaYmYGCHJyGRljY2NURUhSWF5kBQpych0dY2FKQTo7RlBZYAQGcnIgIF1JPzMiHzRETVsJBXJyJRxHPSMrKikoG0BLBwVychoMOCQtNlFPNScSOQADcnINESwuPmpxcWk8JhgLAXJyHjEwQ3FxcXFwcEIhIQ5yci83Tm9vb29vbm5uTDIWcnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycv//AAD//wAAgAEAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABAAD//wAA//8AAP//AAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.gstatic.com",
+      "www.google.com"
+    ]
+  },
+  "match.adsrvr.org": {
+    "hostname": "match.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maxcdn.bootstrapcdn.com": {
+    "hostname": "maxcdn.bootstrapcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "medianet-match.dotomi.com": {
+    "hostname": "medianet-match.dotomi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "my.ieye.lt": {
+    "hostname": "my.ieye.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "my.rtmark.net": {
+    "hostname": "my.rtmark.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "onesignal.com": {
+    "hostname": "onesignal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.rfihub.com": {
+    "hostname": "p.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.solocpm.com": {
+    "hostname": "p.solocpm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pdw-adf.userreport.com": {
+    "hostname": "pdw-adf.userreport.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ping.chartbeat.net": {
+    "hostname": "ping.chartbeat.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pippio.com": {
+    "hostname": "pippio.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.advertising.com": {
+    "hostname": "pixel.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pr-bh.ybp.yahoo.com": {
+    "hostname": "pr-bh.ybp.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prebid-eu.creativecdn.com": {
+    "hostname": "prebid-eu.creativecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ps.eyeota.net": {
+    "hostname": "ps.eyeota.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pubmatic-match.dotomi.com": {
+    "hostname": "pubmatic-match.dotomi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "q.delfi.lt": {
+    "hostname": "q.delfi.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r.turn.com": {
+    "hostname": "r.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rm.em.nscontext.eu": {
+    "hostname": "rm.em.nscontext.eu",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtbcc.fyber.com": {
+    "hostname": "rtbcc.fyber.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1-af.dcdn.lt": {
+    "hostname": "s1-af.dcdn.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.adform.net": {
+    "hostname": "s1.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sc-static.net": {
+    "hostname": "sc-static.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scdn.cxense.com": {
+    "hostname": "scdn.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scomcluster.cxense.com": {
+    "hostname": "scomcluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "search.yahoo.com": {
+    "hostname": "search.yahoo.com",
+    "favicon": "data:image/x-icon;base64,AAABAAIAICAAAAEAIACoEAAAJgAAABAQAAABACAAaAQAAM4QAAAoAAAAIAAAAEAAAAABACAAAAAAAIAQAAAAAAAAAAAAAAAAAAAAAAAAhAA7/3ADNchvBDaHbwU2RGQAMAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZAAwBW8FNkRvBDaHbwM0x4QAO/+EADv/cAAz/28AM/9uADP/cQAz+W4BM99yAzfAbgQ1mG8FNnVwBzhQbgU3KWkAMg0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG0AMwtuBTYqcQc4UG8FN3RuBDWbbgM0vm4BM95xADP5bgAz/24AM/9wADP/hAA7/4QAO/9xADP/cwA0/3MANP92ADX/cQA0/3IANP9xADT/cQE0/3EBNf9xAjX/cQI1/3ECNPtwAzT2cgM17nADNO5xAzTucQM07nEDNfRxAjT7cgI1/3ECNf9xAjX/cQE1/3EBNP9xADP/cgA0/3UANf9zADT/cgAz/3AAM/+EADv/hAA7/3QANf93ADX/dgA1/3kANv91ADX/dwE2/3gBN/94Ajf/dwI3/3gCOP95Azj/eQM5/3oEOf96BDn/dgQ3/3cEOf95BDn/egQ5/3YEOP92Azf/dgM4/3YCN/92Ajb/dgI2/3YBNv96ATf/eAA2/3YANf90ADX/cgAz/4QAO/+EADv/dQA1/3gANv97ADf/eQA2/3kBN/96ATj/fAI4/30COf9/Azv/gAQ8/4EEPP9+BDz/fwQ8/4AFPP97BTr/fAU7/30FO/96BTr/ewQ6/3wEOv96BDr/ewQ6/3sDOf97Ajn/gAI6/3sBOP98ATj/dwA2/3QANf90ADX/hAA7/4QAO/92ADX/egA3/38AOf99ATj/fQE5/38COf+AAjv/gAM7/4IEPP+DBD3/ggU9/4MFPv+EBT7/hQU//4AGPf+BBj7/ggY+/4MFPv+EBT7/hAU+/4UFPv+ABDz/gAQ8/4ADO/+FAjz/hAI8/3wBOP9+ATj/eQA2/3QANf+EADv/hAA7/3cANf9/ADn/ggA7/4ABO/+CAjv/ggI7/4QDPP+FBD7/hgQ+/4YFP/+JBUD/iQZB/4gHQf/Vprv/+vX4//r1+P/Wqb3/iAdA/4kHQf+JBkH/hgU//4UFPv+FBD7/hQQ+/4gDPv+HAj3/gwI7/4MBPP99ADj/dgA1/4QAO/+EADv/egA3/4EAOv+GATz/hgI8/4gCPv+JAz//igQ//4sFQf+MBUH/jQZC/44HQ/+OB0P/jwdE/9Sft////////////9Ogt/+NCET/jgdD/40HQv+OB0P/jgZD/44FQv+OBUL/igQ//4gDPv+KAj7/hQI8/30BOP96ADf/hAA7/4QAO/9/ADn/hQE8/4wBP/+JAj7/iQM//4sEQP+MBEH/jgVC/48GQ/+QB0T/kQdF/5MIRv+UCEb/1Jq0////////////1Z22/5UIR/+VCEb/lQhH/5QHRv+UB0X/kgZE/5IFRP+RBEL/kQRB/4sDQf+IAj7/hQE8/3oBOP+EADv/hAA7/38AOP+IAT3/kQJB/48CQf+PBEH/kQRC/5IFRP+UBkT/lQdG/5QHRv+VCEb/lwhI/5gJSP/Qjqv////////////Qkaz/lwpI/5YJSP+WCEj/lQhH/5QHR/+UB0b/lAZF/5IFRP+SBEL/jgRB/44CQf+FAjz/egE4/4QAO/+EADv/gwA7/4wBP/+WAkP/lANE/5QEQ/+VBUT/lwVG/5gHR/+aB0j/mwhJ/5sISv+bCkr/nApL/9GMqv///////////9GMq/+eCkz/mwpK/5oKSv+ZCEn/mQhI/5kHSP+YB0f/lwVG/5UFRP+VBET/kANC/4UCPP94ATf/hAA7/4QAO/96ATj/kQFB/5cCRP+XA0X/mgRH/5sFR/+cBkj/nQdJ/54ISv+fCEv/oApM/6EKTf+hC07/zoCj////////////0IWn/6ALTf+fC03/ngpM/54KS/+dCEv/nQhK/5wHSf+gBkr/ngVI/5oER/+UA0T/iAI+/4IBO/+EADv/hAA7/4YBO/+UAkL/mgJF/50ER/+gBEj/oQVK/6MHS/+jB0v/pAhN/6UJTv+mCk//pgtP/6cLUP/Od53////////////Oe6D/pgxQ/6YLUP+mC0//pwpQ/6IJTf+hCE3/oAdL/6EHS/+fBUj/mgRG/5kERv+RAkL/gwI7/4QAO/+EADv/jAE//5cCQ/+gA0j/oARI/6MFS/+kBUv/pAdN/6YITf+mCE7/qApQ/6kKUP+qC1L/qwxT/9B3n////////////893n/+qDVP/qgxT/6oLUv+qClH/qgpR/6UITv+lCE3/pAdN/6EFSv+gBUr/mQRG/48DQv9+Ajn/hAA7/4QAO/+JAT7/mAJF/6QDSv+lBEv/pwVN/6gGTf+pB0//qghQ/6wIUP+qClH/rAtR/60LU/+vDVT/03mi////////////0nqi/64NVf+uDVT/rQtU/60LU/+qClH/qQhQ/6kIT/+nB07/qgZO/6QFS/+aBEb/jANB/4YCPP+EADv/hAA7/4sBPv+dAkf/oANJ/60ETv+uBU//rwZQ/7AHUP+wCFL/sQlT/7EKVP+yC1T/sgtW/7MNV//vzNv////////////vzdz/sw5Y/7QNV/+yC1b/sgtV/7IKVP+xCVP/sQhT/68HUP+qBk7/qgVO/54ESP+VA0X/iwI+/4QAO/+EADv/jAE//6ECSP+mA0v/rQRO/68FUP+wBlH/sAdR/7EIU/+xCFP/sgpU/7MLVf+zC1b/wz55///////////////////////GQX3/uA1Z/7MLVv+0C1b/swpV/7QIVP+1CFT/sAdR/6wGUP+qBU7/nQRH/5QDRP+IAj7/hAA7/4QAO/+OAUD/pAJK/60DTv+2BFL/uAVU/7gFVf+5B1X/uQhW/7YIVf+7Clj/uwpY/7sLWf/13Of///////////////////////bd6P+7DFr/uAtX/7kKV/+6Clj/ughX/7gIVv+0B1P/sAVR/6sFTv+jBEr/mANG/4wCQP+EADv/hAA7/48BQP+nAkv/rgJP/7sEVP+8BFb/vAVX/74HV/++B1j/vghZ/78JWf+/Clr/01aM////////////+/D1//vw9f///////////9RZkP+8C1n/vApZ/70JWf++CFn/vwdY/7gHVf+zBVP/rwRQ/6EESv+YAkX/iwI//4QAO/+EADv/kQFB/6kBS/+yAlD/vQNV/8AEV//BBVj/wQZZ/8EHWf/BCFr/wQha/8EKW//56fD////////////WYJX/1l2T////////////+uvy/8IKXP/CClz/wgha/8IIW//CB1r/vwZX/7kFVP+zBFH/qQNM/54CSP+AATv/hAA7/4QAO/+TAEH/rQFN/7QCUf/CA1j/wQRX/8EFV//BBVn/wQda/8EHWf/FCFz/3nSi////////////9tvn/8QLXf/EC13/9trm////////////3nil/8QIW//FCFz/xwdc/8UHW//BBVn/vgVW/7IEUf+pA0z/nQJH/4ABOv+EADv/hAA7/5UAQv+wAU7/uQJT/8UCWP/HBFr/xwRb/8gFW//HBlz/xwdc/8gKXv/99fn////////////QOHv/xQpc/8UKXf/QNnr///7+///////99vn/yQ1g/8gHXf/IB1z/yQZc/8gFXP/GBFr/uwRV/7ECUP+aAkX/ggE7/4QAO/+EADv/lQBC/68BTv+5AVP/xQJZ/8cDWv/HBFr/xwRa/8cFW//HBlv/6Z6/////////////8L7U/8UIXP/FCFz/xQlc/8cIXP/wvNP////////////qocH/yQdc/8oGXf/KBVz/yARc/8UEWv+6A1T/sQJQ/6QBSv+DATv/hAA7/4QAO/+cAEb/swBQ/74BVf/IAlr/ygJa/8oDW//KBFz/ygVc/84ca//+/P3///////78/f/LGWj/xwhc/8UIXP/HCFz/xwhd/8sXZ//++/z////////9/v/PHWv/ygVd/8oFXf/LBFz/xANZ/7wCVP+tAk7/nwFH/4QAO/+EADv/hAA7/5cAQ/+yAE//vABU/8cBWv/IAlr/xgJZ/8cDWv/HBFr/88nb////////////5pi7/8IHWv/BB1r/xAda/8QHW//EB1v/xAdb/+WTt/////////////PL3f/IBFv/yARb/8gDWv/FAln/vgJV/7ABUP+sAE3/kgBB/4QAO/+EADv/lQBC/7AATv+5AFP/xQFY/8QBWP/DAlj/wgJY/9NKh/////////////z0+P+8B1f/ugVW/7kFVf+4BlX/uQZW/7oGVv+6BVb/uwZX//zy9////////////9JOiP/CA1j/xwJZ/8UCWf+7AVT/rwFP/6kAS/+QAED/hAA7/4QAO/+PAD//pgBK/68ATv+7AFT/uAFT/7YBUv+2AlH/9dzn//rt8//9+vz/0GqX/7EEUf+wBFH/sAVR/68FUP+wBVD/rwVQ/7AFUf+wBFH/z2OT//34+v/46fD/9Nfk/7gCU/++Alb/uwFU/7ABT/+nAEv/lQBC/4gAPf+EADv/hAA7/44AP/+mAEr/pgBK/6sATf+zAFD/sgFQ/6YBS/+mAkv/pQJL/6QCS/+lA0v/pANK/6QES/+kBEv/owRK/6MES/+hBEr/oQRK/6AESf+lA0v/pgNL/6YCS/+mAkv/pwJM/6wBTf+pAUz/pgBK/5cARP+VAEL/fwA6/4QAO/+EADv/gwA7/48AP/+UAEL/qgBM/6cASv+XAET/lwBE/5cBRP+XAUT/lgJE/5MCQ/+QAkL/jQJB/4kDP/+VA0X/lANE/5EDQ/+PA0L/jAJB/5cCRP+TAkP/kAJB/5cBRP+WAUT/qABL/6gAS/+VAEL/mABE/4gAPv97ADj/hAA7/4QAO/9+ADj/gwA7/44AP/+QAED/hQA7/38AOf97ADf/hQA7/4UBPP9xATT/cAE1/3ABM/xvAjT3bwI07oQCPe6AAjvufQI67ngCOPRzAjb8hQE8/4MBPP+CATv/ggE7/4AAOv+SAEH/kABA/5MAQf+CADv/egA3/3oAN/+EADv/hAA7/3YANf+AADr/fwA5/4AAOvtuATPfbgM0wXwEO5t4BDl3dQc6UG4FNyxqADIPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABuADQNbgQ3LHEHOFBwBTZ1bwQ2m4ADPL+CATvfggA7+4AAOv96ADf/dQA1/4QAO/+EADv/cgM2yG8ENopvBTZGcAA0BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwADQHcwU4RnQEN4pyAzbIhAA7/wf//+AAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8AAH///gKAAAABAAAAAgAAAAAQAgAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAG0AM/9tADP/bgAzw24AM2RxATUddAI1EHQCNhF0AjYQdAI2EXQCNhF0AjUQcQE1HG4AM2NuADPHbQAz/20AM/9vADP/dAA1/3UANf91ADX/dAE2/3QCNf90Ajb/dAI2/3QCNv90Ajb/dAI1/3QBNv91ADX/dQA1/3QANf9vADP/cQAz/3kANv99ADn/fgI5/34COf9+BTr/jhtI/////////v7/jhtI/34EOv9+Ajn/fgI5/34AOf95ADb/cQAz/3MANP+AADn/hgI7/4gDPf+JBD7/igVB/6MJTf///////v3+/6QITf+JBUH/iQQ+/4gDPf+HAjv/gAA5/3MANP91ADX/hgE7/48CQf+TBEP/kgZE/5MGRv+UB0b///////////+UB0b/kwZG/5MGRP+TBEP/jgJB/4YBO/91ADX/dwA1840CPv+WBEX/mwVG/5wGSP+cB0n/ngtL///////+/f3/ngtL/50HSf+cBkj/mwVG/5YERf+NAj7/dwA183gANuWTAkL/nwRI/6MGS/+jB03/pglP/60lWf///////v3+/6ofVv+mCU//owdN/6MGS/+eBEj/kgJC/3gANuV5ADfZmwJG/6YFS/+sBk//rQdR/60JUv/SYY3////////////QW4n/rglS/6wHUf+sBk//pQVL/5sCRv95ADfZeQA32Z8CR/+tBU//tAZS/7UHVP+3Clb///////////////////7+/7cKVv+1B1T/tAZS/6wFTv+fAkf/eQA32XsAOOWfAkf/tgRS/7sGVv+8B1f/14Kd///////aiqP/02WQ///+/v/Xgp3/vQdX/7wGVv+1BFH/nwJH/3sAOOV+ADnyrQJO/70EVf/FBVr/xAZb////////////xQdb/8UIXP///////////8UGW//FBVr/vQRV/6wCTv9+ADnygQA5/6oBS//DAlf/ygVd/9/P1f//////1WuU/8YHXP/GB1z/0mGN///////NiaL/ygRc/8MCV/+nAUr/gQA5/4IAOf+rAEv/wARX/8RffP///////////8IGWf/BBlj/wQZY/8IHWv///////////8Riff/BAlb/qwBL/4IAOf9/ADn/oABG/7EBUP/u3OT//////6wET/+rBE7/qQVN/6oFTv+rBE7/rQZQ///+///s1N7/sQBP/54ARf9/ADn/eAA2/4sAPf+UAEL/lQZG/44BQP+IAj3/iAI9/4UCPP+FAjz/iAI9/4gCPf+OAUD/kwBC/5QAQv+KAD3/eAA2/20AM/9vADT/cAA0w3MANWSAATsdiAI9EIgCPRCFAjwQhQI8EYgCPRGIAj0QgAE6HHMANWNwADTHbwA0/20AM/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "server.seadform.net": {
+    "hostname": "server.seadform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage2.pubmatic.com": {
+    "hostname": "simage2.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage4.pubmatic.com": {
+    "hostname": "simage4.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp1cluster.cxense.com": {
+    "hostname": "sp1cluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static-trackers.adtarget.me": {
+    "hostname": "static-trackers.adtarget.me",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.chartbeat.com": {
+    "hostname": "static.chartbeat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.criteo.net": {
+    "hostname": "static.criteo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.mailerlite.com": {
+    "hostname": "static.mailerlite.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.1dmp.io": {
+    "hostname": "sync.1dmp.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.teads.tv": {
+    "hostname": "sync.teads.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.bluekai.com": {
+    "hostname": "tags.bluekai.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "token.rubiconproject.com": {
+    "hostname": "token.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tr.snapchat.com": {
+    "hostname": "tr.snapchat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.mailerlite.com": {
+    "hostname": "track.mailerlite.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trackers.adtarget.me": {
+    "hostname": "trackers.adtarget.me",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ts.delfi.lt": {
+    "hostname": "ts.delfi.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "uipglob.semasio.net": {
+    "hostname": "uipglob.semasio.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us-u.openx.net": {
+    "hostname": "us-u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vendorlist.consensu.org": {
+    "hostname": "vendorlist.consensu.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.alio.lt": {
+    "hostname": "www.alio.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.cvonline.lt": {
+    "hostname": "www.cvonline.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.delfi.lt": {
+    "hostname": "www.delfi.lt",
+    "favicon": "data:image/x-icon;base64,AAABAAQAQEAAAAEAIAAoQAAARgAAACAgAAABACAAKBAAAG5AAAAYGAAAAQAgACgJAACWUAAAEBAAAAEAIAAoBAAAvlkAACgAAABAAAAAgAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbcAPc4HQD7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7dtvA+3bbwPt228D7eB0A+3bcAPc3HED8+l4A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//peAP/3HED89tvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3bbwPt43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bbwPt228D7eN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/228D7dtvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3bbwPt43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bbwPt228D7eN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/228D7dtvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3bbwPt43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bbwPt228D7eN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/228D7dtvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yAv/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3bbwPt43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/9tqAP/baAD/22gA/9toAP/baAD/22gA/9toAP/baAD/22gA/9toAP/baAD/22gA/9toAP/baAD/22gA/9toAP/baAD/2mcA/9pnAP/baAD/22wA/9xvAP/dcgL/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bbwPt228D7eN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XIC/9xtAf/srm//88+r//PNqP/zzaj/882o//PNqP/zzaj/882o//PNqP/zzaj/882o//PNqP/zzaj/882o//PNqP/zzKb/8sed/+++jP/ssHL/6J5U/+KJL//edgv/22kA/9pnAP/cbQD/3XIC/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/228D7dtvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91xAf/cbAD/+eXQ//////////////////////////////////////////////////////////////////////////////////////////////////////////7/++3g//TRrf/qqGb/4H8e/9toAP/bagD/3XIC/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3bbwPt43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcQH/3GwA//fdwv////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////338f/yyaD/44s1/9pnAP/cbQD/3XMD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bbwPt228D7eN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XEB/9xsAP/33cL////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+/v/xxZr/33oX/9pnAP/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/228D7dtvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91xAf/cbAD/993C////////////////////////////////////////////882m/+GDLv/jjDL/5I86/+edU//ttn//9de5//338f////////////////////////////////////////////////////////////vu4f/llEb/2mYA/91yAv/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3bbwPt43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcQH/3GwA//fdwv///////////////////////////////////////////++/jf/YYAD/22sA/9tqAP/baAD/2mYA/9tqAP/gfh3/66tu//nl0f////////////////////////////////////////////////////////79/+mkYP/aZgD/3XIC/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bbwPt228D7eN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XEB/9xsAP/33cL////////////////////////////////////////////wwpL/2mcA/91yA//dcgP/3XID/91yA//dcgL/3G0A/9pmAP/ccAX/6aZl//zy5///////////////////////////////////////////////////////6KBY/9pmAP/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/228D7dtvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91xAf/cbAD/993C////////////////////////////////////////////8MKS/9pnAP/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3HAA/9plAP/ffBz/9da3//////////////////////////////////////////////////77+P/jijL/22kA/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3bbwPt43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcQH/3GwA//fdwv////////////////////////////////////////////DCkv/aZwD/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcwP/22sA/9trAf/yyJ3/////////////////////////////////////////////////+eXQ/91wBv/ccAH/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bbwPt228D7eN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XEB/9xsAP/33cL////////////////////////////////////////////wwpL/2mcA/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//cbgD/22oA//TRrf/////////////////////////////////////////////////sr3D/2mYA/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/228D7dtvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91xAf/cbAD/993C////////////////////////////////////////////8MKS/9pnAP/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/9xsAP/edA3/+uvc////////////////////////////////////////////+/Hm/952Dv/cbwD/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3bbwPt43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcQH/3GwA//fdwv////////////////////////////////////////////DCkv/aZwD/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcwP/2mYA/+eaTP/////////////////////////////////////////////////qp2L/2mcA/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bbwPt228D7eN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XEB/9xsAP/33cL////////////////////////////////////////////wwpL/2mcA/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91xAf/bawD/993D////////////////////////////////////////////9tm8/9trAP/dcQH/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/228D7dtvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91xAf/cbAD/993C////////////////////////////////////////////8MKS/9pnAP/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/2mcA/+mkXf////////////////////////////////////////////759f/gfxv/3G4A/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3bbwPt43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcQH/3GwA//fdwv////////////////////////////////////////////DCkv/aZwD/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/9xuAP/gfhj//ffy////////////////////////////////////////////55tP/9toAP/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bbwPt228D7eN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XEB/9xsAP/33cL////////////////////////////////////////////wwpL/2mcA/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcQH/3GwA//fexP///////////////////////////////////////////+22fv/aZwD/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/228D7dtvA+3jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91xAf/cbAD/993C////////////////////////////////////////////8MKS/9pnAP/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/9pnAP/yx5z////////////////////////////////////////////yyqL/22gA/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9tvA+3fbQDt6HMA/+JwAP/icAD/4nAA/+JwAP/icAD/4nAA/+JwAP/icAD/4nAA/+JwAP/ibwD/4WoA//jcwP////////////////////////////////////////////LBj//fZAD/4nAA/+JwAP/icAD/4nAA/+JwAP/icAD/4nAA/+JwAP/icAD/4nAA/+JwAP/icAD/4nAA/+JwAP/fZAD/8bZ9////////////////////////////////////////////9ta1/+BpAP/ibwD/4nAA/+JwAP/icAD/4nAA/+JwAP/icAD/4nAA/+JwAP/icAD/4nAA/+hzAP/fbQDtzncW7dV7Fv/QeBX/0HgV/9B4Ff/QeBX/0HgV/9B4Ff/QeBX/0HgV/9B4Ff/QeBX/0HcU/85zEv/03sb////////////////////////////////////////////qxZr/zG4R/9B4Ff/QeBX/0HgV/9B4Ff/QeBX/0HgV/9B4Ff/QeBX/0HgV/9B4Ff/QeBX/0HgV/9B4Ff/QeBX/zG0Q/+Szff////////////////////////////////////////////Tfx//OcxL/0HcU/9B4Ff/QeBX/0HgV/9B4Ff/QeBX/0HgV/9B4Ff/QeBX/0HgV/9B4Ff/Vexb/zncW7S3A6e0uyO7/LcLs/y3C7P8twuz/LcLs/y3C7P8twuz/LcLs/y3C7P8twuz/LcLs/yzC7P8lwOv/zPD6////////////////////////////////////////////pOT3/x296/8twuz/LcLs/y3C7P8twuz/LcLs/y3C7P8twuz/LcLs/y3C7P8twuz/LcLs/y3C7P8twuz/LcLs/xy96v+K3fT////////////////////////////////////////////M8fv/JcDr/yzC7P8twuz/LcLs/y3C7P8twuz/LcLs/y3C7P8twuz/LcLs/y3C7P8twuz/Lsju/y3A6e0Zyf3tHND//xvK//8byv//G8r//xvK//8byv//G8r//xvK//8byv//G8r//xvK//8ayv//Esj//8jz/////////////////////////////////////////////5zo//8Kx///G8r//xvK//8byv//G8r//xvK//8byv//G8r//xvK//8byv//G8r//xvK//8byv//G8r//xvK//8Ixv//i+T/////////////////////////////////////////////vvD//xDI//8ayv//G8r//xvK//8byv//G8r//xvK//8byv//G8r//xvK//8byv//G8r//xzQ//8Zyf3tIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//H8j//xfG///J8v////////////////////////////////////////////+e5///D8T//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//D8T//6fp/////////////////////////////////////////////6vq//8QxP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67SDH+u0hzv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//x/I//8Xxv//yfL/////////////////////////////////////////////nuf//w/E//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//H8j//xfG///L8v////////////////////////////////////////////+M4v//DsT//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic7//yDH+u0gx/rtIc7//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8fyP//F8b//8ny/////////////////////////////////////////////57n//8PxP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//xnG//8yzf//8/z/////////////////////////////////////////////Ydj//xHE//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHO//8gx/rtIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//H8j//xfG///J8v////////////////////////////////////////////+e5///D8T//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8OxP//btz/////////////////////////////////////////////9v3//zXN//8Zxv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67SDH+u0hzv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//x/I//8Xxv//yfL/////////////////////////////////////////////nuf//w/E//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8fyP//FMX//8ny/////////////////////////////////////////////8Pw//8Uxf//H8j//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic7//yDH+u0gx/rtIc7//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8fyP//F8b//8ny/////////////////////////////////////////////57n//8PxP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hyP//DcT//2HY//////////////////////////////////////////////////903f//DsT//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHO//8gx/rtIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//H8j//xfG///J8v////////////////////////////////////////////+e5///D8T//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hyP//F8b//yTJ///f9//////////////////////////////////////////////o+f//J8r//xvH//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67SDH+u0hzv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//x/I//8Xxv//yfL/////////////////////////////////////////////nuf//w/E//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hyP//Gcf//xPF//+27f//////////////////////////////////////////////////gOD//w3E//8hyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic7//yDH+u0gx/rtIc7//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8fyP//F8b//8ny/////////////////////////////////////////////57n//8PxP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hyP//FcX//xbG//+p6v//////////////////////////////////////////////////1fX//xzH//8cx///IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHO//8gx/rtIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//H8j//xfG///J8v////////////////////////////////////////////+e5///D8T//yDI//8gyP//IMj//yDI//8gyP//IMj//yHI//8cx///DMP//zDM//+/7///////////////////////////////////////////////////+f3//0bR//8Sxf//Icj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67SDH+u0hzv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//x/I//8Xxv//yfL/////////////////////////////////////////////nuf//w/E//8gyP//IMj//yDI//8gyP//H8j//xjG//8Nw///HMf//3Td///r+v///////////////////////////////////////////////////////2na//8Nw///Icj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic7//yDH+u0gx/rtIc7//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8fyP//F8b//8ny/////////////////////////////////////////////5nm//8Ewf//FcX//xTF//8RxP//DcP//xTF//8zzf//e97//9b1/////////////////////////////////////////////////////////f///2/c//8NxP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHO//8gx/rtIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//H8j//xfG///J8v////////////////////////////////////////////+w6///O8///0jS//9O0///Zdn//4zi//+/7///8/z/////////////////////////////////////////////////////////////5Pj//1bV//8Nw///H8j//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67SDH+u0hzv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//x/I//8Xxv//yfL////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+////o+j//yzL//8PxP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic7//yDH+u0gx/rtIc7//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8fyP//F8b//8ny//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////L8//+p6v//SNL//w/E//8Yxv//Icj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHO//8gx/rtIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//H8j//xbG///V9f////////////////////////////////////////////////////////////////////////////////////////////////////////7////j+P//te3//3Xd//80zf//EMT//xTF//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67SDH+u0hzv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8Yxv//ft///7Ps//+w7P//sOz//7Ds//+w7P//sOz//7Ds//+w7P//sOz//7Ds//+w7P//sOz//7Ds//+w7P//ruv//6fp//+Z5v//guD//2bZ//9E0f//Jsr//xLF//8PxP//Gcb//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic7//yDH+u0gx/rtIc7//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Icj//xTF//8RxP//EcT//xHE//8RxP//EcT//xHE//8RxP//EcT//xHE//8RxP//EcT//xHE//8RxP//EcT//xHE//8QxP//DsT//w7E//8RxP//FsX//xzH//8fyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHO//8gx/rtIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67SDH+u0hzv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic7//yDH+u0gx/rtIc7//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHO//8gx/rtIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67SDH+u0hzv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic7//yDH+u0gx/rtIc7//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHO//8gx/rtIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67SDH+u0hzv//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic7//yDH+u0gx/rtIc7//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHO//8gx/rtIMf67SHO//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzv//IMf67R/H+/Mi1P//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//Ic7//yHO//8hzv//ItT//x/H+/MgxvncIcz77SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SDH+u0gx/rtIMf67SHM++0gxvncKAAAACAAAABAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN1xA97icwPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7uJzA+7dcQPe3XAD9Ol4A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/6XgD/91wA/TbcQPu43UD/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/23ED7ttxA+7jdQP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9txA+7bcQPu43UD/91yA//dcgP/3XID/91yA//dcgP/22oA/9toAP/baAD/22gA/9toAP/baAD/22gA/9toAP/baQD/22sA/9xuAP/dcQH/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/23ED7ttxA+7jdQP/3XID/91yA//dcgP/3XIC/91xA//mmEf/6KFZ/+ihV//ooVf/6KFX/+ihV//ooVj/6KFY/+ecTv/kjzf/4H0X/9xsAP/aZwD/3G8A/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/91yA//dcAD/3XIE//zx5//////////////////////////////////////////////////99u//9tvA/+urbf/edxD/2mcA/91yAv/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/43UD/9txA+7bcQPu43UD/91yA//dcgP/3XID/91wAP/dcgT/+urb//////////////////zx5//wwZT/8sig//fgyv///fz///////////////////////vt3//nnVP/2mcA/91xAv/dcgP/3XID/91yA//dcgP/3XID/91yA//jdQP/23ED7ttxA+7jdQP/3XID/91yA//dcgP/3XAA/91yBP/66tr/////////////////9tvA/9lhAP/aZgD/3GwA/+GEKf/vv4////79///////////////////////rrG7/2mcA/91yAv/dcgP/3XID/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/91yA//dcAD/3XIE//rq2v/////////////////33sX/3G0A/91xAf/dcQH/22sA/9pkAP/kjz3//PLo///////////////////////llUT/22gA/91yA//dcgP/3XID/91yA//dcgP/43UD/9txA+7bcQPu43UD/91yA//dcgP/3XID/91wAP/dcgT/+ura//////////////////fexf/cbQD/3XEB/91yA//dcgP/3XIC/9plAP/kjTX//vr3//////////////////nn1f/cbwX/3XAB/91yA//dcgP/3XID/91yA//jdQP/23ED7ttxA+7jdQP/3XID/91yA//dcgP/3XAA/91yBP/66tr/////////////////997F/9xtAP/dcQH/3XID/91yA//dcgP/3XID/9ljAP/vu4b//////////////////////+eaS//baAD/3XID/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/91yA//dcAD/3XIE//rq2v/////////////////33sX/3G0A/91xAf/dcgP/3XID/91yA//dcgP/22wA/+GDIf/++/j/////////////////8cWZ/9pnAP/dcgP/3XID/91yA//dcgP/43UD/9txA+7ibwDu6HMA/+JwAP/icAD/4nAA/+JuAP/icAD/++rZ//////////////////jdxP/hawD/4m8A/+JwAP/icAD/4nAA/+JwAP/ibgD/4W0A//rl0P/////////////////43sX/4WoA/+JvAP/icAD/4nAA/+JwAP/ocwD/4m8A7s51E+7WexT/0XgU/9F4FP/ReBT/0HYR/9F4Ff/469z/////////////////9N/J/89zEf/QdxL/0XgU/9F4FP/ReBT/0XgU/9F3E//OcA//8dm9//////////////////nq2//ReBP/0HYR/9F4FP/ReBT/0XgU/9Z7FP/OdRPuKsDr7i7H7/8swu7/LMLu/yzC7v8pwe7/LcLu/+D2/P/////////////////O8fv/JcDu/yvC7v8swu7/LMLu/yzC7v8swu7/LMPu/yG/7f/E7fn/////////////////3vb9/yzD7/8qwe7/LMLu/yzC7v8swu7/Lsfv/yrA6+4ayf3uHM///xvK//8byv//G8r//xjJ//8cyv//3ff//////////////////8ry//8TyP//Gsr//xvK//8byv//G8r//xvK//8Zyv//Fsn//9X2///////////////////L8///E8j//xrK//8byv//G8r//xvK//8cz///Gsn97iDH/O4hzf//IMj//yDI//8gyP//Hcf//yHI///e9///////////////////y/L//xjG//8fyP//IMj//yDI//8gyP//IMj//xbG//86zv//+f3//////////////////6Tp//8OxP//IMj//yDI//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//yDI//8dx///Icj//973///////////////////L8v//GMb//x/I//8gyP//IMj//yDI//8hyP//CML//5Pk////////////////////////X9j//xHE//8gyP//IMj//yDI//8gyP//Ic3//yDH/O4gx/zuIc3//yDI//8gyP//IMj//x3H//8hyP//3vf//////////////////8vy//8Yxv//H8j//yDI//8gyP//IMj//wrD//9K0v//+P3//////////////////9r2//8cx///Hcf//yDI//8gyP//IMj//yDI//8hzf//IMf87iDH/O4hzf//IMj//yDI//8gyP//Hcf//yHI///e9///////////////////y/L//xjG//8fyP//H8j//xbF//8Kw///T9T//+v6////////////////////////WNb//xHE//8hyP//IMj//yDI//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//yDI//8dx///Icj//973///////////////////H8f//BsH//w3E//8Xxv//Pc///5rm///+/////////////////////////3zf//8OxP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic3//yDH/O4gx/zuIc3//yDI//8gyP//IMj//x3H//8hyP//3vf//////////////////+n6//+d5///qer//87z///9/v///////////////////////+L4//9j2f//DsP//x/I//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzf//IMf87iDH/O4hzf//IMj//yDI//8gyP//Hcf//yHI///p+v//////////////////////////////////////////////////8Pv//8bx//973v//J8r//w/E//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//yDI//8fyP//H8j//1zX//9r2///atr//2ra//9q2v//atr//2ra//9q2v//Ytj//07T//8xzP//Fsb//w7E//8bx///Icj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic3//yDH/O4gx/zuIc3//yDI//8gyP//IMj//yDI//8gyP//E8X//xDE//8QxP//EMT//xDE//8QxP//EMT//xDE//8RxP//FMX//xrG//8fyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzf//IMf87iDH/O4hzf//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//Ic3//yDH/O4gx/zuIc3//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8hzf//IMf87iDG/PQi0v//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yLS//8gxvz0IMb83iHL/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIcv87iDG/N4oAAAAGAAAADAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3XED3uNzA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7uNzA+7dcQPe3XAD9Ol4A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+l4A//dcAP023ED7uN1A//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/91yA//ccAD/3G4A/9xuAP/cbgD/3G4A/9xuAP/cbwD/3XAA/91yAv/dcgP/3XID/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/91xA//edwz/33sU/997FP/fexT/33sU/997FP/feRD/3XID/9tpAP/aaAD/3HAA/91yA//dcgP/3XID/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/9tpAP/yx5z//fXu//z17f/99/H////////////++/f/+unZ//TPq//ppF//3XMJ/9tpAP/dcwP/3XID/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/9toAP/10q/////////////89Ov/7LF3/++9jv/44s3/////////////////+ebU/+SOOv/baAD/3XMD/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/9toAP/0z6r////////////548z/2WQA/9pkAP/bawD/5ZRF//rr2/////////////769f/jijL/22oA/91yA//dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/9toAP/0z6r////////////55dD/3HAA/91xAf/dcQH/2mUA/998Gv/77uH////////////55M//3G4E/91xAf/dcgP/3XID/+N1A//bcQPu23ED7uN1A//dcgP/3XID/9toAP/0z6r////////////55dD/3HAA/91xAf/dcgP/3XMD/9pkAP/ooFb/////////////////5pdF/9tpAP/dcgP/3XID/+N1A//bcQPu4m8A7uhzAP/icAD/4nAA/+BmAP/2zqj////////////65c//4W4A/+JvAP/icAD/4nAA/+FtAP/jdAT//fLn////////////8LuG/99kAP/icAD/4nAA/+hzAP/ibwDuznUT7tZ7FP/ReBT/0XgU/85uEP/w0bD////////////35tP/z3YR/9B3Ev/ReBT/0XgU/9F3Ev/Pcw//9OLN////////////8NCt/85uEP/ReBT/0XgU/9Z7FP/OdRPuKsDr7i7H7/8swu7/LMLu/x6+7v+46vn////////////X9Pz/KcHu/yrB7v8swu7/LMLu/yvC7v8lwO7/0vH6////////////tur6/x2+7v8swu7/LMLu/y7H7/8qwOvuGsn97hzP//8byv//G8r//wzG//+y7f/////////////U9f//F8n//xnJ//8byv//G8r//xbJ//8izP//6vr/////////////lOb//wjG//8byv//G8r//xzP//8ayf3uIMf87iHN//8gyP//IMj//xHE//+07P/////////////V9f//HMf//x7H//8gyP//Icj//wrD//9p2v//////////////////Wtb//xLF//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//xHE//+07P/////////////V9f//HMf//x7H//8fyP//DMP//zDM///k+P/////////////U9P//Gsf//x7H//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//xHE//+07P/////////////S9P//CcL//wrC//8Uxf//VtX//+D3//////////////f9//9G0f//E8X//yHI//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//xHE//+47f/////////////t+///g+D//5fl///S9P//////////////////2PX//0zT//8QxP//Icj//yDI//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//xLE//+n6f//7/v//+/7///y/P/////////////4/f//3ff//7Ts//9u2///Icj//xLF//8hyP//IMj//yDI//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//x/I//8oyv//L8z//y7L//8uy///Lsz//y7M//8ry///H8j//xHE//8PxP//HMf//yHI//8gyP//IMj//yDI//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//yDI//8dx///Gsf//xrH//8ax///Gsf//xrH//8bx///Hcf//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHN//8gx/zuIMf87iHN//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yDI//8gyP//IMj//yHN//8gx/zuIMb89CLS//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yLS//8gxvz0IMb83iHL/e4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iDH/O4gx/zuIMf87iHL/e4gxvzeKAAAABAAAAAgAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN1xA97jcwPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu23ED7ttxA+7bcQPu43MD7t1xA97dcAP06XgD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+N1A//jdQP/43UD/+l4A//dcAP023ED7uN1A//dcwP/3G4A/9toAP/baAD/22kA/9toAP/aZwD/22kA/91wAP/dcgP/3XID/91yA//jdQP/23ED7ttxA+7jdQP/22oB/+eaTP/00Kv/9NCs//bYuv/22bv/8cSX/+ecT//ccAL/3GwA/91zA//dcgP/43UD/9txA+7bcQPu43UD/9plAP/ttXr///////779//ppmP/77yN//758///////997F/+B9G//cbAD/3XID/+N1A//bcQPu23ED7uN1A//aZgD/7LBy///////66tn/22kA/9lhAP/edRH/997E///////33sP/3G0D/91xAf/jdQP/23ED7uJvAO7ocwD/32QA/++vbv//////++va/+JxAP/ibgD/32UA/+eGJf///Pr//////+iSOv/gaAD/6HMA/+JvAO7OdRPu1nsU/81sEP/ls3v///////js3f/ReRX/0HYR/9B2Ef/PdhH/9+ze///////msXf/zW0Q/9Z7FP/OdRPuKsHs7i7H7/8bvu7/id32///////h9v3/LcLv/yrB7v8qwu7/KsHt/+H1+///////ht33/xu+7v8ux+//KsHs7hrL/e4cz///Ccb//3/h////////3vf//xzK//8Zyf//Csb//z7T///6/v///////1LW//8Ox///HM///xrL/e4gyP3uIc3//w7E//+C4P///////932//8SxP//BsL//yTJ///L8v///////8ry//8Yxv//Hsj//yHN//8gyP3uIMj97iHN//8NxP//ieL////////4/f//ctz//5Xl///1/f///////8vy//8xzP//F8b//yDI//8hzf//IMj97iDI/e4hzf//FMX//2DY//+07f//te3//8Lw///D8P//ouj//2LY//8cx///Fsb//yHI//8gyP//Ic3//yDI/e4gyP3uIc3//yHI//8Zxv//EcT//xHE//8RxP//EMT//w7E//8RxP//Hcf//yHI//8gyP//IMj//yHN//8gyP3uIMf99CLS//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8hzf//Ic3//yHN//8i0v//IMf99CDG/d4hy/3uIMj97iDI/e4gyP3uIMj97iDI/e4gyP3uIMj97iDI/e4gyP3uIMj97iDI/e4gyP3uIcv97iDG/d4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "g2.dcdn.lt",
+      "q.delfi.lt",
+      "g1.dcdn.lt",
+      "fonts.googleapis.com",
+      "g3.dcdn.lt",
+      "g4.dcdn.lt",
+      "cdn.onesignal.com",
+      "lisource.panel.kantartns.lt",
+      "fonts.gstatic.com",
+      "g.dcdn.lt",
+      "ts.delfi.lt",
+      "lijuke.panel.kantartns.lt",
+      "www.google-analytics.com",
+      "scdn.cxense.com",
+      "static.chartbeat.com",
+      "static.criteo.net",
+      "www.googletagservices.com",
+      "onesignal.com",
+      "code3.adtlgc.com",
+      "securepubads.g.doubleclick.net",
+      "ping.chartbeat.net",
+      "lisslpagestat.panel.kantartns.lt",
+      "sp1cluster.cxense.com",
+      "admp-tc-delfilt.adtlgc.com",
+      "scomcluster.cxense.com",
+      "id.cxense.com",
+      "www.google.lt",
+      "collector.cint.com",
+      "dmp.adform.net",
+      "gum.criteo.com",
+      "sc-static.net",
+      "my.rtmark.net",
+      "tr.snapchat.com",
+      "ajax.googleapis.com",
+      "keytarget.adnet.lt",
+      "connect.facebook.net",
+      "s1.adform.net",
+      "bbcdn-static.bbelements.com",
+      "galt.hit.gemius.pl",
+      "adservice.google.lt",
+      "gs.delfi.lt",
+      "adservice.google.com",
+      "ls.hit.gemius.pl",
+      "bbcdn-bbnaut.ibillboard.com",
+      "adx.adform.net",
+      "www.facebook.com",
+      "vendorlist.consensu.org",
+      "s1-af.dcdn.lt",
+      "track.adform.net",
+      "ebs2.delfi.lt",
+      "cdn.digitru.st",
+      "cm.adform.net",
+      "code.createjs.com",
+      "my.ieye.lt",
+      "bbnaut.ibillboard.com",
+      "ib.adnxs.com",
+      "hbopenbid.pubmatic.com",
+      "prebid-eu.creativecdn.com",
+      "adnet-d.openx.net",
+      "as-sec.casalemedia.com",
+      "fastlane.rubiconproject.com",
+      "ih.adscale.de",
+      "go.eu.bbelements.com",
+      "pagead2.googlesyndication.com",
+      "js.adscale.de",
+      "bbnaut.bbelements.com",
+      "bbnaut.m6r.eu",
+      "googleads.g.doubleclick.net",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "cm.g.doubleclick.net",
+      "csi.gstatic.com",
+      "g.delfi.lt",
+      "cmp.digitru.st",
+      "www.alio.lt",
+      "g2.acdn.lt",
+      "code.jquery.com",
+      "g4.acdn.lt",
+      "g3.acdn.lt",
+      "server.seadform.net",
+      "c1.adform.net",
+      "cm.adsafety.net",
+      "pdw-adf.userreport.com",
+      "sync.1dmp.io",
+      "rtbcc.fyber.com",
+      "id5-sync.com",
+      "rm.em.nscontext.eu",
+      "ad.yieldlab.net",
+      "dsum-sec.casalemedia.com",
+      "token.rubiconproject.com",
+      "tags.bluekai.com",
+      "pixel.advertising.com",
+      "eu-u.openx.net",
+      "simage2.pubmatic.com",
+      "bcp.crwdcntrl.net",
+      "ps.eyeota.net",
+      "ad.360yield.com",
+      "sync.teads.tv",
+      "secure.adnxs.com",
+      "beacon.krxd.net",
+      "a.audrte.com",
+      "global.ib-ibi.com",
+      "load77.exelator.com",
+      "uipglob.semasio.net",
+      "pippio.com",
+      "www.cvonline.lt",
+      "files.cvonline.lt",
+      "certify-js.alexametrics.com",
+      "static.mailerlite.com",
+      "static-trackers.adtarget.me",
+      "www.googleadservices.com",
+      "certify.alexametrics.com",
+      "lt.hit.gemius.pl",
+      "static.hotjar.com",
+      "maxcdn.bootstrapcdn.com",
+      "script.hotjar.com",
+      "bucket.mlcdn.com",
+      "vars.hotjar.com",
+      "trackers.adtarget.me",
+      "ads.betweendigital.com",
+      "track.mailerlite.com",
+      "www.tiketa.lt",
+      "cx.atdmt.com",
+      "eus.rubiconproject.com",
+      "ads.pubmatic.com",
+      "acdn.adnxs.com",
+      "match.adsrvr.org",
+      "image6.pubmatic.com",
+      "pr-bh.ybp.yahoo.com",
+      "us-u.openx.net",
+      "pixel.rubiconproject.com",
+      "dis.criteo.com",
+      "d5p.de17a.com",
+      "cms.quantserve.com",
+      "pubmatic-match.dotomi.com",
+      "p.rfihub.com",
+      "pixel.quantserve.com",
+      "image2.pubmatic.com",
+      "image4.pubmatic.com",
+      "m.adnxs.com",
+      "cookiex.ngd.yahoo.com",
+      "simage4.pubmatic.com",
+      "fcmatch.youtube.com",
+      "i.ctnsnet.com",
+      "banners.adnetmedia.lt",
+      "ads.yieldmo.com",
+      "g1.acdn.lt",
+      "dclk-match.dotomi.com",
+      "p.solocpm.com",
+      "r.turn.com",
+      "medianet-match.dotomi.com",
+      "d.agkn.com",
+      "ag.innovid.com"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mail.google.com",
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.lt": {
+    "hostname": "www.google.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.tiketa.lt": {
+    "hostname": "www.tiketa.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.delfi.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

@@ -1,0 +1,737 @@
+{
+  "acdn.adnxs.com": {
+    "hostname": "acdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.crwdcntrl.net": {
+    "hostname": "ad.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "addons.mozilla.org": {
+    "hostname": "addons.mozilla.org",
+    "favicon": "data:image/x-icon;base64,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",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adtag.sphdigital.com": {
+    "hostname": "adtag.sphdigital.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "amplifypixel.outbrain.com": {
+    "hostname": "amplifypixel.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.cxense.com": {
+    "hostname": "api.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.queryly.com": {
+    "hostname": "api.queryly.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bcp.crwdcntrl.net": {
+    "hostname": "bcp.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.cxense.com": {
+    "hostname": "cdn.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.taboola.com": {
+    "hostname": "cdn.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cf-images.ap-southeast-1.prod.boltdns.net": {
+    "hostname": "cf-images.ap-southeast-1.prod.boltdns.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "comcluster.cxense.com": {
+    "hostname": "comcluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "content-thumbnail.cxpublic.com": {
+    "hostname": "content-thumbnail.cxpublic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "data.queryly.com": {
+    "hostname": "data.queryly.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dis.criteo.com": {
+    "hostname": "dis.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "edge.api.brightcove.com": {
+    "hostname": "edge.api.brightcove.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fcmatch.youtube.com": {
+    "hostname": "fcmatch.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "graphics.straitstimes.com": {
+    "hostname": "graphics.straitstimes.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "house-fastly-signed-ap-southeast-1-prod.brightcovecdn.com": {
+    "hostname": "house-fastly-signed-ap-southeast-1-prod.brightcovecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.cxense.com": {
+    "hostname": "id.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.outbrainimg.com": {
+    "hostname": "images.outbrainimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imasdk.googleapis.com": {
+    "hostname": "imasdk.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "log.outbrainimg.com": {
+    "hostname": "log.outbrainimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.adnxs.com": {
+    "hostname": "m.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "manifest.prod.boltdns.net": {
+    "hostname": "manifest.prod.boltdns.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mcdp-sadc1.outbrain.com": {
+    "hostname": "mcdp-sadc1.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "metrics.brightcove.com": {
+    "hostname": "metrics.brightcove.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "odb.outbrain.com": {
+    "hostname": "odb.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.rfihub.com": {
+    "hostname": "p.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ping.chartbeat.net": {
+    "hostname": "ping.chartbeat.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.sphdigital.com": {
+    "hostname": "platform.sphdigital.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "players.brightcove.net": {
+    "hostname": "players.brightcove.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pr-bh.ybp.yahoo.com": {
+    "hostname": "pr-bh.ybp.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pubads.g.doubleclick.net": {
+    "hostname": "pubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3-ap-southeast-1.amazonaws.com": {
+    "hostname": "s3-ap-southeast-1.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scdn.cxense.com": {
+    "hostname": "scdn.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scomcluster.cxense.com": {
+    "hostname": "scomcluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp1cluster.cxense.com": {
+    "hostname": "sp1cluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.google-analytics.com": {
+    "hostname": "ssl.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.addtoany.com": {
+    "hostname": "static.addtoany.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.chartbeat.com": {
+    "hostname": "static.chartbeat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.crwdcntrl.net": {
+    "hostname": "tags.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tcheck.outbrainimg.com": {
+    "hostname": "tcheck.outbrainimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trc.taboola.com": {
+    "hostname": "trc.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vjs.zencdn.net": {
+    "hostname": "vjs.zencdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.outbrain.com": {
+    "hostname": "widgets.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com.sg": {
+    "hostname": "www.google.com.sg",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.queryly.com": {
+    "hostname": "www.queryly.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.srx.com.sg": {
+    "hostname": "www.srx.com.sg",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.straitstimes.com": {
+    "hostname": "www.straitstimes.com",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAIAAAC1nk4lAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABFlJREFUeNrsWk1IVFEUHl/SQh1sY4sEdZdkzko3kQgWgcNALSQRfypqoSPZomC0RChKZ8AgDEc3ETmJLWaRIAqBgoS10JVWzNIZaiCmjQwJ1aZv5uXzzfu99/runZG8C5H37jt+77xzvvPdcywqq2t3HbYluQ7hOgJ9BNpiFRPu89TWlLtL9Nffr38pINBVlRVNjWd8LY2e2uqqUxW4shmLJ5Kprdg2buEK7iqbcWsn/XMrFo8nUwsr64lvKdGggcbf7fW1NChXxsLR1/OrGijl7tLOK833/W34Angx+UH8POEuGQ1HxYEGjuknfWq4cGHf8NRmbFv/JFwbjizOvl3VPCI0ERG1n989V//5nfSu98YjQ8Rq6B0D47Pzq3kADcSLL0c0qdb7YAqYSKxgJ76JUNCICj3iRDalyA113BkXCjo02KOns4XlDSpDSNMxzvm3Dxr81Xm5WX8D5EVrazKyhDQQAbq/y2vmOVpbSACqiGIHfV5VI3JLYDWDuXBkieETUfO0Gbj62hpCEygxmgAzjDcRZRyEDVYhobzq3JKewz/LGxAnihFwlIUdkOZg6JXiMngTIsJQ8FgJJpTowJ4VOiZJpgLBGdr4xrsp8kv+pdw909/dCk2hgW4lTf3drfj0tIhBfHWXbjuSkXiN0aw1jZa00dPTj/uocPcOTzmulgAdakKtFCRbZgXuuYl7iG+zDQr/ADH0E6fkg1JQcEskKh5JCS2VVaGlFmTHD7G8kCeywpEIgw+pMORv+/rxBYSoniuQeaP8azjiBDo5AxruSdCUA3AwmAuOV8c6EBPqwQMu6GQESVFZXTvocG7iLtOr78qcSBgY6U9vLO4iUJFwtkYgljLsgQhhU/GIGaSpv8vrIS6fB18QRZI+N2kXStdaNMjA6A4ct4AbDMBsCC4PBa7loVmDAEVUJVhlGlsFdaDDhGxA2RzLsMEum78FxLdxGZcrPiocg9eDgZ78gJaZHEQG6AgYqt4XSk+TycGCO2gNfVJB5x3ZpF1TGXrHwFOSWM+/p3P6Civr59oCtn0ZuWFZKKDlgpTtldnhrqwoINBqtWV9cCws0IracuVpsY8vrGs+1wkBO2iLFjDv5piEQxTzw2bu5D2IkXCIcjzTeXf0JLkpw/aw4TkXcoX3CVeSj31sNcywDyjghPsvEXHGtmgPmPQVGvUXwYO83bwPGoUXuGklv45P4oHgjFCe9rU0kOOGjtNEFHyM8i6mkSBpehpr0ZAtmQAxTihqVob6Ix+FHXwV63PrQzQUjizqR7Qu3TAXRDGZ7YYJgyuvotbrDwGlPjuv13xxzTBcmemjdmzF4ogH67kop2ZNxtPYqilggKjVaHu1Ip5M8R7Ws4SHrJgLARkXwfRfgHZQ4YgD7Tld49RxWBxo3wX7/wkxlAZ5Aw26JJmIDpHpTUkMYuuxp7q0kUiJY8dPnuUK9+bVi89GbhkOXs0eQXBDGnz/sfPr9x/DPX8FGAB/ZxplWTtgygAAAABJRU5ErkJggg==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "adtag.sphdigital.com",
+      "ad.crwdcntrl.net",
+      "static.addtoany.com",
+      "www.googletagservices.com",
+      "securepubads.g.doubleclick.net",
+      "adservice.google.com",
+      "www.queryly.com",
+      "players.brightcove.net",
+      "pubads.g.doubleclick.net",
+      "graphics.straitstimes.com",
+      "www.srx.com.sg",
+      "www.google-analytics.com",
+      "platform.sphdigital.com",
+      "s3-ap-southeast-1.amazonaws.com",
+      "www.google.com",
+      "ajax.googleapis.com",
+      "cdn.cxense.com",
+      "connect.facebook.net",
+      "vjs.zencdn.net",
+      "scdn.cxense.com",
+      "amplifypixel.outbrain.com",
+      "www.googletagmanager.com",
+      "edge.api.brightcove.com",
+      "metrics.brightcove.com",
+      "cdn.ampproject.org",
+      "api.queryly.com",
+      "imasdk.googleapis.com",
+      "z.moatads.com",
+      "tpc.googlesyndication.com",
+      "ssl.google-analytics.com",
+      "acdn.adnxs.com",
+      "widgets.outbrain.com",
+      "static.chartbeat.com",
+      "cdn.taboola.com",
+      "tags.crwdcntrl.net",
+      "cf-images.ap-southeast-1.prod.boltdns.net",
+      "sp1cluster.cxense.com",
+      "manifest.prod.boltdns.net",
+      "house-fastly-signed-ap-southeast-1-prod.brightcovecdn.com",
+      "secure.adnxs.com",
+      "pagead2.googlesyndication.com",
+      "cm.g.doubleclick.net",
+      "www.google.com.sg",
+      "scomcluster.cxense.com",
+      "data.queryly.com",
+      "www.googleadservices.com",
+      "trc.taboola.com",
+      "staticxx.facebook.com",
+      "odb.outbrain.com",
+      "ib.adnxs.com",
+      "p.rfihub.com",
+      "pixel.rubiconproject.com",
+      "tcheck.outbrainimg.com",
+      "pr-bh.ybp.yahoo.com",
+      "dis.criteo.com",
+      "googleads.g.doubleclick.net",
+      "s0.2mdn.net",
+      "sb.scorecardresearch.com",
+      "log.outbrainimg.com",
+      "ad.doubleclick.net",
+      "api.cxense.com",
+      "m.adnxs.com",
+      "mcdp-sadc1.outbrain.com",
+      "id.cxense.com",
+      "beacon.krxd.net",
+      "www.facebook.com",
+      "content-thumbnail.cxpublic.com",
+      "ping.chartbeat.net",
+      "images.outbrainimg.com",
+      "comcluster.cxense.com",
+      "bcp.crwdcntrl.net",
+      "fcmatch.youtube.com"
+    ]
+  },
+  "z.moatads.com": {
+    "hostname": "z.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.straitstimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

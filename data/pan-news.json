@@ -1,0 +1,630 @@
+{
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api-public.addthis.com": {
+    "hostname": "api-public.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api-widget.soundcloud.com": {
+    "hostname": "api-widget.soundcloud.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.cintnetworks.com": {
+    "hostname": "c.cintnetworks.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.sharethis.mgr.consensu.org": {
+    "hostname": "c.sharethis.mgr.consensu.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.navdmp.com": {
+    "hostname": "cdn.navdmp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.onesignal.com": {
+    "hostname": "cdn.onesignal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.syndication.twimg.com": {
+    "hostname": "cdn.syndication.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "certify.alexametrics.com": {
+    "hostname": "certify.alexametrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d31qbv1cthcecs.cloudfront.net": {
+    "hostname": "d31qbv1cthcecs.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ytimg.com": {
+    "hostname": "i.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i1.sndcdn.com": {
+    "hostname": "i1.sndcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.cxense.com": {
+    "hostname": "id.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.onesignal.com": {
+    "hostname": "img.onesignal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "l.sharethis.com": {
+    "hostname": "l.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "l9bjkkhaycw6f8f4.soundcloud.com": {
+    "hostname": "l9bjkkhaycw6f8f4.soundcloud.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthis.com": {
+    "hostname": "m.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthisedge.com": {
+    "hostname": "m.addthisedge.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "map.go.affec.tv": {
+    "hostname": "map.go.affec.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ml314.com": {
+    "hostname": "ml314.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "onesignal.com": {
+    "hostname": "onesignal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.rfihub.com": {
+    "hostname": "p.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "partner.mediawallahscript.com": {
+    "hostname": "partner.mediawallahscript.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.twimg.com": {
+    "hostname": "pbs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.tapad.com": {
+    "hostname": "pixel.tapad.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rules.quantcount.com": {
+    "hostname": "rules.quantcount.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s7.addthis.com": {
+    "hostname": "s7.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scdn.cxense.com": {
+    "hostname": "scdn.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scomcluster.cxense.com": {
+    "hostname": "scomcluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.quantserve.com": {
+    "hostname": "secure.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp1cluster.cxense.com": {
+    "hostname": "sp1cluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.doubleclick.net": {
+    "hostname": "static.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.sharethis.com": {
+    "hostname": "sync.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.sharethis.com": {
+    "hostname": "t.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.navdmp.com": {
+    "hostname": "tag.navdmp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ton.twimg.com": {
+    "hostname": "ton.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "usr.navdmp.com": {
+    "hostname": "usr.navdmp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "w.soundcloud.com": {
+    "hostname": "w.soundcloud.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget.sndcdn.com": {
+    "hostname": "widget.sndcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ws.sharethis.com": {
+    "hostname": "ws.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.buscafacil.com": {
+    "hostname": "www.buscafacil.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.prensa.com": {
+    "hostname": "www.prensa.com",
+    "favicon": "data:image/x-icon;base64,AAABAAIAICAAAAEAIAAoEAAAJgAAABAQAAABACAAKAQAAE4QAAAoAAAAIAAAAEAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAysrKMM7OzuzMzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zs7O7MrKyjDOzs7szs7O/+zs7P/z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/+zs7P/Ozs7/zs7O7MzMzP/s7Oz/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/+zs7P/MzMz/zMzM//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/8zMzP/MzMz/9PT0//T09P9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa//T09P/09PT/zMzM/8zMzP/09PT/9PT0/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/9PT0//T09P/MzMz/zMzM//X19f/19fX/9fX1//X19f/19fX/9fX1//X19f/19fX/AAAA/wAAAP8AAAD/AAAA/wAAAP/19fX/9fX1//X19f/19fX/9fX1//X19f/19fX/9fX1//X19f/19fX/9fX1//X19f/19fX/9fX1//X19f/19fX/9fX1/8zMzP/MzMz/9fX1//X19f/19fX/9fX1//X19f/19fX/9fX1//X19f8AAAD/AAAA/wAAAP8AAAD/AAAA//X19f/19fX/9fX1//X19f/19fX/9fX1//X19f/19fX/9fX1//X19f/19fX/9fX1//X19f/19fX/9fX1//X19f/19fX/zMzM/8zMzP/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2/wAAAP8AAAD/AAAA/wAAAP8AAAD/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/MzMz/zMzM//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/AAAA/wAAAP8AAAD/AAAA/wAAAP/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2/8zMzP/MzMz/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v8AAAD/AAAA/wAAAP8AAAD/AAAA//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/zMzM/8zMzP/39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3/wAAAP8AAAD/AAAA/wAAAP8AAAD/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//MzMz/zMzM//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/AAAA/wAAAP8AAAD/AAAA/wAAAP/39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3/8zMzP/MzMz/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/Hh4e/3x8fP/o6Oj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/zMzM/8zMzP/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/w8PD/+qqqr/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/MzMz/zMzM//n5+f/5+fn/+fn5//n5+f/5+fn/+fn5//n5+f/5+fn/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP+bm5v/+fn5//n5+f/5+fn/+fn5//n5+f/5+fn/+fn5/8zMzP/MzMz/+fn5//n5+f/5+fn/+fn5//n5+f/5+fn/+fn5//n5+f8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/w8PD//a2tr/+fn5//n5+f/5+fn/+fn5//n5+f/5+fn/zMzM/8zMzP/5+fn/+fn5//n5+f/5+fn/+fn5//n5+f/5+fn/+fn5/wAAAP8AAAD/AAAA/wAAAP8AAAD/Pj4+/3x8fP98fHz/fHx8/z4+Pv8AAAD/AAAA/wAAAP8AAAD/AAAA/11dXf/5+fn/+fn5//n5+f/5+fn/+fn5//n5+f/MzMz/zMzM//r6+v/6+vr/+vr6//r6+v/6+vr/+vr6//r6+v/6+vr/AAAA/wAAAP8AAAD/AAAA/wAAAP99fX3/+vr6//r6+v/6+vr/+vr6/01NTf8AAAD/AAAA/wAAAP8AAAD/Dw8P//r6+v/6+vr/+vr6//r6+v/6+vr/+vr6/8zMzP/MzMz/+vr6//r6+v/6+vr/+vr6//r6+v/6+vr/+vr6//r6+v8AAAD/AAAA/wAAAP8AAAD/AAAA/319ff/6+vr/+vr6//r6+v/6+vr/u7u7/wAAAP8AAAD/AAAA/wAAAP8AAAD/u7u7//r6+v/6+vr/+vr6//r6+v/6+vr/zMzM/8zMzP/7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7/wAAAP8AAAD/AAAA/wAAAP8AAAD/fX19//v7+//7+/v/+/v7//v7+/+dnZ3/AAAA/wAAAP8AAAD/AAAA/wAAAP+8vLz/+/v7//v7+//7+/v/+/v7//v7+//MzMz/zMzM//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/AAAA/wAAAP8AAAD/AAAA/wAAAP99fX3/+/v7//v7+//r6+v/nZ2d/w8PD/8AAAD/AAAA/wAAAP8AAAD/AAAA/7y8vP/7+/v/+/v7//v7+//7+/v/+/v7/8zMzP/MzMz/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+/8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/3Nzc//v7+//7+/v/+/v7//v7+//7+/v/zMzM/8zMzP/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/x8fH//8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/MzMz/zMzM//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/ra2t//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8/8zMzP/MzMz//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/35+fv/9/f3//f39//39/f/9/f3//f39//39/f/9/f3/zMzM/8zMzP/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/Pz8//25ubv/d3d3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/MzMz/zMzM//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+/8zMzP/MzMz//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7/zMzM/8zMzP/19fX//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//X19f/MzMz/z8/P7M/Pz//19fX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////19fX/z8/P/8/Pz+zKysowz8/P7MzMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/Pz8/sysrKMCgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADKysowzs7O7MzMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/87OzuzKysowzs7O7M7Ozv/s7Oz/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/+zs7P/Ozs7/zs7O7MzMzP/s7Oz/9PT0//T09P/09PT/9PT0//T09P/09PT/9PT0//T09P/09PT/9PT0//T09P/09PT/7Ozs/8zMzP/MzMz/9fX1/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa/0IA2v9CANr/QgDa//X19f/MzMz/zMzM//b29v/29vb/9vb2/wAAAP8AAAD/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/zMzM/8zMzP/39/f/9/f3//f39/8AAAD/AAAA//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3/8zMzP/MzMz/+Pj4//j4+P/4+Pj/AAAA/wAAAP/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/MzMz/zMzM//n5+f/5+fn/+fn5/wAAAP8AAAD/AAAA/wAAAP8+Pj7/6enp//n5+f/5+fn/+fn5//n5+f/5+fn/zMzM/8zMzP/5+fn/+fn5//n5+f8AAAD/AAAA/wAAAP8AAAD/AAAA/y4uLv/5+fn/+fn5//n5+f/5+fn/+fn5/8zMzP/MzMz/+vr6//r6+v/6+vr/AAAA/wAAAP/6+vr/6urq/w8PD/8AAAD/y8vL//r6+v/6+vr/+vr6//r6+v/MzMz/zMzM//v7+//7+/v/+/v7/wAAAP8AAAD/+/v7/9zc3P8uLi7/AAAA/7y8vP/7+/v/+/v7//v7+//7+/v/zMzM/8zMzP/8/Pz//Pz8//z8/P8AAAD/AAAA/wAAAP8AAAD/AAAA/w8PD//s7Oz//Pz8//z8/P/8/Pz//Pz8/8zMzP/MzMz//f39//39/f/9/f3/AAAA/wAAAP8AAAD/AAAA/y8vL//Nzc3//f39//39/f/9/f3//f39//39/f/MzMz/zMzM//X19f/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/19fX/zMzM/8/Pz+zPz8//9fX1///////////////////////////////////////////////////////19fX/z8/P/8/Pz+zKysowz8/P7MzMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8/Pz+zKysowAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "www.googletagmanager.com",
+      "cdn.onesignal.com",
+      "www.youtube.com",
+      "www.buscafacil.com",
+      "w.soundcloud.com",
+      "www.google-analytics.com",
+      "www.googletagservices.com",
+      "s7.addthis.com",
+      "platform.twitter.com",
+      "ws.sharethis.com",
+      "secure.quantserve.com",
+      "onesignal.com",
+      "securepubads.g.doubleclick.net",
+      "adservice.google.com",
+      "m.addthisedge.com",
+      "widget.sndcdn.com",
+      "m.addthis.com",
+      "rules.quantcount.com",
+      "fonts.gstatic.com",
+      "www.google.com",
+      "googleads.g.doubleclick.net",
+      "syndication.twitter.com",
+      "api-public.addthis.com",
+      "cdn.syndication.twimg.com",
+      "static.doubleclick.net",
+      "tag.navdmp.com",
+      "pixel.quantserve.com",
+      "cdn.ampproject.org",
+      "api-widget.soundcloud.com",
+      "c.sharethis.mgr.consensu.org",
+      "d31qbv1cthcecs.cloudfront.net",
+      "tpc.googlesyndication.com",
+      "cdnjs.cloudflare.com",
+      "i.ytimg.com",
+      "usr.navdmp.com",
+      "yt3.ggpht.com",
+      "pbs.twimg.com",
+      "scdn.cxense.com",
+      "connect.facebook.net",
+      "i1.sndcdn.com",
+      "stats.g.doubleclick.net",
+      "certify.alexametrics.com",
+      "ton.twimg.com",
+      "cdn.navdmp.com",
+      "l.sharethis.com",
+      "pagead2.googlesyndication.com",
+      "sb.scorecardresearch.com",
+      "img.onesignal.com",
+      "c.cintnetworks.com",
+      "sp1cluster.cxense.com",
+      "www.facebook.com",
+      "t.sharethis.com",
+      "scomcluster.cxense.com",
+      "id.cxense.com",
+      "sync.sharethis.com",
+      "partner.mediawallahscript.com",
+      "ml314.com",
+      "l9bjkkhaycw6f8f4.soundcloud.com",
+      "pixel.tapad.com",
+      "p.rfihub.com",
+      "map.go.affec.tv"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "yt3.ggpht.com": {
+    "hostname": "yt3.ggpht.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.prensa.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

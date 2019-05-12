@@ -1,0 +1,60 @@
+{
+  "att.demdex.net": {
+    "hostname": "att.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.att.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "attservicesinc.tt.omtrdc.net": {
+    "hostname": "attservicesinc.tt.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.att.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.agkn.com": {
+    "hostname": "d.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.att.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.att.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "privacy-policy.truste.com": {
+    "hostname": "privacy-policy.truste.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.att.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.att.com": {
+    "hostname": "www.att.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAABMLAAATCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD67L8E9dyLC/Xciwv34JkFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AvXahYT013zm9Nd6//TYfv/01nf/89Rw//PUb+n013mL////AgAAAAAAAAAAAAAAAAAAAAAAAAAA////C/vwzbz013z/8MdF/+7ALv/tvin/7LkW/+qzA//tvCL/8cpQ//bdkMz///8LAAAAAAAAAAAAAAAA////Avbflsr12oP/+u7H///++//+/fj//fjn//z13//9+ev/+/HQ//bdjv/uwTP/8s5e3P///wIAAAAAAAAAAPnnsXL89d7/+em2//LOXv/tvCD/6rIB/+qyAP/qsgD/6rIA/+q0Bf/tvyr/89Ns//TXev/013uJAAAAAAAAAAD78M7Z7sI1//HKUf/34Zz/+u7G//vxz//778r/+Oev//XahP/wx0f/67QH/+qyAP/qswL/89Jr6QAAAAD45aoD78M3//vxz//////////////////9+ez//PPW//vxz//78tP//ffj//356v/34Jn/7b0k/+qzAv/45aoD+OWqBvz02v/9+ev/9tyM/+/GQv/rtg3/6rIA/+qyAP/qsgD/6rIA/+qyAP/qswP/7sI0//Xciv/z0mv/9Nh/CP///wT45KT/67YO//DJS//34Jn/+u3F//zy1f/67sf/+Oev//Xciv/xylH/67YN/+qyAP/qsgD/8MdG//vwzAX///8C7LkW//rswf////////////357P/67MH/+OWq//fgmP/235b/+OWq//vxz//45KX/7b0k/+qyAP/45aoDAAAAAPfjoeD//fn/9t2Q/+7AL//qsgD/6rIA/+qyAP/qsgD/6rIA/+qyAP/qsgD/7b4n//npt//xzVjtAAAAAAAAAAD+/PRf8cpP/+2+KP/45qv//fbi//767//99+X/++/L//fhnf/xzFf/67QI/+qyAP/rtxH//fnqYQAAAAAAAAAA////AvDISeP78M3//PTa//Xci//y0GT/8ctT//LOXf/01nb/+OWq//z13f/wx0T/78U+5////wIAAAAAAAAAAAAAAAD45KUR+OatxOqzA//qsgD/6rIA/+qyAP/qsgD/6rIA/+qyAP/suRb/+u3Dv/XahhUAAAAAAAAAAAAAAAAAAAAAAAAAAP///wLz0muS7sAt9uqyAP/qsgD/6rIA/+qyAP/tvij38tBkl/jlqgMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD45aoD9Nh/CPTYfwj02H8EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/D8AAOAHAADAAwAAgAEAAIABAACAAfC/AAAAAAAAAAAAAAAAAAAAAIABAACAAQAAgAEAAMADAADgBwAA/D8AAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "dpm.demdex.net",
+      "att.demdex.net",
+      "attservicesinc.tt.omtrdc.net",
+      "privacy-policy.truste.com",
+      "d.agkn.com"
+    ]
+  }
+}

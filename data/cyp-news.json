@@ -1,0 +1,380 @@
+{
+  "aa26a48f698072c4136ab700ae2bb405e.profile.ord-m.cloudfront.net": {
+    "hostname": "aa26a48f698072c4136ab700ae2bb405e.profile.ord-m.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.cy": {
+    "hostname": "adservice.google.com.cy",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.scorecardresearch.com": {
+    "hostname": "b.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bs.serving-sys.com": {
+    "hostname": "bs.serving-sys.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.taboola.com": {
+    "hostname": "cdn.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnprojectagora.s3.amazonaws.com": {
+    "hostname": "cdnprojectagora.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "certify-js.alexametrics.com": {
+    "hostname": "certify-js.alexametrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "certify.alexametrics.com": {
+    "hostname": "certify.alexametrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.jquery.com": {
+    "hostname": "code.jquery.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lm.serving-sys.com": {
+    "hostname": "lm.serving-sys.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthis.com": {
+    "hostname": "m.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthisedge.com": {
+    "hostname": "m.addthisedge.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maxcdn.bootstrapcdn.com": {
+    "hostname": "maxcdn.bootstrapcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "projectagora.s3.amazonaws.com": {
+    "hostname": "projectagora.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.ads.linkedin.com": {
+    "hostname": "px.ads.linkedin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.adform.net": {
+    "hostname": "s1.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s7.addthis.com": {
+    "hostname": "s7.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-ds.serving-sys.com": {
+    "hostname": "secure-ds.serving-sys.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sjs.bizographics.com": {
+    "hostname": "sjs.bizographics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.adman.gr": {
+    "hostname": "static.adman.gr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com.cy": {
+    "hostname": "www.google.com.cy",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.meteo.com.cy": {
+    "hostname": "www.meteo.com.cy",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.philenews.com": {
+    "hostname": "www.philenews.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAACQdUIAtaOBAK+bdgDq5dwA8e3nAM/DrQCzoX4AhGcuAH5fIwDv6+QA9fPvAKSPZQCeh1oA4NnLAPr59wDFt5wA6+feAIFjKACUe0kA////AMq9pADd1cUAjHE7ALuriwD39fEAxrmeAO3p4ADRx7EA8u/oAKaQZwDb0sIA0caxAPr49gCvnHcAgGInALysjQCHajIA8e7oAOXe0gB4WBkAwbKVAIxwOgDUyrYA/fz7AJ+IWwCDZiwArJhxAIluNwB9XiEA6OLXAPv6+ACjjmMA39jJANPIswD5+PUA3tbGAMi8ogDCtJcA/v79APj28gDi3M4Ap5JoAPz8+gDHup8A5+LWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJyctGRUMJycnJycnJycnJycnEjwOBicnJycnJycnJyciISY6EwQoFicnJycnJycpPzY7CjsYPjcMJycnJycnOCsNLioQASMTAycnJycnJxwTAiQfCSwvGhMnJycnJyc7Oh0HNSUsB0ATJycnJycnHhMUEgUQHTM6ICcnJycnJwwNMg0xBDQaChcnJycnJycnABsyExMTJgsIJycnJycnJycwPQM6OREnJycnJycnJycnJwcPHgwnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "code.jquery.com",
+      "s7.addthis.com",
+      "maxcdn.bootstrapcdn.com",
+      "cdnprojectagora.s3.amazonaws.com",
+      "xblasterads.com",
+      "static.adman.gr",
+      "projectagora.s3.amazonaws.com",
+      "www.meteo.com.cy",
+      "fonts.gstatic.com",
+      "www.googletagmanager.com",
+      "www.googletagservices.com",
+      "cdn.taboola.com",
+      "certify-js.alexametrics.com",
+      "m.addthisedge.com",
+      "m.addthis.com",
+      "certify.alexametrics.com",
+      "www.google-analytics.com",
+      "b.scorecardresearch.com",
+      "adservice.google.com.cy",
+      "aa26a48f698072c4136ab700ae2bb405e.profile.ord-m.cloudfront.net",
+      "sjs.bizographics.com",
+      "securepubads.g.doubleclick.net",
+      "adservice.google.com",
+      "connect.facebook.net",
+      "tpc.googlesyndication.com",
+      "www.facebook.com",
+      "www.google.com",
+      "www.google.com.cy",
+      "cdn.ampproject.org",
+      "track.adform.net",
+      "bs.serving-sys.com",
+      "s1.adform.net",
+      "secure-ds.serving-sys.com",
+      "pagead2.googlesyndication.com",
+      "px.ads.linkedin.com",
+      "lm.serving-sys.com"
+    ]
+  },
+  "xblasterads.com": {
+    "hostname": "xblasterads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.philenews.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "accounts.google.com": {
+    "hostname": "accounts.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adaderan.disqus.com": {
+    "hostname": "adaderan.disqus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adaderanaenglish.s3.amazonaws.com": {
+    "hostname": "adaderanaenglish.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.lk": {
+    "hostname": "adservice.google.lk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ae6cd207b9ab8662cdfd43bec25e2ebd4.profile.del54-c2.cloudfront.net": {
+    "hostname": "ae6cd207b9ab8662cdfd43bec25e2ebd4.profile.del54-c2.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apis.google.com": {
+    "hostname": "apis.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "certify.alexametrics.com": {
+    "hostname": "certify.alexametrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d31qbv1cthcecs.cloudfront.net": {
+    "hostname": "d31qbv1cthcecs.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn0.gstatic.com": {
+    "hostname": "encrypted-tbn0.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn1.gstatic.com": {
+    "hostname": "encrypted-tbn1.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn2.gstatic.com": {
+    "hostname": "encrypted-tbn2.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn3.gstatic.com": {
+    "hostname": "encrypted-tbn3.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthis.com": {
+    "hostname": "m.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthisedge.com": {
+    "hostname": "m.addthisedge.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "neoogilvy.engine.adglare.net": {
+    "hostname": "neoogilvy.engine.adglare.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.amazonaws.com": {
+    "hostname": "s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s7.addthis.com": {
+    "hostname": "s7.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.gstatic.com": {
+    "hostname": "ssl.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "su.addthis.com": {
+    "hostname": "su.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "techkeels.com": {
+    "hostname": "techkeels.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.adaderana.lk": {
+    "hostname": "www.adaderana.lk",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAD///8AHxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/////wD///8A////AB8Xzv8fF87/HxfO/3Nu4P/V1Pb////////////V1Pb/ZWDd/x8Xzv8fF87/HxfO/x8Xzv////8A////AP///wAfF87/HxfO/6uo7f/j4vn/ZWDd/y0m0f87NNT/j4vn//////9zbuD/HxfO/x8Xzv8fF87/////AP///wD///8AHxfO/4F94//j4vn/LSbR/x8Xzv8fF87/HxfO/x8Xzv9zbuD/8fH8/y0m0f8fF87/HxfO/////wD///8A////AB8Xzv/j4vn/c27g/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/+Pi+f9XUdr/HxfO/x8Xzv////8A////AP///wBJQ9f//////x8Xzv8fF87/HxfO/x8Xzv9zbuD/ubfw/y0m0f/V1Pb/V1Ha/x8Xzv8fF87/////AP///wD///8AV1Ha/9XU9v8fF87/HxfO/x8Xzv8fF87/8fH8///////HxfP//////zs01P8fF87/HxfO/////wD///8A////AFdR2v/j4vn/HxfO/x8Xzv8fF87/HxfO/3Nu4P/x8fz/8fH8/3Nu4P8fF87/HxfO/x8Xzv////8A////AP///wAtJtH//////y0m0f8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/////AP///wD///8AHxfO/9XU9v9zbuD/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/////wD///8A////AB8Xzv9lYN3/4+L5/y0m0f8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv////8A////AP///wAfF87/HxfO/6uo7f/V1Pb/LSbR/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/////AP///wD///8AHxfO/x8Xzv8fF87/q6jt/+Pi+f9zbuD/HxfO/x8Xzv8fF87/HxfO/x8Xzv9lYN3/nZrq/////wD///8A////AB8Xzv8fF87/HxfO/x8Xzv9XUdr/ubfw///////HxfP/x8Xz/8fF8//V1Pb/c27g/x8Xzv////8A////AP///wAfF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/OzTU/0lD1/8fF87/HxfO/x8Xzv8fF87/////AP///wD///8AHxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/x8Xzv8fF87/HxfO/////wD///8AgAMAAIADAACAAwAAgAMAAIADAACAAwAAgAMAAIADAACAAwAAgAMAAIADAACAAwAAgAMAAIADAACAAwAAgAMAAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "pagead2.googlesyndication.com",
+      "s7.addthis.com",
+      "www.googletagservices.com",
+      "d31qbv1cthcecs.cloudfront.net",
+      "securepubads.g.doubleclick.net",
+      "adservice.google.lk",
+      "www.pulse.lk",
+      "adservice.google.com",
+      "googleads.g.doubleclick.net",
+      "adaderanaenglish.s3.amazonaws.com",
+      "certify.alexametrics.com",
+      "s3.amazonaws.com",
+      "apis.google.com",
+      "www.google-analytics.com",
+      "neoogilvy.engine.adglare.net",
+      "m.addthisedge.com",
+      "m.addthis.com",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "ae6cd207b9ab8662cdfd43bec25e2ebd4.profile.del54-c2.cloudfront.net",
+      "cdn.ampproject.org",
+      "fonts.googleapis.com",
+      "adaderan.disqus.com",
+      "accounts.google.com",
+      "stats.g.doubleclick.net",
+      "ssl.gstatic.com",
+      "fonts.gstatic.com",
+      "www.googletagmanager.com",
+      "www.google.lk",
+      "techkeels.com",
+      "su.addthis.com",
+      "encrypted-tbn2.gstatic.com",
+      "encrypted-tbn0.gstatic.com",
+      "encrypted-tbn1.gstatic.com",
+      "encrypted-tbn3.gstatic.com",
+      "cm.g.doubleclick.net"
+    ]
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.lk": {
+    "hostname": "www.google.lk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.pulse.lk": {
+    "hostname": "www.pulse.lk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.adaderana.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "accdn.lpsnmedia.net": {
+    "hostname": "accdn.lpsnmedia.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.aws.singtel.com": {
+    "hostname": "cdn.aws.singtel.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.sitesearch360.com": {
+    "hostname": "cdn.sitesearch360.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn1.singteldigital.com": {
+    "hostname": "cdn1.singteldigital.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn2.singteldigital.com": {
+    "hostname": "cdn2.singteldigital.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "insights.sitesearch360.com": {
+    "hostname": "insights.sitesearch360.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lpcdn.lpsnmedia.net": {
+    "hostname": "lpcdn.lpsnmedia.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lptag.liveperson.net": {
+    "hostname": "lptag.liveperson.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.btstatic.com": {
+    "hostname": "s.btstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.thebrighttag.com": {
+    "hostname": "s.thebrighttag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sy.v.liveperson.net": {
+    "hostname": "sy.v.liveperson.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com.sg": {
+    "hostname": "www.google.com.sg",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.singtel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.singtel.com": {
+    "hostname": "www.singtel.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAAAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wGsqaeFrKmn1aypp6v///8B////Af///wH///8B////Af///wGsqaeRrKmnrayppzesqaeLrKmnbayppx2sqaeJrKmnM6ypp5Wsqaf1rKmnQaypp6usqadFrKmnq6ypp2GsqaeLrKmnQaypp3OsqaetrKmn4aypp7GsqacxrKmn4aypp8GsqadVrKmn6aypp6GsqaddrKmnx6ypp52sqad7rKmn4aypp4OsqaftrKmnUaypp+GsqaexrKmne6ypp+OsqaevrKmnb6ypp+usqaehrKmnfaypp7usqaeprKmnyaypp+GsqafprKmnW6yppzesqadhrKmnTaypp3msqadHrKmnF6ypp3usqadlrKmnoaypp5WsqacrrKmnf6yppy2sqafhrKmnQ6ypp4+sqac7////Af///wH///8B////Af///wH///8B////AayppzmsqacX////Af///wH///8BrKmnT////wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wE9Ge0JPRntLz0Z7QU9Ge3lPRntWf///wH///8B////Af///wH///8B////Af///wH///8B////Af///wE9Ge0DPRntzT0Z7f89Ge2zPRnteT0Z7Sf///8B////Af///wH///8B////Af///wH///8B////AT0Z7Qc9Ge0HPRntGz0Z7f89Ge3/PRnt/f///wH///8BPRntCz0Z7ec9Ge2X////AT0Z7Qs9Ge1RPRntCz0Z7Rc9Ge3pPRnt7T0Z7SM9Ge25PRnt/z0Z7Z3///8B////AT0Z7Qc9Ge3VPRntif///wE9Ge2NPRnt/z0Z7Y09Ge0/PRnt/z0Z7f89Ge1R////AT0Z7RP///8B////Af///wH///8B////Af///wH///8BPRntYz0Z7fs9Ge1hPRntAz0Z7Yc9Ge2RPRntB////wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8BAAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//w==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.aws.singtel.com",
+      "www.google-analytics.com",
+      "www.googletagmanager.com",
+      "s.btstatic.com",
+      "lptag.liveperson.net",
+      "cdn1.singteldigital.com",
+      "cdn2.singteldigital.com",
+      "cdn.sitesearch360.com",
+      "s.thebrighttag.com",
+      "insights.sitesearch360.com",
+      "www.google.com.sg",
+      "accdn.lpsnmedia.net",
+      "lpcdn.lpsnmedia.net",
+      "sy.v.liveperson.net"
+    ]
+  }
+}

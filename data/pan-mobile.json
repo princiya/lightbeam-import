@@ -1,0 +1,200 @@
+{
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "in-automate.sendinblue.com": {
+    "hostname": "in-automate.sendinblue.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "in.hotjar.com": {
+    "hostname": "in.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "my.sendinblue.com": {
+    "hostname": "my.sendinblue.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.crazyegg.com": {
+    "hostname": "script.crazyegg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sdk.inbenta.io": {
+    "hostname": "sdk.inbenta.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sibautomation.com": {
+    "hostname": "sibautomation.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static-or01.inbenta.com": {
+    "hostname": "static-or01.inbenta.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "websec.movistar.com.pa": {
+    "hostname": "websec.movistar.com.pa",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.pa"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.movistar.com.pa": {
+    "hostname": "www.movistar.com.pa",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMVbAADFWwAAxVsAAMVbAADFWwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADFWwAAxVs3AMVbiADFWxUAxVsAAMVbAgDFWyYAxVtKAMVbNQDFWwkAxVsAAMVbAAAAAAAAAAAAAAAAAAAAAAAAxVsFAMVbpgDFW+gAxVslAMVbAADFW1kAxVvgAMVb+gDFW/AAxVuTAMVbDADFWwAAAAAAAAAAAAAAAAAAAAAAAMVbJwDFW+IAxVu9AMVbCADFWykAxVvcAMVb/wDFW/8AxVv/AMVb9wDFW1IAxVsAAMVbAADFWzAAxVtrAMVbDwDFW1YAxVv6AMVbfwDFWwEAxVuVAMVb/wDFW/8AxVv/AMVb/wDFW/8AxVucAMVbAQDFWwAAxVt5AMVb9gDFW04AxVt7AMVb/gDFW14AxVs/AMVb7QDFW/8AxVv/AMVb/wDFW/8AxVv/AMVb2ADFWxwAxVsAAMVbbADFW/8AxVt0AMVbhQDFW/8AxVvIAMVb0gDFW/8AxVv/AMVb/wDFW+8AxVvtAMVb/wDFW/sAxVteAMVbAADFW10AxVv/AMVbhADFW28AxVv9AMVb/wDFW/8AxVv/AMVb/wDFW9EAxVtAAMVbPADFW9YAxVv/AMVbxgDFWyEAxVt0AMVb/wDFW38AxVtAAMVb7gDFW/8AxVv/AMVb/wDFW/IAxVtQAMVbAADFWwAAxVt5AMVb/wDFW/4AxVvXAMVb5wDFW/wAxVtmAMVbDgDFW7YAxVv/AMVb/wDFW/8AxVuSAMVbBQDFWwAAxVsAAMVbKwDFW+QAxVv/AMVb/wDFW/8AxVvtAMVbPQDFWwAAxVs2AMVbwgDFW+YAxVufAMVbFwDFWwAAxVsAAMVbAADFWwMAxVuYAMVb/wDFW/8AxVv/AMVbwADFWxAAxVsAAMVbAADFWxEAxVsjAMVbCgDFWwAAxVsAAAAAAADFWwAAxVsAAMVbKADFW8QAxVv9AMVb6wDFW1UAxVsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMVbAADFWwAAxVsaAMVbUQDFWzgAxVsDAMVbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAI//AACIPwAACB8AAAAYAAAACAAAAAgAAAAIAAAAAAAAAYAAAAGAAACDgAAAx8EAAP/hAAD//wAA//8AAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "my.sendinblue.com",
+      "www.googletagmanager.com",
+      "ajax.googleapis.com",
+      "websec.movistar.com.pa",
+      "www.google-analytics.com",
+      "script.crazyegg.com",
+      "www.gstatic.com",
+      "sibautomation.com",
+      "static.hotjar.com",
+      "connect.facebook.net",
+      "static-or01.inbenta.com",
+      "fonts.gstatic.com",
+      "sdk.inbenta.io",
+      "script.hotjar.com",
+      "vars.hotjar.com",
+      "in-automate.sendinblue.com",
+      "www.facebook.com",
+      "in.hotjar.com"
+    ]
+  }
+}

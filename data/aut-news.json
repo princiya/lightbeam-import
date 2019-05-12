@@ -1,0 +1,140 @@
+{
+  "ad1.adfarm1.adition.com": {
+    "hostname": "ad1.adfarm1.adition.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "at.iocnt.net": {
+    "hostname": "at.iocnt.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "at.staticfiles.at": {
+    "hostname": "at.staticfiles.at",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ci.nuggad.net": {
+    "hostname": "ci.nuggad.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "derstandard.at": {
+    "hostname": "derstandard.at",
+    "favicon": "https://at.staticfiles.at/sites/mainweb/img/icons/dst/228-v2.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "at.staticfiles.at",
+      "www.google-analytics.com",
+      "script-at.iocnt.net",
+      "images.derstandard.at",
+      "px.staticfiles.at",
+      "imagesrv.adition.com",
+      "at.iocnt.net",
+      "static.adfarm1.adition.com",
+      "px.derstandard.at",
+      "ad1.adfarm1.adition.com",
+      "ci.nuggad.net",
+      "vt.adition.com",
+      "derstandard.nuggad.net"
+    ]
+  },
+  "derstandard.nuggad.net": {
+    "hostname": "derstandard.nuggad.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.derstandard.at": {
+    "hostname": "images.derstandard.at",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imagesrv.adition.com": {
+    "hostname": "imagesrv.adition.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.derstandard.at": {
+    "hostname": "px.derstandard.at",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.staticfiles.at": {
+    "hostname": "px.staticfiles.at",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script-at.iocnt.net": {
+    "hostname": "script-at.iocnt.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.adfarm1.adition.com": {
+    "hostname": "static.adfarm1.adition.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vt.adition.com": {
+    "hostname": "vt.adition.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "derstandard.at"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "api.publico.pt": {
+    "hostname": "api.publico.pt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.publico.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bywe2.byside.com": {
+    "hostname": "bywe2.byside.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.pt",
+      "my.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "customer.cludo.com": {
+    "hostname": "customer.cludo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.pt",
+      "my.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mobilesites.vodafone.pt": {
+    "hostname": "mobilesites.vodafone.pt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "my.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "my.vodafone.pt": {
+    "hostname": "my.vodafone.pt",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAP0VAAD9FQAAAAAAAAAAAAAAAAAAAAAAAAwL3gANC94EDArdNwsK3Y8LCt3TCwrd7wwL3u8LCt3TCwrdjwwK3TkMC94EDArdAAAAAAAAAAAAAAAAAAwK3QAMCt0RCwrdfQsK3eMLCt3+Cwrd/wwL3f8LC93/Cwve/wsK3f4LCt3jCwrefgsK3REMCt0AAAAAAAsK3QALCd0QCwrdnAsK3fwLCt3/Cwrd/wkI3f8GBtz/BgXc/wgH3f8LCt3/Cwrd/wsK3fwLCt2dDArdEQwK3QAIBtwCDArdegsK3fsLCt3/Cgnd/wwM3f80NOH/ZGTo/2lp6f9AQOP/ERDd/woI3f8LCt3/Cwrd/AsK3YAOC90DCwrdNwsK3eELCt3/Cgnd/xQT3v+Bgez/5eX7//39///+/v//7+/8/5yc8P8gH9//Cgnd/wsK3f8MCt3kDArdOgsK3Y0LCt3+Cwrd/woJ3f97e+v/+vr+////////////////////////////l5fv/w8O3f8LCt3/Cwrd/wsK3ZELC93QCwrd/wkI3f8qKeD/3Nz5/////////////////////////////////+np/P83N+L/CQfd/wsK3f8LCt3UCwrd7gsL3f8HBt3/Vlbm//n5/v/////////////////////////////////7+/7/Wlrn/wcF3P8LCt3/Cwrd8AsK3e0LCt3/Bgbc/2Rk6P/9/f//////////////////////////////////+fn+/1NT5v8HBtz/Cwrd/wsK3e8LCt3OCwrd/wcG3P9RUeb/+Pj+/////////////////////////////////9nZ+f8oKOD/CQjd/wsK3f8LCt3RCwrdiwsK3f4JCN3/Jibf/9nZ+f///////////////////////////+np+/9jYuf/Cgnd/wsK3f8LCt3+CwrdjgsK3TULCt3hCwrd/woJ3P+Fhe3//v7/////////////7+/8/6Gh8P9EROP/Cwvd/wsK3f8LCt3/Cwrd4QsK3TcKCt0CCwrdegsK3fsJCN3/IB/f/7m59P///////////83N9/8ZGd7/Bwbd/wsK3f8LCt3/Cwrd/AsK3X0NCdwCDArdAAwK3RALC92aCwrd/AkI3f8pKOD/rKzy//n5/v/z8/3/UlLm/wYF3P8LCt3/Cwrd/AsK3ZwMCt0QDArdAAAAAAALC90ACwvdEAsK3XsLCt7gCQjd/hYV3v9hYef/t7f0/7e39P9ISOT+EA/d4goK3XsLCt0QCwrdAAAAAAAAAAAAAAAAAAsM3gALDN4DDAveNAwL3YsKCd3NBwbc7BQT3e0+PuLPbm7pjTo74jcAANYDCgrcAAAAAAAAAAAA4AcAAMADAACAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAADAAwAA4AcAAA==",
+    "firstPartyHostnames": [
+      "www.vodafone.pt"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "tags.tiqcdn.com",
+      "customer.cludo.com",
+      "bywe2.byside.com",
+      "wwe2.byside.com",
+      "mobilesites.vodafone.pt"
+    ]
+  },
+  "support-en.wd.com": {
+    "hostname": "support-en.wd.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AObbyTXGrIF+xKh7hMSoe4TEqHuExKh7hMSoe4TEqHuExKh7hMSoe4TEqHuExKh7hMasgX7m28k1////ANnIq1SPWgX6jlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/j1oF+tnIq1SmfDfJjlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+mfDfJnG4j3IxYAf+MWAH/jVgA/41YAP+MWAH/jFgB/4xYAf+MWAH/jFgB/4xYAf+MWAD/jFgA/41YAP+NWAD/nG4j3JxuI9zi1MT/8erj/8Glev+MWAD/1cGm//Hq4//Cpn//7+ff//Hq4//x6uP/6+LW/8ashf+SYA7/jFgA/5xuItycbiPc4dTA///////28+7/k2EQ/+rg1P//////5dnJ/+LUwv//////6+LW/+PXxf/+/v3/6d/R/5RjEv+cbiLcnG4j3NXBpP/7+ff/9/Pv/8Spgf/18Ov/7OTa//39/P/Ls5H//////9/RvP+MWAD/tpVh//7+/v/Qupr/nG4i3JxuI9zIr4j//fz8/8qykP/39PD//fz8/72ecv/+/v7/zLWV//z7+v/69/X/lWQW/4xYAf/18ez/9O7o/5xvJNycbiPcrYhO/9nIsv+gdDD/yK+L/864mP+XZxn/uJho/7yeb/+tiFD/vZ5u/7ydbP/JsIv//v39/+zj1/+cbiPcnG4j3KqDRf/s49j/rYdM/7iXZP/q4dP/lGMT/76hc//q4dP/wqZ+/+rh0//q4dP/6uHT/+DRvP+jeTX/nG4i3JxuI9yNWAH/jVgB/41YAf+NWAH/jVgB/41YAf+NWAH/jVgB/41YAf+NWAH/jVgB/41YAf+NWAH/jVgB/5xuI9ymfDfJjlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+mfDfJ2cirVI9aBfqOWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+OWQL/jlkC/45ZAv+PWgX62cirVP///wDm28k1xqyBfsSoe4TEqHuExKh7hMSoe4TEqHuExKh7hMSoe4TEqHuExKh7hMSoe4TGrIF+5tvJNf///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A//8AAOAHAACAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAADgBwAA//8AAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "swa.vodafone.pt": {
+    "hostname": "swa.vodafone.pt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.pt",
+      "my.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "we2.byside.com": {
+    "hostname": "we2.byside.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wwe2.byside.com": {
+    "hostname": "wwe2.byside.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.pt",
+      "my.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.pt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.publico.pt": {
+    "hostname": "www.publico.pt",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "api.publico.pt"
+    ]
+  },
+  "www.vodafone.pt": {
+    "hostname": "www.vodafone.pt",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAP0VAAD9FQAAAAAAAAAAAAAAAAAAAAAAAAwL3gANC94EDArdNwsK3Y8LCt3TCwrd7wwL3u8LCt3TCwrdjwwK3TkMC94EDArdAAAAAAAAAAAAAAAAAAwK3QAMCt0RCwrdfQsK3eMLCt3+Cwrd/wwL3f8LC93/Cwve/wsK3f4LCt3jCwrefgsK3REMCt0AAAAAAAsK3QALCd0QCwrdnAsK3fwLCt3/Cwrd/wkI3f8GBtz/BgXc/wgH3f8LCt3/Cwrd/wsK3fwLCt2dDArdEQwK3QAIBtwCDArdegsK3fsLCt3/Cgnd/wwM3f80NOH/ZGTo/2lp6f9AQOP/ERDd/woI3f8LCt3/Cwrd/AsK3YAOC90DCwrdNwsK3eELCt3/Cgnd/xQT3v+Bgez/5eX7//39///+/v//7+/8/5yc8P8gH9//Cgnd/wsK3f8MCt3kDArdOgsK3Y0LCt3+Cwrd/woJ3f97e+v/+vr+////////////////////////////l5fv/w8O3f8LCt3/Cwrd/wsK3ZELC93QCwrd/wkI3f8qKeD/3Nz5/////////////////////////////////+np/P83N+L/CQfd/wsK3f8LCt3UCwrd7gsL3f8HBt3/Vlbm//n5/v/////////////////////////////////7+/7/Wlrn/wcF3P8LCt3/Cwrd8AsK3e0LCt3/Bgbc/2Rk6P/9/f//////////////////////////////////+fn+/1NT5v8HBtz/Cwrd/wsK3e8LCt3OCwrd/wcG3P9RUeb/+Pj+/////////////////////////////////9nZ+f8oKOD/CQjd/wsK3f8LCt3RCwrdiwsK3f4JCN3/Jibf/9nZ+f///////////////////////////+np+/9jYuf/Cgnd/wsK3f8LCt3+CwrdjgsK3TULCt3hCwrd/woJ3P+Fhe3//v7/////////////7+/8/6Gh8P9EROP/Cwvd/wsK3f8LCt3/Cwrd4QsK3TcKCt0CCwrdegsK3fsJCN3/IB/f/7m59P///////////83N9/8ZGd7/Bwbd/wsK3f8LCt3/Cwrd/AsK3X0NCdwCDArdAAwK3RALC92aCwrd/AkI3f8pKOD/rKzy//n5/v/z8/3/UlLm/wYF3P8LCt3/Cwrd/AsK3ZwMCt0QDArdAAAAAAALC90ACwvdEAsK3XsLCt7gCQjd/hYV3v9hYef/t7f0/7e39P9ISOT+EA/d4goK3XsLCt0QCwrdAAAAAAAAAAAAAAAAAAsM3gALDN4DDAveNAwL3YsKCd3NBwbc7BQT3e0+PuLPbm7pjTo74jcAANYDCgrcAAAAAAAAAAAA4AcAAMADAACAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAADAAwAA4AcAAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "tags.tiqcdn.com",
+      "customer.cludo.com",
+      "my.vodafone.pt",
+      "bywe2.byside.com",
+      "swa.vodafone.pt",
+      "wwe2.byside.com",
+      "we2.byside.com",
+      "www.google.com",
+      "www.gstatic.com",
+      "fonts.gstatic.com"
+    ]
+  }
+}

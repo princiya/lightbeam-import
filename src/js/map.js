@@ -51,8 +51,8 @@ path = d3.geoPath().projection(projection);
 svg.call(tip);
 
 queue()
-  .defer(d3.json, 'world/world_countries.json')
-  .defer(d3.tsv, 'world/world_population.tsv')
+  .defer(d3.json, '../world/world_countries.json')
+  .defer(d3.tsv, '../world/world_population.tsv')
   .await(ready);
 
 function ready(error, data, population) {
@@ -74,7 +74,7 @@ function ready(error, data, population) {
     .enter()
     .append('path')
     .attr('d', path)
-    .attr('class', d => {
+    .attr('id', d => {
       return `country-${d.id}`;
     })
     .style('fill', function(d) {
@@ -103,6 +103,7 @@ function ready(error, data, population) {
         .style('stroke-width', 0.3);
     })
     .on('click', d => {
-      alert(`country ${d.properties.name}`);
+      showViz(d.id);
+      // showAnimation(d.id);
     });
 }

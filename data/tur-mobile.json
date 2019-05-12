@@ -1,0 +1,120 @@
+{
+  "api.ipify.org": {
+    "hostname": "api.ipify.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.useinsider.com": {
+    "hostname": "api.useinsider.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hit.api.useinsider.com": {
+    "hostname": "hit.api.useinsider.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "location.api.useinsider.com": {
+    "hostname": "location.api.useinsider.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.turkcell.com.tr": {
+    "hostname": "s.turkcell.com.tr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.turkcell.com.tr": {
+    "hostname": "s1.turkcell.com.tr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s2.turkcell.com.tr": {
+    "hostname": "s2.turkcell.com.tr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.turkcell.com.tr": {
+    "hostname": "s3.turkcell.com.tr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "segment.api.useinsider.com": {
+    "hostname": "segment.api.useinsider.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "turkcell.api.useinsider.com": {
+    "hostname": "turkcell.api.useinsider.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "weather.api.useinsider.com": {
+    "hostname": "weather.api.useinsider.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.turkcell.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.turkcell.com.tr": {
+    "hostname": "www.turkcell.com.tr",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAABMLAAATCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACzH/y8sx//PLMf/6izH/+osx//RLMf/lSzH/zcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsx/9eLMf//yzH//8sx///LMf//yzH//8sx//9LMf/mizH/wsAAAAAAAAAAAAAAAAsx/8OLMf/QAAAAAAAAAAALMf/GyzH//Esx///LMf//yzH//8sx///LMf//yzH//8sx/+9LMf/DAAAAAAAAAAALMf/fyzH//8sx/90AAAAAAAAAAAsx/+HLMf//yzH//8sx///LMf//yzH//8sx///LMf//yzH/58AAAAAAAAAACzH/6ssx///LMf/9SzH/zoAAAAALMf/DSzH/9Asx///LMf//yzH//8sx///LMf//yzH//8sx///LMf/PAAAAAAsx/+HLMf//yzH//8sx//mLMf/OQAAAAAsx/8jLMf/2izH//8sx///LMf//yzH//8sx///LMf//yzH/54AAAAALMf/OSzH//8sx///LMf//yzH//Isx/9gAAAAACzH/xMsx/+zLMf//yzH/+8sx//fLMf//yzH//8sx//XAAAAACzH/wEsx/++LMf//yzH//8sx///LMf//yzH/7Isx/81AAAAACzH/zgsx/8hLMf/DCzH/4gsx///LMf/6yzH/yIAAAAALMf/MizH//gsx///LMf//yzH//8sx///LMf//yzH/8Asx/8uAAAAAAAAAAAsx/8XLMf//yzH/+4sx//nLMf/UAAAAAAsx/9hLMf//yzH//8sx///LMf//yzH//8sx///LMf/xizH/wsAAAAALMf/ZyzH//8sx//bLMf/3SzH//ssx/9zAAAAACzH/14sx/+TLMf/RyzH/4ssx//9LMf//yzH//8sx//WLMf/vCzH//0sx///LMf/oCzH/3Usx///LMf//yzH/8Ysx/89AAAAAAAAAAAAAAAALMf/wSzH//8sx///LMf//yzH//8sx///LMf//yzH/zwsx/8MLMf/0izH//8sx///LMf/7SzH/w0AAAAAAAAAACzH/8ksx///LMf//yzH//8sx///LMf//yzH/5wAAAAAAAAAACzH/yksx//kLMf//yzH//8sx/+2LMf/XyzH/6csx///LMf//yzH//8sx///LMf//yzH/8Asx/8NAAAAAAAAAAAAAAAALMf/JizH/78sx///LMf//yzH//8sx///LMf//yzH//8sx///LMf//izH/50sx/8NAAAAAAAAAAAAAAAAAAAAAAAAAAAsx/8CLMf/UizH/6ssx//eLMf/7SzH/+0sx//TLMf/lizH/zsAAAAAAAAAAAAAAAAAAAAA+B8AAPgHhYvIA2bHjAH1HIQASfeCACj/gQCQc4AAg6FAGFjsIBjTLwAAAAAGAAAAhgEAJcADCADgB+4E8B/uBA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "turkcell.api.useinsider.com",
+      "s.turkcell.com.tr",
+      "api.useinsider.com",
+      "location.api.useinsider.com",
+      "s2.turkcell.com.tr",
+      "api.ipify.org",
+      "s3.turkcell.com.tr",
+      "s1.turkcell.com.tr",
+      "segment.api.useinsider.com",
+      "weather.api.useinsider.com",
+      "hit.api.useinsider.com"
+    ]
+  }
+}

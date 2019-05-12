@@ -1,0 +1,550 @@
+{
+  "ad.360yield.com": {
+    "hostname": "ad.360yield.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adimg-d01.news18.com": {
+    "hostname": "adimg-d01.news18.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.co.in": {
+    "hostname": "adservice.google.co.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.statful.com": {
+    "hostname": "beacon.statful.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.mgid.com": {
+    "hostname": "c.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.engine.addroplet.com": {
+    "hostname": "cdn.engine.addroplet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.mgid.com": {
+    "hostname": "cdn.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.onthe.io": {
+    "hostname": "cdn.onthe.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clients1.google.com": {
+    "hostname": "clients1.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.adsafety.net": {
+    "hostname": "cm.adsafety.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.marketgid.com": {
+    "hostname": "cm.marketgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.mgid.com": {
+    "hostname": "cm.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cse.google.com": {
+    "hostname": "cse.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "engine.4dsply.com": {
+    "hostname": "engine.4dsply.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "engine.addroplet.com": {
+    "hostname": "engine.addroplet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eus.rubiconproject.com": {
+    "hostname": "eus.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gum.criteo.com": {
+    "hostname": "gum.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ice.360yield.com": {
+    "hostname": "ice.360yield.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.news18.com": {
+    "hostname": "images.news18.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "inapi.posst.co": {
+    "hostname": "inapi.posst.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jp-u.openx.net": {
+    "hostname": "jp-u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jsc.mgid.com": {
+    "hostname": "jsc.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pr-bh.ybp.yahoo.com": {
+    "hostname": "pr-bh.ybp.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb.openx.net": {
+    "hostname": "rtb.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s-img.mgid.com": {
+    "hostname": "s-img.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.in.com": {
+    "hostname": "s.in.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "servicer.mgid.com": {
+    "hostname": "servicer.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.amp.services": {
+    "hostname": "static.amp.services",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.criteo.net": {
+    "hostname": "static.criteo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync-dsp.ad-m.asia": {
+    "hostname": "sync-dsp.ad-m.asia",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tt.onthe.io": {
+    "hostname": "tt.onthe.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "u.openx.net": {
+    "hostname": "u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.co.in": {
+    "hostname": "www.google.co.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleapis.com": {
+    "hostname": "www.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.news18.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.news18.com": {
+    "hostname": "www.news18.com",
+    "favicon": "data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QMraHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6NTY6MjcgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkRCRDFCMkYzMDNCNjExRTY4MDQ2RURDMEUwOTU2MzYxIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkRCRDFCMkY0MDNCNjExRTY4MDQ2RURDMEUwOTU2MzYxIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6REJEMUIyRjEwM0I2MTFFNjgwNDZFREMwRTA5NTYzNjEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6REJEMUIyRjIwM0I2MTFFNjgwNDZFREMwRTA5NTYzNjEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAmQWRvYmUAZMAAAAABAwAVBAMGCg0AAAUvAAAGQAAABuMAAAdz/9sAhAABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAgICAgICAgICAgIDAwMDAwMDAwMDAQEBAQEBAQIBAQICAgECAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwP/wgARCAAQABADAREAAhEBAxEB/8QAowAAAwAAAAAAAAAAAAAAAAAABAUGAQACAwAAAAAAAAAAAAAAAAADBAUHCRAAAwEBAQAAAAAAAAAAAAAABAUGAwIHEQABBAEDBAMAAAAAAAAAAAADAQIEBREhEhQAQRMGMSMVEgABAgUDBAIDAAAAAAAAAAABAgMAESESBDFBE1FhIhTwYrEyQhMBAQEAAwEBAQAAAAAAAAAAAREhADFBUWFx/9oADAMBAAIRAxEAAAG9pbQEw4Uiz9Y3Df/aAAgBAQABBQJTCzTqQ9B87TyyiPu1k1N3noM86Q//2gAIAQIAAQUC4Hy0GME4w4xJ5yyLLx2y/9oACAEDAAEFAjaJsA7mac5ua8nS2rWcmmYDL//aAAgBAgIGPwIOhRDnIEmegnvF6L/3t8hrL+k/WLJTUHUq7U+dI42uSrl3lKnYS2j/2gAIAQMCBj8CdwHmWlYoxnHm7Z3qCAZA1lUg7aR6mUnHKTj8oUyVGyZlxuTn5x7Ta0oxzhLZnW65V23StawjOz/WQlnH4QGQfP7uaTP5PSP/2gAIAQEBBj8CrrqLbWEeyJf1VBacvjtrIZrCSJpCiTwMMRgox2uTJMbuks6094Egr0lESLfiijfY+KO4y2tRxmCUla5W4RXIuc9u/wCdIhyJk5nt1bfsFsFxCRYbYrSMUzib2SchVWfWqZx1Kp6RL+Y+0vlv5Mj2AoiJWOc3HAq2sIVRx0XRG/DG51XOn//aAAgBAQMBPyF8PQbI5SYOgs3lrsqsffqjYoDl/CuZKHjwrKXjdbVT0r61Wk43/9oACAECAwE/IVMDKdyfUCLU94PQI2EMLh34H9N4bT8Vo822v9cUArNa0J2vXu+bc//aAAgBAwMBPyHRCwLlohGZfYLxWJZAh041UEk6bl801QRDBHIxZScWOJYkexPpXuDI3//aAAwDAQACEQMRAAAQYk//2gAIAQEDAT8Qpm3ZUUhBNnmJmg3ZAph7G25BhGt4i2BBPahDrZtze/ueSt//2gAIAQIDAT8QnK4UjlRoOETIR4+DEi1WFUEDv9A/MIwE10CSIB22RYMVaETUaaoD6uP/2gAIAQMDAT8QAIaXVBHpKIQox68gFQMZ8OAJ5F4uBKK1my2XR4KIipsAEhrEzcv/2Q==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "images.news18.com",
+      "ajax.googleapis.com",
+      "www.googleadservices.com",
+      "static.amp.services",
+      "cse.google.com",
+      "fonts.gstatic.com",
+      "www.google.com",
+      "cdn.engine.addroplet.com",
+      "bat.bing.com",
+      "jsc.mgid.com",
+      "s.in.com",
+      "cdn.onthe.io",
+      "clients1.google.com",
+      "www.googleapis.com",
+      "engine.addroplet.com",
+      "servicer.mgid.com",
+      "tt.onthe.io",
+      "cdn.mgid.com",
+      "s-img.mgid.com",
+      "beacon.statful.com",
+      "www.googletagservices.com",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "sb.scorecardresearch.com",
+      "inapi.posst.co",
+      "connect.facebook.net",
+      "c.mgid.com",
+      "googleads.g.doubleclick.net",
+      "cm.mgid.com",
+      "adservice.google.co.in",
+      "securepubads.g.doubleclick.net",
+      "www.google.co.in",
+      "adservice.google.com",
+      "www.facebook.com",
+      "ice.360yield.com",
+      "cm.marketgid.com",
+      "static.criteo.net",
+      "cdn.ampproject.org",
+      "s0.2mdn.net",
+      "tpc.googlesyndication.com",
+      "ad.doubleclick.net",
+      "engine.4dsply.com",
+      "gum.criteo.com",
+      "adimg-d01.news18.com",
+      "eus.rubiconproject.com",
+      "ad.360yield.com",
+      "u.openx.net",
+      "pr-bh.ybp.yahoo.com",
+      "cm.adsafety.net",
+      "sync-dsp.ad-m.asia",
+      "rtb.openx.net",
+      "jp-u.openx.net",
+      "pixel.rubiconproject.com"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "analytics.codigo.se": {
+    "hostname": "analytics.codigo.se",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.svt.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.svt.se": {
+    "hostname": "api.svt.se",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.svt.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.svt.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pp.lp4.io": {
+    "hostname": "pp.lp4.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.svt.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "svt.d3.sc.omtrdc.net": {
+    "hostname": "svt.d3.sc.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.svt.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "svt.demdex.net": {
+    "hostname": "svt.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.svt.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.svt.se": {
+    "hostname": "www.svt.se",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAHIUExURf/+/r+/v/39/fn5+QEBAfj4+PLy8v///wAAAP7+/vr6+urq6vz8/O/v7+fn5/X19fv7+xUVFaioqPf39x8fH//9/bS0tIyMjN3d3dDQ0M7Ozujo6JmZmbCwsMXFxfPz8wICAgMDA6GhocjIyPDw8I+Pj8zMzKenp/Hx8SAgIKWlpdXV1bu7u9vb29jY2MbGxoqKiubm5piYmLq6uo6OjuHh4a2trX19fbGxseTk5MLCwu7u7tnZ2SEhIePj48PDw9TU1PT09LKysra2tu3t7YuLizc3N8HBwRISEqmpqdzc3MrKyigoKGdnZ3t7ey0tLQUFBQgICEpKSgwMDAYGBvb29oaGhtPT07m5ua+vr3h4eKOjo5WVlcDAwLOzs9/f36ysrOXl5bW1teLi4qCgoKKiopqamre3t5ycnJ+fn66urr29vSUlJWhoaH5+fg0NDSkpKVdXVxMTE42NjWlpaVRUVEZGRhwcHIKCgnZ2dj4+PjExMT09PS4uLqurqzMzMxAQEFZWVm1tbYODgwcHByIiItHR0U1NTVVVVc/Pz0dHRzo6Op6enh4eHmRkZAoKCjU1NeDg4BQUFICAgOvr61xcXElJSRgYGFYYo28AAAHMSURBVDjLxZNlcxRBEIZvdXpWbm/3wrm7xd3d3QMkEFcggkRwiQeI5+9mr1LZA1J1fKFIf5h6e+apnndqunUPdGlDPUZpQ3dvAFdjY9MC9u7l6rSAPoMmfgMkwvGhFNfkx5OJSJRVROElscRrQKTTC9CRaIR3opo56LfWSgCQhzVAgW97x6fKfr83oVZ7A5v6KKx3PGc04Cv0Gc/jmNmFLwj5e3uq+Qy6JFCb8hCGn2dtGKEj2K5CxbBV+6fJyA8arrp4dPIdYuJ7CN59hbv10gsXEu6Ez0X0WvwOgCVsjPUMtKN6z6cmWOWQPUonfgHIuj4n29zvdaHyjwC0ghDbBF18FncLSK9hoLsFDhsQ2gB4lqvuF4CnUn6sXVH4Svb0HoRUZVuRi5OV2Reyp2VI0ExyFteOOymE3KmbbzS0uTIN/7BhMEZYQCSpCoORoyhKXQWGTAGZMWYsn3eNTFSVzThtczmEb9GmKCZKA6yPssP+0ZJxU50vGBIb5kWzXz9b6LCngCc+M5tjedgani5oFwMLrDnb3hh0kBqQFbKYKVN581PLZF59hdsp5ZmsztKiVD8YOGzEDEkJAhXg3ZjBEZ5l8CD5vybrb+N/DcU6UWYKIo3PAAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.svtstatic.se",
+      "pp.lp4.io",
+      "analytics.codigo.se",
+      "dpm.demdex.net",
+      "api.svt.se",
+      "svt.demdex.net",
+      "svt.d3.sc.omtrdc.net"
+    ]
+  },
+  "www.svtstatic.se": {
+    "hostname": "www.svtstatic.se",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.svt.se"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

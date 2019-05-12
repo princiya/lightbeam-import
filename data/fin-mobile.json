@@ -1,0 +1,240 @@
+{
+  "6b90eceaad4f672b7760334a74898f7e.inpref.com": {
+    "hostname": "6b90eceaad4f672b7760334a74898f7e.inpref.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "account.psplugin.com": {
+    "hostname": "account.psplugin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.db-ip.com": {
+    "hostname": "api.db-ip.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.ipify.org": {
+    "hostname": "api.ipify.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-ams-v3.conductrics.com": {
+    "hostname": "cdn-ams-v3.conductrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.optimizely.com": {
+    "hostname": "cdn.optimizely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dnn506yrbagrg.cloudfront.net": {
+    "hostname": "dnn506yrbagrg.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dnt.qualaroo.com": {
+    "hostname": "dnt.qualaroo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "elisa.fi": {
+    "hostname": "elisa.fi",
+    "favicon": "https://static.elisa.fi/components/elisa-navi/5.3.6/img/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.optimizely.com",
+      "static.elisa.fi",
+      "inpref.s3.amazonaws.com",
+      "esco.elisa.fi",
+      "www.googletagmanager.com",
+      "6b90eceaad4f672b7760334a74898f7e.inpref.com",
+      "dnn506yrbagrg.cloudfront.net",
+      "www.google-analytics.com",
+      "id.elisa.fi",
+      "connect.facebook.net",
+      "cdn-ams-v3.conductrics.com",
+      "inpref.com",
+      "wurfl.io",
+      "static.hotjar.com",
+      "account.psplugin.com",
+      "www.facebook.com",
+      "s3.amazonaws.com",
+      "script.hotjar.com",
+      "vars.hotjar.com",
+      "api.ipify.org",
+      "elisa.psplugin.com",
+      "api.db-ip.com",
+      "dnt.qualaroo.com"
+    ]
+  },
+  "elisa.psplugin.com": {
+    "hostname": "elisa.psplugin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "esco.elisa.fi": {
+    "hostname": "esco.elisa.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.elisa.fi": {
+    "hostname": "id.elisa.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "inpref.com": {
+    "hostname": "inpref.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "inpref.s3.amazonaws.com": {
+    "hostname": "inpref.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.amazonaws.com": {
+    "hostname": "s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.elisa.fi": {
+    "hostname": "static.elisa.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wurfl.io": {
+    "hostname": "wurfl.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "elisa.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

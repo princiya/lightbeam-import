@@ -1,0 +1,100 @@
+{
+  "airtel.d3.sc.omtrdc.net": {
+    "hostname": "airtel.d3.sc.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.airtel.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "airtel.demdex.net": {
+    "hostname": "airtel.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.airtel.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.adobedtm.com": {
+    "hostname": "assets.adobedtm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.airtel.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.airtel.in": {
+    "hostname": "assets.airtel.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.airtel.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bhartiairtel.tt.omtrdc.net": {
+    "hostname": "bhartiairtel.tt.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.airtel.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.tt.omtrdc.net": {
+    "hostname": "cdn.tt.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.airtel.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.airtel.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3-ap-southeast-1.amazonaws.com": {
+    "hostname": "s3-ap-southeast-1.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.airtel.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.airtel.in": {
+    "hostname": "www.airtel.in",
+    "favicon": "data:image/webp;base64,UklGRioBAABXRUJQVlA4TB4BAAAvHkAHEO8wG9M+JAobSUpj2LsCgXGCQmEIGAQfCQLhQCBwMBwMhQIAIBAADASAwDCSrSbPrx/MOYKv/0JRoISI/k8AUsWO++3ufTTIqcPN/1WT7Mz4t4/TjelNTOeZ0Vc/ujHv8lV7ZnYSWOY3AHpmfNxXDVgmP4NK2b1BA7lSnl4QjkGNhfHvIPjWQA3jL4v/0pF3sUS9oyBSHDnjiTkNopWkRs2C+JpcgfnHNUidSAXK42OrkFp5rgAgs/NHWwCASMxCVwaAlAjt/jyn+RnoDeL1JcnxS8kO8eXNsP7QmxMSV4YDQutZI1EZjgjVsUVqH0wIG14WySvJCQCKmasgfSOPAoBe7JBzJC2gs5sVWSvHpV/fzSB3NR/7qEgH",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.airtel.in",
+      "assets.adobedtm.com",
+      "cdn.tt.omtrdc.net",
+      "bhartiairtel.tt.omtrdc.net",
+      "s3-ap-southeast-1.amazonaws.com",
+      "dpm.demdex.net",
+      "airtel.demdex.net",
+      "www.google.co.in",
+      "airtel.d3.sc.omtrdc.net"
+    ]
+  },
+  "www.google.co.in": {
+    "hostname": "www.google.co.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.airtel.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

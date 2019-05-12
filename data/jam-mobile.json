@@ -1,0 +1,330 @@
+{
+  "5909823.fls.doubleclick.net": {
+    "hostname": "5909823.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.jm": {
+    "hostname": "adservice.google.com.jm",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bid.g.doubleclick.net": {
+    "hostname": "bid.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.optimizely.com": {
+    "hostname": "cdn.optimizely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.adsrvr.org": {
+    "hostname": "js.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "livechat.digicelgroup.com": {
+    "hostname": "livechat.digicelgroup.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maps.googleapis.com": {
+    "hostname": "maps.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.adsrvr.org": {
+    "hostname": "match.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maxcdn.bootstrapcdn.com": {
+    "hostname": "maxcdn.bootstrapcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "npmcdn.com": {
+    "hostname": "npmcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scontent.fkin1-1.fna.fbcdn.net": {
+    "hostname": "scontent.fkin1-1.fna.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scontent.xx.fbcdn.net": {
+    "hostname": "scontent.xx.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "st.getsitecontrol.com": {
+    "hostname": "st.getsitecontrol.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.xx.fbcdn.net": {
+    "hostname": "static.xx.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "video.fkin1-1.fna.fbcdn.net": {
+    "hostname": "video.fkin1-1.fna.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.getsitecontrol.com": {
+    "hostname": "widgets.getsitecontrol.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.digicelgroup.com": {
+    "hostname": "www.digicelgroup.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAArAOQBKwDkDysA5BsrAOQbKwDkGysA5BsrAOQbKwDkGSsA5BYrAOQPKwDkBCsA5AArAOQAAAAAAAAAAAAAAAAAKwDkDCsA5IcrAOTzKwDk9SsA5PUrAOT1KwDk9SsA5OorAOTPKwDknCsA5EkrAOQSKwDkASsA5AAAAAAAAAAAACsA5A0rAOSNKwDk/SsA5P8rAOT/KwDk/ysA5P8rAOT/KwDk/ysA5P4rAOT3KwDklSsA5CErAOQCKwDkAAAAAAArAOQNKwDkjSsA5P0rAOT/KwDk7isA5MMrAOTMKwDk1SsA5OYrAOT9KwDk/ysA5P8rAOSTKwDkFCsA5AAAAAAAKwDkDSsA5I0rAOT9KwDk/ysA5LQrAOQAKwDkFisA5C8rAORgKwDkwisA5PgrAOT/KwDk8CsA5EkrAOQDAAAAACsA5A0rAOSNKwDk/SsA5P8rAOS1AAAAACsA5AArAOQAKwDkACsA5DorAOTNKwDk/ysA5P8rAOSTKwDkEAAAAAArAOQNKwDkjSsA5P0rAOT/KwDktQAAAAAAAAAAAAAAAAAAAAArAOQAKwDkkSsA5PorAOT/KwDkwysA5BkAAAAAKwDkDSsA5I0rAOT9KwDk/ysA5LUAAAAAAAAAAAAAAAAAAAAAKwDkACsA5HorAOTxKwDk/ysA5MkrAOQaAAAAACsA5A0rAOSNKwDk/SsA5P8rAOS1AAAAAAAAAAAAAAAAAAAAACsA5AArAOSGKwDk9ysA5P8rAOTKKwDkGgAAAAArAOQNKwDkjSsA5P0rAOT/KwDktQAAAAAAAAAAAAAAACsA5AArAOQQKwDkqysA5P4rAOT/KwDktCsA5BYAAAAAKwDkDSsA5I0rAOT9KwDk/ysA5LQrAOQAKwDkACsA5AArAOQAKwDkXSsA5OMrAOT/KwDk/ysA5HkrAOQLAAAAACsA5A0rAOSNKwDk/SsA5P8rAOTPKwDkVysA5FgrAORiKwDkkCsA5NorAOT9KwDk/ysA5N8rAOQ0KwDkAgAAAAArAOQNKwDkjSsA5P0rAOT/KwDk9ysA5OMrAOTkKwDk5ysA5PcrAOT/KwDk/ysA5PkrAORtKwDkCSsA5AAAAAAAKwDkDSsA5IwrAOT8KwDk/isA5P8rAOT/KwDk/ysA5P8rAOT+KwDk/CsA5N4rAORiKwDkDSsA5AAAAAAAAAAAACsA5AorAORqKwDkwCsA5MErAOTBKwDkwSsA5MIrAOS8KwDkoSsA5GUrAOQqKwDkBysA5AArAOQAAAAAAAAAAAArAOQBKwDkCysA5BQrAOQUKwDkFCsA5BQrAOQUKwDkEysA5A8rAOQHKwDkACsA5AArAOQAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAwAAAAMAAAQBAAAHgQAAB8EAAAfBAAAHwQAAB4EAAAeBAAAAAQAAAAMAAAADAAAADwAAAB8AAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "maxcdn.bootstrapcdn.com",
+      "ajax.googleapis.com",
+      "cdnjs.cloudflare.com",
+      "npmcdn.com",
+      "cdn.optimizely.com",
+      "www.google.com",
+      "maps.googleapis.com",
+      "www.youtube.com",
+      "www.googletagmanager.com",
+      "www.gstatic.com",
+      "s.ytimg.com",
+      "www.facebook.com",
+      "livechat.digicelgroup.com",
+      "www.googleadservices.com",
+      "connect.facebook.net",
+      "www.google-analytics.com",
+      "js.adsrvr.org",
+      "5909823.fls.doubleclick.net",
+      "widgets.getsitecontrol.com",
+      "adservice.google.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.com.jm",
+      "www.google.com.jm",
+      "st.getsitecontrol.com",
+      "stats.g.doubleclick.net",
+      "staticxx.facebook.com",
+      "bid.g.doubleclick.net",
+      "match.adsrvr.org",
+      "scontent.fkin1-1.fna.fbcdn.net",
+      "video.fkin1-1.fna.fbcdn.net",
+      "scontent.xx.fbcdn.net",
+      "static.xx.fbcdn.net"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com.jm": {
+    "hostname": "www.google.com.jm",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.digicelgroup.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

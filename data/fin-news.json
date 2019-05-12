@@ -1,0 +1,820 @@
+{
+  "7caa2.v.fwmrm.net": {
+    "hostname": "7caa2.v.fwmrm.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a248.e.akamai.net": {
+    "hostname": "a248.e.akamai.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "acdn.adnxs.com": {
+    "hostname": "acdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ams1-ib.adnxs.com": {
+    "hostname": "ams1-ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "appnexus-partners.tremorhub.com": {
+    "hostname": "appnexus-partners.tremorhub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "audex.userreport.com": {
+    "hostname": "audex.userreport.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.adnxs.com": {
+    "hostname": "cdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.brandmetrics.com": {
+    "hostname": "cdn.brandmetrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.krxd.net": {
+    "hostname": "cdn.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.speedcurve.com": {
+    "hostname": "cdn.speedcurve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.adform.net": {
+    "hostname": "cm.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.adsafety.net": {
+    "hostname": "cm.adsafety.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collector.brandmetrics.com": {
+    "hostname": "collector.brandmetrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consumer.krxd.net": {
+    "hostname": "consumer.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cs.adingo.jp": {
+    "hostname": "cs.adingo.jp",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d5p.de17a.com": {
+    "hostname": "d5p.de17a.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dmp.brand-display.com": {
+    "hostname": "dmp.brand-display.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dmp.truoptik.com": {
+    "hostname": "dmp.truoptik.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dnt.qualaroo.com": {
+    "hostname": "dnt.qualaroo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsum-sec.casalemedia.com": {
+    "hostname": "dsum-sec.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eb2.3lift.com": {
+    "hostname": "eb2.3lift.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gatling.nelonenmedia.fi": {
+    "hostname": "gatling.nelonenmedia.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "global.ib-ibi.com": {
+    "hostname": "global.ib-ibi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gum.criteo.com": {
+    "hostname": "gum.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hs-stream-video.nm-stream.nelonenmedia.fi": {
+    "hostname": "hs-stream-video.nm-stream.nelonenmedia.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hs.mediadelivery.fi": {
+    "hostname": "hs.mediadelivery.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idpix.media6degrees.com": {
+    "hostname": "idpix.media6degrees.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "interactive.sanoma.fi": {
+    "hostname": "interactive.sanoma.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jadserve.postrelease.com": {
+    "hostname": "jadserve.postrelease.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mab.chartbeat.com": {
+    "hostname": "mab.chartbeat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "magnetic.t.domdex.com": {
+    "hostname": "magnetic.t.domdex.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.sharethrough.com": {
+    "hostname": "match.sharethrough.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.sync.ad.cpe.dotomi.com": {
+    "hostname": "match.sync.ad.cpe.dotomi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "menokone.hs.fi": {
+    "hostname": "menokone.hs.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ping.chartbeat.net": {
+    "hostname": "ping.chartbeat.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.advertising.com": {
+    "hostname": "pixel.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.glimr.io": {
+    "hostname": "pixel.glimr.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pre-usermatch.targeting.unrulymedia.com": {
+    "hostname": "pre-usermatch.targeting.unrulymedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prebid.adnxs.com": {
+    "hostname": "prebid.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rac.ruutu.fi": {
+    "hostname": "rac.ruutu.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "router.infolinks.com": {
+    "hostname": "router.infolinks.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb-csync.smartadserver.com": {
+    "hostname": "rtb-csync.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.spoutable.com": {
+    "hostname": "s.spoutable.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.thebrighttag.com": {
+    "hostname": "s.thebrighttag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.adform.net": {
+    "hostname": "s1.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.amazonaws.com": {
+    "hostname": "s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sat.sanoma.fi": {
+    "hostname": "sat.sanoma.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sn.sanoma.fi": {
+    "hostname": "sn.sanoma.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.google-analytics.com": {
+    "hostname": "ssl.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.chartbeat.com": {
+    "hostname": "static.chartbeat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.nelonenmedia.fi": {
+    "hostname": "static.nelonenmedia.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "survey.interquest.com": {
+    "hostname": "survey.interquest.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.ad-stir.com": {
+    "hostname": "sync.ad-stir.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.jivox.com": {
+    "hostname": "sync.jivox.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.spotim.market": {
+    "hostname": "sync.spotim.market",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.teads.tv": {
+    "hostname": "sync.teads.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "synchroscript.deliveryengine.adswizz.com": {
+    "hostname": "synchroscript.deliveryengine.adswizz.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tg.socdm.com": {
+    "hostname": "tg.socdm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tili.sanoma.fi": {
+    "hostname": "tili.sanoma.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trc.taboola.com": {
+    "hostname": "trc.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "turbo.qualaroo.com": {
+    "hostname": "turbo.qualaroo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ua.hs.fi": {
+    "hostname": "ua.hs.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "uipglob.semasio.net": {
+    "hostname": "uipglob.semasio.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vcdn.adnxs.com": {
+    "hostname": "vcdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vendorlist.consensu.org": {
+    "hostname": "vendorlist.consensu.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.hs.fi": {
+    "hostname": "www.hs.fi",
+    "favicon": "https://www.hs.fi/assets/images/hs/platform-icons/favicon.6e6d2afed9fe0112.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "menokone.hs.fi",
+      "cdn.speedcurve.com",
+      "hs.mediadelivery.fi",
+      "interactive.sanoma.fi",
+      "tags.tiqcdn.com",
+      "static.chartbeat.com",
+      "sn.sanoma.fi",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "pixel.glimr.io",
+      "sb.scorecardresearch.com",
+      "vendorlist.consensu.org",
+      "connect.facebook.net",
+      "acdn.adnxs.com",
+      "secure.adnxs.com",
+      "sat.sanoma.fi",
+      "www.facebook.com",
+      "vcdn.adnxs.com",
+      "tili.sanoma.fi",
+      "gum.criteo.com",
+      "ib.adnxs.com",
+      "ams1-ib.adnxs.com",
+      "www.supersaa.fi",
+      "survey.interquest.com",
+      "track.adform.net",
+      "cdn.adnxs.com",
+      "s1.adform.net",
+      "cdn.brandmetrics.com",
+      "cdn.krxd.net",
+      "mab.chartbeat.com",
+      "pixel.advertising.com",
+      "dsum-sec.casalemedia.com",
+      "pre-usermatch.targeting.unrulymedia.com",
+      "eb2.3lift.com",
+      "sync.teads.tv",
+      "s3.amazonaws.com",
+      "cm.adform.net",
+      "s.thebrighttag.com",
+      "ua.hs.fi",
+      "consumer.krxd.net",
+      "appnexus-partners.tremorhub.com",
+      "static.nelonenmedia.fi",
+      "rtb-csync.smartadserver.com",
+      "x.dlx.addthis.com",
+      "fonts.gstatic.com",
+      "www.gstatic.com",
+      "collector.brandmetrics.com",
+      "jadserve.postrelease.com",
+      "gatling.nelonenmedia.fi",
+      "beacon.krxd.net",
+      "turbo.qualaroo.com",
+      "dnt.qualaroo.com",
+      "7caa2.v.fwmrm.net",
+      "ping.chartbeat.net",
+      "hs-stream-video.nm-stream.nelonenmedia.fi",
+      "ssl.google-analytics.com",
+      "rac.ruutu.fi",
+      "audex.userreport.com",
+      "a248.e.akamai.net",
+      "dmp.truoptik.com",
+      "sync.spotim.market",
+      "s.spoutable.com",
+      "magnetic.t.domdex.com",
+      "sync.ad-stir.com",
+      "match.sync.ad.cpe.dotomi.com",
+      "router.infolinks.com",
+      "sync.jivox.com",
+      "tg.socdm.com",
+      "d5p.de17a.com",
+      "prebid.adnxs.com",
+      "synchroscript.deliveryengine.adswizz.com",
+      "trc.taboola.com",
+      "cm.adsafety.net",
+      "dmp.brand-display.com",
+      "match.sharethrough.com",
+      "cs.adingo.jp",
+      "fonts.googleapis.com",
+      "uipglob.semasio.net",
+      "dpm.demdex.net",
+      "global.ib-ibi.com",
+      "idpix.media6degrees.com"
+    ]
+  },
+  "www.supersaa.fi": {
+    "hostname": "www.supersaa.fi",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "x.dlx.addthis.com": {
+    "hostname": "x.dlx.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hs.fi"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

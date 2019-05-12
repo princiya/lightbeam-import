@@ -1,0 +1,270 @@
+{
+  "ad.crwdcntrl.net": {
+    "hostname": "ad.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.nextgen.guardianapps.co.uk": {
+    "hostname": "api.nextgen.guardianapps.co.uk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.guim.co.uk": {
+    "hostname": "assets.guim.co.uk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-gl.imrworldwide.com": {
+    "hostname": "cdn-gl.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.brandmetrics.com": {
+    "hostname": "cdn.brandmetrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.krxd.net": {
+    "hostname": "cdn.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collector.brandmetrics.com": {
+    "hostname": "collector.brandmetrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consumer.krxd.net": {
+    "hostname": "consumer.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.guim.co.uk": {
+    "hostname": "i.guim.co.uk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "interactive.guim.co.uk": {
+    "hostname": "interactive.guim.co.uk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ophan.theguardian.com": {
+    "hostname": "ophan.theguardian.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "phar.gu-web.net": {
+    "hostname": "phar.gu-web.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-dcr.imrworldwide.com": {
+    "hostname": "secure-dcr.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-gl.imrworldwide.com": {
+    "hostname": "secure-gl.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.co.uk": {
+    "hostname": "www.google.co.uk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.theguardian.com": {
+    "hostname": "www.theguardian.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAWInAmBgKAOZYScE4WEnBOFiKQX/YikF/2EnBOFhJwThYCgDmWInAmAAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABXycHIGAoA5liKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2EnBOFgKAOZXycHIAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAWEnA4BiKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YCgDmQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAV8nByBhJwThYikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/4thRv+LYUb/nXlj/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YScE4V8nByAAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAFfJwcgYScE4WIpBf9iKQX/YikF/2IpBf9iKQX/nXlj/9rNxP//////8ezp/515Y/96Siv/YikF/4thRv//////2s3E/4thRv9iKQX/YikF/2IpBf9iKQX/YScE4V8nByAAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABXycHIGEnBOFiKQX/YikF/2IpBf9iKQX/ekor//Hs6f////////////Hs6f96Siv/YikF/2IpBf9iKQX/i2FG/////////////////9rNxP+LYUb/YikF/2IpBf9iKQX/YScE4V8nByAAAAABAAAAAQAAAAEAAAABAAAAAQAAAAFhJwThYikF/2IpBf9iKQX/YikF/66Rfv//////////////////////i2FG/2IpBf9iKQX/YikF/2IpBf+LYUb///////////////////////////+LYUb/YikF/2IpBf9iKQX/YScE4QAAAAEAAAABAAAAAQAAAAEAAAABYCgDmWIpBf9iKQX/YikF/2IpBf+ukX7//////////////////////9rNxP9iKQX/YikF/2IpBf9iKQX/YikF/4thRv///////////////////////////515Y/9iKQX/YikF/2IpBf9iKQX/YScDgAAAAAEAAAABAAAAAV8nByBiKQX/YikF/2IpBf9iKQX/rpF+////////////////////////////nXlj/2IpBf9iKQX/YikF/2IpBf9iKQX/i2FG////////////////////////////nXlj/2IpBf9iKQX/YikF/2IpBf9iKQX/XycHIAAAAAEAAAABYCgDmWIpBf9iKQX/YikF/2IpBf/x7On///////////////////////////9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf+LYUb///////////////////////////+deWP/YikF/2IpBf9iKQX/YikF/2IpBf9gKAOZAAAAAV8nByBhJwThYikF/2IpBf9iKQX/rpF+////////////////////////////2s3E/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/4thRv///////////////////////////515Y/9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf8AAAABYicCYGIpBf9iKQX/YikF/2IpBf/x7On////////////////////////////FsaP/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/i2FG////////////////////////////nXlj/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2InAmBgKAOZYikF/2IpBf9iKQX/i2FG/////////////////////////////////66Rfv9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf+LYUb///////////////////////////+deWP/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YCgDmWEnBOFiKQX/YikF/2IpBf/FsaP/////////////////////////////////nXlj/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/4thRv///////////////////////////515Y/9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9hJwThYScE4WIpBf9iKQX/YikF/8Wxo/////////////////////////////////+deWP/YikF/2IpBf9iKQX/YikF/2IpBf+LYUb/xbGj////////////////////////////2s3E/515Y/9iKQX/YikF/2IpBf9iKQX/YikF/2EnBOFiKQX/YikF/2IpBf9iKQX/2s3E/////////////////////////////////515Y/9iKQX/YikF/2IpBf9iKQX/YikF/515Y/+deWP/nXlj/515Y/+deWP/nXlj/515Y/+deWP/nXlj/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf/azcT/////////////////////////////////nXlj/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YScE4WIpBf9iKQX/YikF/8Wxo/////////////////////////////////+deWP/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2EnBOFhJwThYikF/2IpBf9iKQX/rpF+/////////////////////////////////66Rfv9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YScE4WAoA5liKQX/YikF/2IpBf+LYUb/////////////////////////////////rpF+/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9gKAOZYicCYGIpBf9iKQX/YikF/2IpBf/x7On////////////////////////////FsaP/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf96Siv/ekor/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2InAmAAAAABYikF/2IpBf9iKQX/YikF/8Wxo////////////////////////////9rNxP9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/9rNxP+deWP/YikF/2IpBf9iKQX/YikF/2IpBf9hJwThAAAAAQAAAAFgKAOZYikF/2IpBf9iKQX/ekor//Hs6f///////////////////////////3pKK/9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf+ukX7//////515Y/9iKQX/YikF/2IpBf9iKQX/YikF/2AoA5kAAAABAAAAAV8nACBiKQX/YikF/2IpBf9iKQX/nXlj////////////////////////////nXlj/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/i2FG////////////nXlj/2IpBf9iKQX/YikF/2IpBf9iKQX/XycAIAAAAAEAAAABAAAAAWEnA4BiKQX/YikF/2IpBf9iKQX/rpF+///////////////////////x7On/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/3pKK//x7On///////////+deWP/YikF/2IpBf9iKQX/YikF/2AoA5kAAAABAAAAAQAAAAEAAAABAAAAAWEnBOFiKQX/YikF/2IpBf9iKQX/rpF+//////////////////////+deWP/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/2s3E////////////8ezp/3pKK/9iKQX/YikF/2IpBf9hJwThAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABXycAIGEnBOFiKQX/YikF/2IpBf9iKQX/ekor/9rNxP////////////Hs6f96Siv/YikF/2IpBf9iKQX/YikF/66Rfv///////////8Wxo/96Siv/YikF/2IpBf9iKQX/YScE4V8nACAAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABXycAIGEnBOFiKQX/YikF/2IpBf9iKQX/YikF/4thRv/azcT/8ezp//Hs6f+ukX7/i2FG/2IpBf96Siv/8ezp/8Wxo/96Siv/YikF/2IpBf9iKQX/YikF/2EnBOFfJwAgAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABXycAIGEnBOFiKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/ekor/4thRv+deWP/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9hJwThXycAIAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAWAoA5liKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YScDgAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAV8nByBgKAOZYScE4WIpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YikF/2IpBf9iKQX/YCgDmV8nACAAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABYicCYGAoA5lhJwThYScE4WIpBf9iKQX/YScE4WEnBOFgKAOZYicCYAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "i.guim.co.uk",
+      "assets.guim.co.uk",
+      "interactive.guim.co.uk",
+      "phar.gu-web.net",
+      "www.google-analytics.com",
+      "sb.scorecardresearch.com",
+      "ophan.theguardian.com",
+      "api.nextgen.guardianapps.co.uk",
+      "stats.g.doubleclick.net",
+      "cdn.brandmetrics.com",
+      "www.googletagservices.com",
+      "www.facebook.com",
+      "secure-dcr.imrworldwide.com",
+      "www.googleadservices.com",
+      "cdn.krxd.net",
+      "ad.crwdcntrl.net",
+      "securepubads.g.doubleclick.net",
+      "collector.brandmetrics.com",
+      "cdn-gl.imrworldwide.com",
+      "googleads.g.doubleclick.net",
+      "secure-gl.imrworldwide.com",
+      "www.google.co.uk",
+      "www.google.com",
+      "consumer.krxd.net",
+      "beacon.krxd.net",
+      "connect.facebook.net"
+    ]
+  }
+}
