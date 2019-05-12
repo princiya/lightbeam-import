@@ -1,0 +1,120 @@
+{
+  "a2.xinhuanet.com": {
+    "hostname": "a2.xinhuanet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a3.xinhuanet.com": {
+    "hostname": "a3.xinhuanet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "da.xuan.news.cn": {
+    "hostname": "da.xuan.news.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imgs.xinhuanet.com": {
+    "hostname": "imgs.xinhuanet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.home.news.cn": {
+    "hostname": "t.home.news.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tmisc.home.news.cn": {
+    "hostname": "tmisc.home.news.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vodpub2.v.news.cn": {
+    "hostname": "vodpub2.v.news.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "webd.home.news.cn": {
+    "hostname": "webd.home.news.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.news.cn": {
+    "hostname": "www.news.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.newsimg.cn": {
+    "hostname": "www.newsimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.newsres.cn": {
+    "hostname": "www.newsres.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xinhuanet.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.xinhuanet.com": {
+    "hostname": "www.xinhuanet.com",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NzM1RkI5REY3QUMwMTFFNEE0ODhEMUVDNDJFMUYzQzQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NzM1RkI5RTA3QUMwMTFFNEE0ODhEMUVDNDJFMUYzQzQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo3MzVGQjlERDdBQzAxMUU0QTQ4OEQxRUM0MkUxRjNDNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo3MzVGQjlERTdBQzAxMUU0QTQ4OEQxRUM0MkUxRjNDNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PrwNq2UAAADnSURBVHjaYvz//z8DJYCJgUJAsQEsjKtfwPzgCMQHgBjGZ2QIk4Qr/DyDQQlIxQOxEUgfED8H4p0sSIbVQw1AAUCNCkCqB4iDgfg1EK8C4hNA/AJEIxvgAMXImkE2TgHiX0CcC8SzeDPAbIQX0CysR+O7AvF6IC4CanyDLQwYGVY9xx6Py/cykh8Ly/cyQAMThJ8BsRaUrQXl18PkkQ04gOE6CD4DxGFQsVAgPgvEDTB5ZAMa0QyAueAsVCMD1KCzyPLoLjiAxQVnoU5ngNJnkeQwwqARhwtgBjJAvQSTa2Qc+pkJIMAAnDVB1kwy7kEAAAAASUVORK5CYII=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.news.cn",
+      "a2.xinhuanet.com",
+      "tmisc.home.news.cn",
+      "webd.home.news.cn",
+      "a3.xinhuanet.com",
+      "www.newsres.cn",
+      "imgs.xinhuanet.com",
+      "da.xuan.news.cn",
+      "t.home.news.cn",
+      "vodpub2.v.news.cn",
+      "www.newsimg.cn"
+    ]
+  }
+}

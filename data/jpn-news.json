@@ -1,0 +1,440 @@
+{
+  "918-fod-433.mktoresp.com": {
+    "hostname": "918-fod-433.mktoresp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.bounceexchange.com": {
+    "hostname": "api.bounceexchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.demandbase.com": {
+    "hostname": "api.demandbase.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.docodoco.jp": {
+    "hostname": "api.docodoco.jp",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "area.autodesk.jp": {
+    "hostname": "area.autodesk.jp",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAABMLAAATCwAAAAAAAAAAAABIRjz/SEY8/0hGPP9IRjz/Skg+/0hGPP9IRjz/SEY8/0hGPP9IRjz/SUc9/0lHPv9IRjz/SEY8/0hGPP9IRjz/SEY8/0hGPP9IRjz/Skg+/0RCOf9HRTv/SEY8/0hGPP9IRjz/SUc9/0ZEO/9FQzr/Skg+/0hGPP9IRjz/SEY8/0hGPP9IRjz/SUc+/z89M/9RT0X/TEtB/0dFO/9IRjz/SEY8/0ZEOv9QTUT/TUxD/0A+NP9JRz7/SEY8/0hGPP9IRjz/Skg+/0A+NP9mZVv/u7qr/2xrX/8/PDP/Tk1D/05NQ/86OS7/gH9x/7i2qf9ZV07/QkE2/0pIPv9IRjz/SEY8/0tKQP82NCr/gX90/+Tj0/+Xl4r/HBkE/z48Mf85Ny3/Kiga/6mpm//l49T/enhv/zg1K/9LSkD/SEY8/0hGPP9KSD7/Q0E4/01MQv/QzsH/zMq//3NxZ/92dGv/dHJo/3x6cf/X1cj/y8m9/01MQv9DQTj/Skg+/0hGPP9IRjz/SEY8/0xLQf8xLiL/pqWb/+vq3f/i4dX/5+bZ/+bl2f/i4dT/6+re/6CflP8zMSX/S0pA/0hGPP9IRjz/SEY8/0hGPP9LSkH/OTcs/29uZf/s6uD/xMO5/3x7cv+Af3X/09LH/+rn3f9qaV//Ojku/0tKQP9IRjz/SEY8/0hGPP9IRjz/SUc9/0hGPP87Oy//08/J/9/c1v8nJhP/TU5E/+zq4f/LycL/ODYp/0lHPf9JRz3/SEY8/0hGPP9IRjz/SEY8/0hGPP9MS0H/MC8f/5mWkf////r/enlx/5WUj/////r/kJCH/y8sHP9NTEP/R0U7/0hGPP9IRjz/SEY8/0hGPP9IRjz/S0pA/z48Mf9cW1H/8vLs/8PCvP/Qz8r/7+7p/1JRR/9BQDX/Skk//0hGPP9IRjz/SEY8/0hGPP9IRjz/SEY8/0lHPf9KSUD/Mi8e/8PDvv/8/fr////9/7q5tP8tLBv/TEtC/0hGPP9IRjz/SEY8/0hGPP9KSD7/Skg+/0pIPv9JRz3/T01E/zQyIv+GhYD///////////94eHH/OTYq/01NQ/9KSD7/Skg+/0pIPv9KSD7/TUxC/01MQv9NTEL/TUxC/05NQ/9KST//UU9G/5qZlP+VlI//TUxC/0tKQP9OTUP/TUxC/01MQv9NTEL/TUxC/1NRR/9TUUf/U1FH/1NRR/9SUEb/U1FI/1JQRv89Oyz/Pz0v/1NRR/9TUUf/UlBG/1NRR/9TUUf/U1FH/1NRR/9ZV03/WVdN/1lXTf9ZV03/WVdN/1lXTf9aWE7/XlxS/15cUf9aWE7/WVdN/1lXTf9ZV03/WVdN/1lXTf9ZV03/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "t.co",
+      "analytics.twitter.com",
+      "smetrics.autodesk.com",
+      "maxcdn.bootstrapcdn.com",
+      "b.st-hatena.com",
+      "d.line-scdn.net",
+      "www.googletagmanager.com",
+      "connect.facebook.net",
+      "platform.twitter.com",
+      "syndication.twitter.com",
+      "b92.yahoo.co.jp",
+      "js.ptengine.jp",
+      "tags.tiqcdn.com",
+      "staticxx.facebook.com",
+      "api.docodoco.jp",
+      "static.ads-twitter.com",
+      "damassets.autodesk.com",
+      "d.impactradius-event.com",
+      "s.yimg.com",
+      "bat.bing.com",
+      "www.google-analytics.com",
+      "munchkin.marketo.net",
+      "ssl.google-analytics.com",
+      "tag.bounceexchange.com",
+      "sp.analytics.yahoo.com",
+      "www.facebook.com",
+      "api.demandbase.com",
+      "918-fod-433.mktoresp.com",
+      "assets.bounceexchange.com",
+      "api.bounceexchange.com",
+      "tracker.marinsm.com",
+      "secure.quantserve.com",
+      "sptc.clicktale.net",
+      "t.cfjump.com",
+      "events.bouncex.net",
+      "pixel.sprinklr.com",
+      "web-analytics.engagio.com",
+      "snap.licdn.com",
+      "rules.quantcount.com",
+      "cdnssl.clicktale.net",
+      "pixel.quantserve.com",
+      "pixel-prod.sprinklr.com",
+      "px.ads.linkedin.com"
+    ]
+  },
+  "assets.bounceexchange.com": {
+    "hostname": "assets.bounceexchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.st-hatena.com": {
+    "hostname": "b.st-hatena.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b92.yahoo.co.jp": {
+    "hostname": "b92.yahoo.co.jp",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnssl.clicktale.net": {
+    "hostname": "cdnssl.clicktale.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.impactradius-event.com": {
+    "hostname": "d.impactradius-event.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.line-scdn.net": {
+    "hostname": "d.line-scdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "damassets.autodesk.com": {
+    "hostname": "damassets.autodesk.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "events.bouncex.net": {
+    "hostname": "events.bouncex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.ptengine.jp": {
+    "hostname": "js.ptengine.jp",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maxcdn.bootstrapcdn.com": {
+    "hostname": "maxcdn.bootstrapcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "munchkin.marketo.net": {
+    "hostname": "munchkin.marketo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel-prod.sprinklr.com": {
+    "hostname": "pixel-prod.sprinklr.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.sprinklr.com": {
+    "hostname": "pixel.sprinklr.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.ads.linkedin.com": {
+    "hostname": "px.ads.linkedin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rules.quantcount.com": {
+    "hostname": "rules.quantcount.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.yimg.com": {
+    "hostname": "s.yimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.quantserve.com": {
+    "hostname": "secure.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "smetrics.autodesk.com": {
+    "hostname": "smetrics.autodesk.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "snap.licdn.com": {
+    "hostname": "snap.licdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp.analytics.yahoo.com": {
+    "hostname": "sp.analytics.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sptc.clicktale.net": {
+    "hostname": "sptc.clicktale.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.google-analytics.com": {
+    "hostname": "ssl.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.cfjump.com": {
+    "hostname": "t.cfjump.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.bounceexchange.com": {
+    "hostname": "tag.bounceexchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tracker.marinsm.com": {
+    "hostname": "tracker.marinsm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "web-analytics.engagio.com": {
+    "hostname": "web-analytics.engagio.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "area.autodesk.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

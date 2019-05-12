@@ -1,0 +1,300 @@
+{
+  "15833265.adoric-om.com": {
+    "hostname": "15833265.adoric-om.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adoric-user-images.s3.amazonaws.com": {
+    "hostname": "adoric-user-images.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apis.google.com": {
+    "hostname": "apis.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "app.adoric-om.com": {
+    "hostname": "app.adoric-om.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apps.pelephone.co.il": {
+    "hostname": "apps.pelephone.co.il",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clients1.google.com": {
+    "hostname": "clients1.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cse.google.com": {
+    "hostname": "cse.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dev.visualwebsiteoptimizer.com": {
+    "hostname": "dev.visualwebsiteoptimizer.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "in.hotjar.com": {
+    "hostname": "in.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.amazonaws.com": {
+    "hostname": "s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.adoric.com": {
+    "hostname": "static.adoric.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vc.hotjar.io": {
+    "hostname": "vc.hotjar.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.co.il": {
+    "hostname": "www.google.co.il",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.pages06.net": {
+    "hostname": "www.pages06.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.pelephone.co.il": {
+    "hostname": "www.pelephone.co.il",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAAAAABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAzWQLAMxmAADTfSkAzGUCAPDRtQDTciQA+OfZAMxfAADgoWYA2II5AOezhQDqv5UA+OnbAN2TUwD14s4AzGECAP///wDz2sMA/v38AM5qCgD03coA/PbvAM9vFADNaAcA+u7kAP+EAADgnmQA6LaLAMleAAD25dQA9d/MANZ6OgDKYQAA35hbANWALQD9+fUA0ngiAOa1hQDSchoA9d/LAPvx6gDLZAAAzGQAAN+fYADdmFMA//7+AMldAADPZxsAylkBAN6dXADKVgAA5rOAANuUTADITwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoCAgICAgICAgICAgIaABoCIR0IIxsJNQMhMQICAhoIAiEDEhERJBEREgkYIQIIAggUHhERNCAoEREkHyUhAggCNRERJAswHxEREREPFCoIAgsREREZBRERESQRES0dKjEMEREkIjEfERERJBE0LwIIJhERJCc2HBERJBERDhACMSwRERkBMwoVLhERGScqCAIDExEHECobBiIRETQvAgICAh8RKRAqBSMbESgEKgICAgIyEREOAQYLESgXIQICAgIxKwURESkREQUXIQICAggCAgICHA0WHzIQKgICAgIaAgICAjECAgICAgIxKysaABoCAgICAgICAgICAgIaAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.sc.pages06.net",
+      "apps.pelephone.co.il",
+      "apis.google.com",
+      "cse.google.com",
+      "dev.visualwebsiteoptimizer.com",
+      "www.google.com",
+      "platform.twitter.com",
+      "connect.facebook.net",
+      "www.googletagmanager.com",
+      "clients1.google.com",
+      "syndication.twitter.com",
+      "www.pages06.net",
+      "www.google-analytics.com",
+      "staticxx.facebook.com",
+      "15833265.adoric-om.com",
+      "www.googleadservices.com",
+      "static.hotjar.com",
+      "www.facebook.com",
+      "s3.amazonaws.com",
+      "script.hotjar.com",
+      "googleads.g.doubleclick.net",
+      "app.adoric-om.com",
+      "vars.hotjar.com",
+      "www.google.co.il",
+      "in.hotjar.com",
+      "vc.hotjar.io",
+      "static.adoric.com",
+      "fonts.googleapis.com",
+      "adoric-user-images.s3.amazonaws.com"
+    ]
+  },
+  "www.sc.pages06.net": {
+    "hostname": "www.sc.pages06.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pelephone.co.il"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

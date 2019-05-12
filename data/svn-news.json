@@ -1,0 +1,220 @@
+{
+  "ads.24ur.com": {
+    "hostname": "ads.24ur.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "files.upscore.com": {
+    "hostname": "files.upscore.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gql.24ur.si": {
+    "hostname": "gql.24ur.si",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hit-pool.upscore.com": {
+    "hostname": "hit-pool.upscore.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.24ur.com": {
+    "hostname": "images.24ur.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "log.outbrainimg.com": {
+    "hostname": "log.outbrainimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "positions.upscore.com": {
+    "hostname": "positions.upscore.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.dotmetrics.net": {
+    "hostname": "script.dotmetrics.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sja.sportradar.com": {
+    "hostname": "sja.sportradar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tcheck.outbrainimg.com": {
+    "hostname": "tcheck.outbrainimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.outbrain.com": {
+    "hostname": "widgets.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ws.24ur.com": {
+    "hostname": "ws.24ur.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.24ur.com": {
+    "hostname": "www.24ur.com",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABNVBMVEVAT69AT69AT69AT69AT69AT69AT68/Tq9OXLU+Ta4/Tq5AT68/Tq89Ta49TK4/Tq4+Tq5PXLVrd8Fwe8NYZbl0f8XW2e74+Pz6+v3m6PSUnNJEUrBEU7FtecJ3gsZWZLg+Ta5aZ7rg4/L////j5fPo6vX09fpxfMM7Sq18hsjy8/r7/P38/P6Mlc88TK19h8jn6fVjb75+iMn7+/2SmtFRX7bY2+6Ol9BKWLNlcb5uecJBULCVntP+/v+DjculrNn+/v709PpBUK+LlM7v8fjCx+Xz9Prg4vKzud+ts92vtd1kcL7R1eyFj8w5Saxhbb3P0uvFyed8h8iutN2CjMu1u+Cxt955g8eXn9T9/f7+///h5PPi5PPv8Pju7/jh4/JIVrKdpNb7/P6WntM/T69XZLhVYrgoxe2EAAAAC3RSTlMcnfD+nv3u/v7u/Sa7J90AAAABYktHRCMqYmw6AAAAB3RJTUUH4QwTDRY6RNyIwQAAAOFJREFUGNNjYGBkYuaGAmYmRgYGFlZuHl4+fqgQKwsDG7eAoJCwCIjHy8fHz8bAzCMqJi4hKSXNIyMrJyfPzqCgqKSsoqqspq6hqaWto6vHwKevZWBoZKxsYmqmrKxsrsfAbWFpZW1jq2Nn7+AIEeDRc3J2UXa1c3P3gAgomHqKi3t5++j4migr6/oxKPgH2NoGBgUrq4SEKiuHhTPwRQDN0om0VbZ1iFJWtrVl4HNWiY6OiYmJjomOVVaOi2dgTjCFAsHEJONkDga2FB4oUEgVFU3jBHkOBvj5+LhYGNC9DwCWciR2zItvXwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0xMi0xOVQxMzoyMjo1OCswMTowMOtBWocAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMTItMTlUMTM6MjI6NTgrMDE6MDCaHOI7AAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "images.24ur.com",
+      "fonts.gstatic.com",
+      "files.upscore.com",
+      "sja.sportradar.com",
+      "www.google-analytics.com",
+      "script.dotmetrics.net",
+      "gql.24ur.si",
+      "ads.24ur.com",
+      "hit-pool.upscore.com",
+      "ws.24ur.com",
+      "www.google.si",
+      "platform.twitter.com",
+      "widgets.outbrain.com",
+      "connect.facebook.net",
+      "tcheck.outbrainimg.com",
+      "log.outbrainimg.com",
+      "syndication.twitter.com",
+      "staticxx.facebook.com",
+      "www.facebook.com",
+      "positions.upscore.com"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.si": {
+    "hostname": "www.google.si",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.24ur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

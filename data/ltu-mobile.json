@@ -1,0 +1,230 @@
+{
+  "accounts.livechatinc.com": {
+    "hostname": "accounts.livechatinc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "app.getsitecontrol.com": {
+    "hostname": "app.getsitecontrol.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.livechatinc.com": {
+    "hostname": "cdn.livechatinc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.onesignal.com": {
+    "hostname": "cdn.onesignal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dmp.adform.net": {
+    "hostname": "dmp.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "onesignal.com": {
+    "hostname": "onesignal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.ads.linkedin.com": {
+    "hostname": "px.ads.linkedin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.livechatinc.com": {
+    "hostname": "secure.livechatinc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sjs.bizographics.com": {
+    "hostname": "sjs.bizographics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "st.getsitecontrol.com": {
+    "hostname": "st.getsitecontrol.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.getsitecontrol.com": {
+    "hostname": "widgets.getsitecontrol.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.lt": {
+    "hostname": "www.google.lt",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telia.lt"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.telia.lt": {
+    "hostname": "www.telia.lt",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABRFBMVEUAAACZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeKZCeL///8nxPAgAAAAanRSTlMAAAUuc7Ha7e/VhxoDOZ3j/P6pERKD6yoXqP0VB5XPPUlMxTFufvIdWedlp/a3RhB06DWA5qVIDjew+h6Lv7ybYiYNOsY4JSwwavB5ISu+ztbkjXcCYfNnrcAcVbKBa5jeAY7HPgS99emZqD3o5AAAAAFiS0dEa1JlpZgAAAAHdElNRQfhAQsJHRgYfAPzAAAA0ElEQVQY02NgAAJGJmYWVjZ2Dk4ubkYQl4eXj18gCwQEhYQZGBlFRMWyYIBfnIFRQlIKzs+SlGaQkUVws+TkFRgUORB8JWUVVQaEAjVZdQ1NLQZtKFdHV0/fgMPQiMFYEMiTMjE1M7ewtMqSZWKwtrG1s3dwdHK2B1ru4srIwOjmLiHh4anrlZUloOvtAxTw9fMP4ADpC7QJCg4BCjCGhoEczW8fHhEZBfYKU3SMrVBsXLxmgjMjI9ivic5JQsleWf4pED5QJNUsLT0j0xHMBwDG+znNPz4oLgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0wMS0xMVQwOToyOToyNCswMTowMMy2Z+0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMDEtMTFUMDk6Mjk6MjQrMDE6MDC9699RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFd6VFh0UmF3IHByb2ZpbGUgdHlwZSBpcHRjAAB4nOPyDAhxVigoyk/LzEnlUgADIwsuYwsTIxNLkxQDEyBEgDTDZAMjs1Qgy9jUyMTMxBzEB8uASKBKLgDqFxF08kI1lQAAAABJRU5ErkJggg==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.livechatinc.com",
+      "www.googletagmanager.com",
+      "cdn.onesignal.com",
+      "track.adform.net",
+      "secure.livechatinc.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "sjs.bizographics.com",
+      "static.hotjar.com",
+      "dmp.adform.net",
+      "accounts.livechatinc.com",
+      "vars.hotjar.com",
+      "script.hotjar.com",
+      "widgets.getsitecontrol.com",
+      "st.getsitecontrol.com",
+      "www.facebook.com",
+      "fonts.googleapis.com",
+      "www.google.lt",
+      "app.getsitecontrol.com",
+      "fonts.gstatic.com",
+      "px.ads.linkedin.com",
+      "onesignal.com"
+    ]
+  }
+}

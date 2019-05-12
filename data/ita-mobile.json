@@ -1,0 +1,740 @@
+{
+  "20537125p.rfihub.com": {
+    "hostname": "20537125p.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "5994599.fls.doubleclick.net": {
+    "hostname": "5994599.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.rfihub.com": {
+    "hostname": "a.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aa.agkn.com": {
+    "hostname": "aa.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.ad-srv.net": {
+    "hostname": "ad.ad-srv.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.creative-serving.com": {
+    "hostname": "ads.creative-serving.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ams.creativecdn.com": {
+    "hostname": "ams.creativecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.adobedtm.com": {
+    "hostname": "assets.adobedtm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c1.adform.net": {
+    "hostname": "c1.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c1.rfihub.net": {
+    "hostname": "c1.rfihub.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.adsafety.net": {
+    "hostname": "cm.adsafety.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.creativecdn.com": {
+    "hostname": "cm.creativecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "contextual.media.net": {
+    "hostname": "contextual.media.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csm.fr.eu.criteo.net": {
+    "hostname": "csm.fr.eu.criteo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.xp1.ru4.com": {
+    "hostname": "d.xp1.ru4.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dis.eu.criteo.com": {
+    "hostname": "dis.eu.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dmp.adform.net": {
+    "hostname": "dmp.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dmx.districtm.io": {
+    "hostname": "dmx.districtm.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsum-sec.casalemedia.com": {
+    "hostname": "dsum-sec.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gem.gbc.criteo.com": {
+    "hostname": "gem.gbc.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gum.criteo.com": {
+    "hostname": "gum.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hal9000.redintelligence.net": {
+    "hostname": "hal9000.redintelligence.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i9.ytimg.com": {
+    "hostname": "i9.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idsync.rlcdn.com": {
+    "hostname": "idsync.rlcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.tim.it": {
+    "hostname": "img.tim.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.sddan.com": {
+    "hostname": "js.sddan.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mastertag.kpcustomer.de": {
+    "hostname": "mastertag.kpcustomer.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mid.rkdms.com": {
+    "hostname": "mid.rkdms.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "msec.xp1.ru4.com": {
+    "hostname": "msec.xp1.ru4.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "opt.kuponacdn.de": {
+    "hostname": "opt.kuponacdn.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.rfihub.com": {
+    "hostname": "p.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.advertising.com": {
+    "hostname": "pixel.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.mathtag.com": {
+    "hostname": "pixel.mathtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ps.eyeota.net": {
+    "hostname": "ps.eyeota.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r4---sn-8vq54voxpu-4jvs.googlevideo.com": {
+    "hostname": "r4---sn-8vq54voxpu-4jvs.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "retrack-kupona.kuponacdn.de": {
+    "hostname": "retrack-kupona.kuponacdn.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.xp1.ru4.com": {
+    "hostname": "s.xp1.ru4.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage2.pubmatic.com": {
+    "hostname": "simage2.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "smct.co": {
+    "hostname": "smct.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "soma.smaato.net": {
+    "hostname": "soma.smaato.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl-metrics.tim.it": {
+    "hostname": "ssl-metrics.tim.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sslwidget.criteo.com": {
+    "hostname": "sslwidget.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.criteo.net": {
+    "hostname": "static.criteo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.doubleclick.net": {
+    "hostname": "static.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.tim.it": {
+    "hostname": "static.tim.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "swrap.tradedoubler.com": {
+    "hostname": "swrap.tradedoubler.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync-tm.everesttech.net": {
+    "hostname": "sync-tm.everesttech.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.search.spotxchange.com": {
+    "hostname": "sync.search.spotxchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tapestry.tapad.com": {
+    "hostname": "tapestry.tapad.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "thrtle.com": {
+    "hostname": "thrtle.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tim.notification.group": {
+    "hostname": "tim.notification.group",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trc.taboola.com": {
+    "hostname": "trc.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us-u.openx.net": {
+    "hostname": "us-u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ws2.rqtrk.eu": {
+    "hostname": "ws2.rqtrk.eu",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.dwin1.com": {
+    "hostname": "www.dwin1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.it": {
+    "hostname": "www.google.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.tim.it": {
+    "hostname": "www.tim.it",
+    "favicon": "data:image/x-icon;base64,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AAAAAAAAHgDuCR4A7sAeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v4eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7AHgDuCQAAAAAAAAAAAAAAAAAAAAAeAO4JHgDuwB4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7sAeAO4JAAAAAAAAAAAAAAAAAAAAAB4A7gkeAO7AHgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu3B4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDuwB4A7gkAAAAAAAAAAAAAAAAAAAAAHgDuCR4A7sAeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7tweAO42HgDudx4A7n4eAO5+HgDufh4A7n4eAO5+HgDufh4A7n4eAO5+HgDufh4A7oAeAO5fHgDuBAAAAAAAAAAAAAAAAAAAAAAeAO4EHgDuXx4A7oAeAO5+HgDufh4A7n4eAO5+HgDufh4A7n4eAO5+HgDufh4A7n4eAO53HgDuNgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA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7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v4eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v4eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7+HgDu0x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7tQeAO4rHgDuZR4A7m0eAO5sHgDubB4A7mweAO5sHgDubB4A7mweAO5sHgDubB4A7mweAO5sHgDubB4A7mweAO5sHgDubB4A7mweAO5sHgDubB4A7mweAO5sHgDubB4A7mweAO5sHgDubB4A7mweAO5sHgDubB4A7m0eAO5lHgDuKwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AB+AAAAfgAAAH4AAAB+AAAAfgAP/v9///////////////////////gAfgAQAH4AAAB+AAAAfgAAAH4AAAB+AA//////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////ygAAAAwAAAAYAAAAAEAIAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuCh4A7hYeAO4XHgDuFx4A7hceAO4XHgDuFx4A7hceAO4XHgDuFx4A7hceAO4XHgDuFx4A7hceAO4XHgDuFx4A7hceAO4WHgDuBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuBh4A7hYeAO4XHgDuFx4A7hceAO4XHgDuFx4A7hceAO4XHgDuFx4A7hceAO4XHgDuFx4A7hceAO4XHgDuFx4A7hceAO4WHgDuCgAAAAAeAO4+HgDush4A7tceAO7YHgDu2B4A7tgeAO7YHgDu2B4A7tgeAO7YHgDu2B4A7tgeAO7YHgDu2B4A7tgeAO7YHgDu2B4A7tgeAO7QHgDuNQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuNR4A7tAeAO7YHgDu2B4A7tgeAO7YHgDu2B4A7tgeAO7YHgDu2B4A7tgeAO7YHgDu2B4A7tgeAO7YHgDu2B4A7tgeAO7XHgDusx4A7j4eAO7SHgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7tIeAO79HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v0eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO76HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7vseAO67HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7rweAO4kHgDuiR4A7rMeAO60HgDutB4A7rQeAO60HgDutB4A7rQeAO60HgDutB4A7rQeAO60HgDutB4A7rQeAO60HgDutB4A7rQeAO6tHgDuLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuLR4A7q0eAO60HgDutB4A7rQeAO60HgDutB4A7rQeAO60HgDutB4A7rQeAO60HgDutB4A7rQeAO60HgDutB4A7rQeAO6zHgDuih4A7iUAAAAAHgDuAR4A7gQeAO4FHgDuBR4A7gUeAO4FHgDuBR4A7gUeAO4FHgDuBR4A7gUeAO4FHgDuBR4A7gUeAO4FHgDuBR4A7gUeAO4EHgDuAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuAR4A7gQeAO4FHgDuBR4A7gUeAO4FHgDuBR4A7gUeAO4FHgDuBR4A7gUeAO4FHgDuBR4A7gUeAO4FHgDuBR4A7gUeAO4EHgDuAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAO4EHgDuKx4A7kgeAO5IHgDuSB4A7kgeAO5IHgDuSB4A7kgeAO5IHgDuSB4A7kgeAO5IHgDuSB4A7kgeAO5IHgDuSB4A7kgeAO5GHgDuEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuEh4A7kYeAO5IHgDuSB4A7kgeAO5IHgDuSB4A7kgeAO5IHgDuSB4A7kgeAO5IHgDuSB4A7kgeAO5IHgDuSB4A7kgeAO5IHgDuKx4A7gQeAO5uHgDu4x4A7voeAO75HgDu+R4A7vkeAO75HgDu+R4A7vkeAO75HgDu+R4A7vkeAO75HgDu+R4A7vkeAO75HgDu+R4A7voeAO7xHgDuPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPh4A7vEeAO76HgDu+R4A7vkeAO75HgDu+R4A7vkeAO75HgDu+R4A7vkeAO75HgDu+R4A7vkeAO75HgDu+R4A7vkeAO76HgDu5B4A7m8eAO7pHgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7uoeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7yHgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7vIeAO6NHgDu9B4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO72HgDuPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuPx4A7vYeAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu9R4A7o4eAO4LHgDuSh4A7m8eAO5wHgDucB4A7nAeAO5wHgDucB4A7nAeAO5wHgDucB4A7nAeAO5wHgDucB4A7nAeAO5wHgDucB4A7nAeAO5sHgDuHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgDuHB4A7mweAO5wHgDucB4A7nAeAO5wHgDucB4A7nAeAO5wHgDucB4A7nAeAO5wHgDucB4A7nAeAO5wHgDucB4A7nAeAO5vHgDuSh4A7gsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAO4THgDuYx4A7oseAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6MHgDujB4A7oweAO6LHgDuYx4A7hMeAO6hHgDu+x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu+x4A7qEeAO72HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7vceAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7+HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7hHgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7v8eAO7/HgDu/x4A7uIeAO5aHgDu0h4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu7x4A7u8eAO7vHgDu0h4A7lseAO4BHgDuGh4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuMR4A7jEeAO4xHgDuGh4A7gEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////8AAP///////wAA////////AAD///////8AAIAAH/gAAQAAAAAf+AAAAAAAAB/4AAAAAAAAH/gAAAAAAAAf+AAAAAAAAB/4AAAAAAAAH/gAAAAAAAAf+AAAAACAAB/4AAEAAP///////wAA////////AAD///////8AAP///////wAA////////AAD///////8AAP///////wAAgAAf+AABAAAAAB/4AAAAAAAAH/gAAAAAAAAf+AAAAAAAAB/4AAAAAAAAH/gAAAAAAAAf+AAAAAAAAB/4AAAAAP///////wAA////////AAD///////8AAP///////wAA////////AAD///////8AAP///////wAAwAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAA////////AAD///////8AAP///////wAA////////AAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "static.tim.it",
+      "assets.adobedtm.com",
+      "img.tim.it",
+      "dmp.adform.net",
+      "track.adform.net",
+      "www.googletagmanager.com",
+      "ssl-metrics.tim.it",
+      "www.youtube.com",
+      "tim.notification.group",
+      "www.dwin1.com",
+      "youtility.wasabicrm.com",
+      "c1.rfihub.net",
+      "static.criteo.net",
+      "bat.bing.com",
+      "swrap.tradedoubler.com",
+      "a.rfihub.com",
+      "smct.co",
+      "www.google-analytics.com",
+      "retrack-kupona.kuponacdn.de",
+      "sslwidget.criteo.com",
+      "js.sddan.com",
+      "20537125p.rfihub.com",
+      "fonts.gstatic.com",
+      "www.google.com",
+      "googleads.g.doubleclick.net",
+      "static.doubleclick.net",
+      "ams.creativecdn.com",
+      "hal9000.redintelligence.net",
+      "opt.kuponacdn.de",
+      "dsum-sec.casalemedia.com",
+      "pixel.rubiconproject.com",
+      "c1.adform.net",
+      "us-u.openx.net",
+      "pixel.advertising.com",
+      "soma.smaato.net",
+      "aa.agkn.com",
+      "msec.xp1.ru4.com",
+      "simage2.pubmatic.com",
+      "tapestry.tapad.com",
+      "trc.taboola.com",
+      "ib.adnxs.com",
+      "ws2.rqtrk.eu",
+      "mid.rkdms.com",
+      "contextual.media.net",
+      "dmx.districtm.io",
+      "yt3.ggpht.com",
+      "beacon.krxd.net",
+      "idsync.rlcdn.com",
+      "5994599.fls.doubleclick.net",
+      "thrtle.com",
+      "secure.adnxs.com",
+      "p.rfihub.com",
+      "dpm.demdex.net",
+      "sync.search.spotxchange.com",
+      "x.bidswitch.net",
+      "sync-tm.everesttech.net",
+      "pixel.mathtag.com",
+      "adservice.google.com",
+      "ps.eyeota.net",
+      "r4---sn-8vq54voxpu-4jvs.googlevideo.com",
+      "cm.creativecdn.com",
+      "s.xp1.ru4.com",
+      "www.google.it",
+      "gum.criteo.com",
+      "mastertag.kpcustomer.de",
+      "d.xp1.ru4.com",
+      "ads.creative-serving.com",
+      "gem.gbc.criteo.com",
+      "cm.adsafety.net",
+      "dis.eu.criteo.com",
+      "ad.ad-srv.net",
+      "i9.ytimg.com",
+      "csm.fr.eu.criteo.net"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "x.bidswitch.net": {
+    "hostname": "x.bidswitch.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "youtility.wasabicrm.com": {
+    "hostname": "youtility.wasabicrm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "yt3.ggpht.com": {
+    "hostname": "yt3.ggpht.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tim.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

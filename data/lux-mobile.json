@@ -1,0 +1,330 @@
+{
+  "acdn.adnxs.com": {
+    "hostname": "acdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cms.quantserve.com": {
+    "hostname": "cms.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dis.criteo.com": {
+    "hostname": "dis.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fcmatch.youtube.com": {
+    "hostname": "fcmatch.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.adsrvr.org": {
+    "hostname": "js.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.adnxs.com": {
+    "hostname": "m.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.adsrvr.org": {
+    "hostname": "match.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "optimus.360and1.com": {
+    "hostname": "optimus.360and1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.rfihub.com": {
+    "hostname": "p.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pr-bh.ybp.yahoo.com": {
+    "hostname": "pr-bh.ybp.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.ads.linkedin.com": {
+    "hostname": "px.ads.linkedin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sc-static.net": {
+    "hostname": "sc-static.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "servedby.flashtalking.com": {
+    "hostname": "servedby.flashtalking.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "snap.licdn.com": {
+    "hostname": "snap.licdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.statshop.fr": {
+    "hostname": "tag.statshop.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tangolu.tag.statshop.fr": {
+    "hostname": "tangolu.tag.statshop.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tr.snapchat.com": {
+    "hostname": "tr.snapchat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.lu": {
+    "hostname": "www.google.lu",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tango.lu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.tango.lu": {
+    "hostname": "www.tango.lu",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAB/bQIAenINAIxWAACIWQAAjlYAAItZAACPVgAAjFkAAEHNtgCNWQAAkVYAAI5ZAACMXAAAkVkAAHh4HgCSXwAAf24AAG2DQgCUXwAAYploAHCBNwCVXwAAYpZgAEbFrACMVgEAk2IAAI1WAQBXrIYAj1YBAHlzFABXqoQAm2gAAEq9ogCSXwEAk18BAJVfAQBmkFkAVK6KAJJWAgCPWQIAfHIHAEnBqABOvqAAjFcAAI1XAACPVwAAkVcAAI5aAACGYAAAgWYAAINmAACIXwMAU6uDAH1sAACDaQAAkmAAAJNgAACVYAAAilcBAJBXAQBQt5wAjlYEAJJXAQBAzLUAlmABAHGCOACNVwIAY5dhAI5XAgBRtZIAkFcCAGGZZACMXQIAenkoAEfFqACLVQAAjFUAAIpYAACQVQAAk2ACAIxYAABoj1cAjVgAAJBYAACMWwAAjlsAAIpeAABMup4AiGEAAHxtAAB6cAAAkl4AAHlyCwB1eywAkmEAAJNhAACUYQAAjVgBAEPMtwCOWAEASsGkAIleAQCHYQEAS72fAJpnAACeZwAAboZAAJNhAQCUYQEARc21AJFYAgCYZwEAh2QCAHV8KwCLVgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbxUVFWw4OEAVYCMiD19raS5QYxwGTicGTWEKLQUaK0QhO0s6MUlMLCgALxoGHEYSFQYNLWFFEBpYV1gGGiwrTzgsLSxGFCUHLBZHCS1MU144TW4rUjM/NhoBF1RjHBoVOGMsBis7Z2otSAhaPnIYQCIuLD1SLDRRBhhkXQZCUhVsGmMGUjsbJGMDKXE7TDs4FQsCRCssIEEKVmJZBhpjODgsQixGMG0yYx1KVTpEAiIiO0QtUhEeY1ATQyxSBj5fGXILHAw8WRxmKmUGYwZSbDcmLBpwDho7XDVSYQYsRBVEUgstUGMLLRgEOwYsLCxhHzhbQDg4ImwVFSE4OWw4aAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "connect.facebook.net",
+      "www.googletagmanager.com",
+      "servedby.flashtalking.com",
+      "sc-static.net",
+      "bat.bing.com",
+      "www.google-analytics.com",
+      "snap.licdn.com",
+      "www.facebook.com",
+      "js.adsrvr.org",
+      "www.googleadservices.com",
+      "tr.snapchat.com",
+      "googleads.g.doubleclick.net",
+      "www.google.lu",
+      "www.google.com",
+      "match.adsrvr.org",
+      "px.ads.linkedin.com",
+      "optimus.360and1.com",
+      "tangolu.tag.statshop.fr",
+      "secure.adnxs.com",
+      "tag.statshop.fr",
+      "acdn.adnxs.com",
+      "ib.adnxs.com",
+      "dis.criteo.com",
+      "cm.g.doubleclick.net",
+      "pr-bh.ybp.yahoo.com",
+      "cms.quantserve.com",
+      "pixel.rubiconproject.com",
+      "p.rfihub.com",
+      "m.adnxs.com",
+      "fcmatch.youtube.com"
+    ]
+  }
+}

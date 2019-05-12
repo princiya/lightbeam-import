@@ -1,0 +1,420 @@
+{
+  "4627932.fls.doubleclick.net": {
+    "hostname": "4627932.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adapter.aivo.co": {
+    "hostname": "adapter.aivo.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.betweendigital.com": {
+    "hostname": "ads.betweendigital.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads01.groovinads.com": {
+    "hostname": "ads01.groovinads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "agentcore.s3.amazonaws.com": {
+    "hostname": "agentcore.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.ipify.org": {
+    "hostname": "api.ipify.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.retargetly.com": {
+    "hostname": "api.retargetly.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apibot.agentbot.net": {
+    "hostname": "apibot.agentbot.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "app.retargetly.com": {
+    "hostname": "app.retargetly.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bcp.crwdcntrl.net": {
+    "hostname": "bcp.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.agentbot.net": {
+    "hostname": "cdn.agentbot.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.jsdelivr.net": {
+    "hostname": "cdn.jsdelivr.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.materialdesignicons.com": {
+    "hostname": "cdn.materialdesignicons.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "decollector.tealeaf.ibmcloud.com": {
+    "hostname": "decollector.tealeaf.ibmcloud.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsum-sec.casalemedia.com": {
+    "hostname": "dsum-sec.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "endpoint.movistar.com.ar": {
+    "hostname": "endpoint.movistar.com.ar",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idsync.reson8.com": {
+    "hostname": "idsync.reson8.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mediamath.digitru.st": {
+    "hostname": "mediamath.digitru.st",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.adsymptotic.com": {
+    "hostname": "p.adsymptotic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.mathtag.com": {
+    "hostname": "pixel.mathtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.tapad.com": {
+    "hostname": "pixel.tapad.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ps.eyeota.net": {
+    "hostname": "ps.eyeota.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage2.pubmatic.com": {
+    "hostname": "simage2.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stags.bluekai.com": {
+    "hostname": "stags.bluekai.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.mathtag.com": {
+    "hostname": "sync.mathtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us-u.openx.net": {
+    "hostname": "us-u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com.ar": {
+    "hostname": "www.google.com.ar",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.movistar.com.ar"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.movistar.com.ar": {
+    "hostname": "www.movistar.com.ar",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAAAAABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AAAAAABvtWa/ds6P7wAAAAAAAAAAmbyGIG2kWp8+lSW/ab1br5HRjTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC817UwQqpE/1/Kic8AAAAAu9KtMFCUOu9CrlD/RL5v/0S/cv9QwnP/wejJMAAAAAAAAAAAAAAAAAAAAAAAAAAAba1bgES8Z/9nyYVwAAAAAGKdS79Csln/RL9w/0S/cv9DwHb/P8WK/3DPmK8AAAAAAAAAALTdsFBzzIj/teTBUHC1ZL9Ev2//7PfuIKXHmGA+oUH/RL9y/0PBeP9DwHX/RL9w/0LBev9XzZr/AAAAAAAAAABFqDCARL9u/1jHgo8/nC+/bM2T/////xBgpk/vRLto/0LBef9Bw4L/Q8F4/0a8ZP9Gu1//PsiR/6Hhw1AAAAAAR6cwgES+bP9+2LC/QJ0vv1DCdf9ruV/fQ65M/0S/cv9Bw4H/P8aM/0jDgP9TvFj/SLVE/z7HjP9q1a2/AAAAAKDVmYBEvmz/SsWEv3G3Za9Gu1z/SLlQ/0a8Zf9DwHb/P8WK/1fQo+++7dswp9WAIE6lN+9Awnr/Osyh/4vev599xXKARL9v/3LUqL9wq2FwRrRK/0e6Wf9FvWf/QsF7/0DJlv+e5MtAAAAAAAAAAAByqF2fQLBX/zrMn/89yJP/T8N7/0HDgP9nz5ifnbuCIEylQP9Hulb/Rb1n/0DEhv932LGvAAAAAAAAAAAAAAAAeqdiMDmSLv8+x47/PciU/0DFiP8+x5D/etCTcAAAAACawI1gV6lN/0a2U/9y0Ja/////EAAAAAAAAAAAAAAAAAAAAABVkDq/QLZp/0DEh/9AxYn/TMiN/6ndrCAAAAAAAAAAAAAAAAD///8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAu9KxMFGWPO9CsFH/RL5s/4PTlo8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8QOooaQG+0YkAAAAAAAAAAAP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A//8AAP//AACcfwAAmD8AADAdAAAwGAAAIBgAAAAIAAABgAAAg4AAAIPBAADHwQAA/+EAAP//AAD//wAA//8AAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdnjs.cloudflare.com",
+      "cdn.agentbot.net",
+      "cdn.materialdesignicons.com",
+      "www.googletagmanager.com",
+      "endpoint.movistar.com.ar",
+      "agentcore.s3.amazonaws.com",
+      "api.retargetly.com",
+      "api.ipify.org",
+      "www.googleadservices.com",
+      "connect.facebook.net",
+      "static.ads-twitter.com",
+      "www.google-analytics.com",
+      "pixel.mathtag.com",
+      "adapter.aivo.co",
+      "4627932.fls.doubleclick.net",
+      "googleads.g.doubleclick.net",
+      "ads01.groovinads.com",
+      "p.adsymptotic.com",
+      "bcp.crwdcntrl.net",
+      "cdn.jsdelivr.net",
+      "t.co",
+      "fonts.googleapis.com",
+      "apibot.agentbot.net",
+      "adservice.google.com",
+      "app.retargetly.com",
+      "www.google.com.ar",
+      "pixel.tapad.com",
+      "ps.eyeota.net",
+      "www.google.com",
+      "www.facebook.com",
+      "pixel.rubiconproject.com",
+      "stags.bluekai.com",
+      "analytics.twitter.com",
+      "idsync.reson8.com",
+      "mediamath.digitru.st",
+      "simage2.pubmatic.com",
+      "dsum-sec.casalemedia.com",
+      "decollector.tealeaf.ibmcloud.com",
+      "us-u.openx.net",
+      "sync.mathtag.com",
+      "ads.betweendigital.com"
+    ]
+  }
+}

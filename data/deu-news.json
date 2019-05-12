@@ -1,0 +1,120 @@
+{
+  "api-widget.soundcloud.com": {
+    "hostname": "api-widget.soundcloud.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn1.spiegel.de": {
+    "hostname": "cdn1.spiegel.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn2.spiegel.de": {
+    "hostname": "cdn2.spiegel.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn3.spiegel.de": {
+    "hostname": "cdn3.spiegel.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn4.spiegel.de": {
+    "hostname": "cdn4.spiegel.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i1.sndcdn.com": {
+    "hostname": "i1.sndcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "l9bjkkhaycw6f8f4.soundcloud.com": {
+    "hostname": "l9bjkkhaycw6f8f4.soundcloud.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "magazin.spiegel.de": {
+    "hostname": "magazin.spiegel.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "w.soundcloud.com": {
+    "hostname": "w.soundcloud.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wave.sndcdn.com": {
+    "hostname": "wave.sndcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget.sndcdn.com": {
+    "hostname": "widget.sndcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.spiegel.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.spiegel.de": {
+    "hostname": "www.spiegel.de",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAD9/f4AHxmaAEI9qgDw7/gAsa/cAFFLsAA5MqUAQz2qAPv6/QA1L6QAMiyjAJSQzwDf3vAAcGy+APf3+wBVULIAnpvTAGBbtwD///8AOjSmAFJNsQAsJqAART+rAC0moAAfGJoAZWC6ANbV7ABBPKkA+fn8ADQuowDr6/YAV1KzACcgnQBiXbgAw8HkAFRPsgA8NqcAk4/OAF9atwBSTLEARD6rAIJ+xgBcV7UATkmvADYwpAAeF5kA7e33AE9JrwB/e8UAZ2K6AK+t2wBjX7kAGxSYAN3c8AA+OKgA9fX7ALe13wDQzuoA6Of0AJGOzQDy8vkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhISEhISEhISEhISEhISEhISEhIMGSomESYqISISEhISEhISDTQ0NDQ0NDQnEhISEhISEhY0NCMzHwE0ExISEhISEhIrNBg5EjUvNAISEhISEhISAjQ0OhIIDzQoEhISEhISEjwDDhISDg80KBISEhISEhIECyU7CykKNAcSEhISEhISBTQ0NDQ0NDQ2EhISEhISEic0NBcdCQYsMRISEhISEhIUNCAcEhIAHi4SEhISEhISFDQgNxIAFjQVEhISEhISEis0LTIaOBs0JBISEhISEhIFNDQ0ATQ0NCQSEhISEhISEDQ0NDQ0NDQwEhISEhISEhISEhISEhISEhISEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn2.spiegel.de",
+      "cdn1.spiegel.de",
+      "cdn4.spiegel.de",
+      "magazin.spiegel.de",
+      "cdn3.spiegel.de",
+      "w.soundcloud.com",
+      "widget.sndcdn.com",
+      "api-widget.soundcloud.com",
+      "i1.sndcdn.com",
+      "wave.sndcdn.com",
+      "l9bjkkhaycw6f8f4.soundcloud.com"
+    ]
+  }
+}

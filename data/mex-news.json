@@ -1,0 +1,1360 @@
+{
+  "acds.prod.vidible.tv": {
+    "hostname": "acds.prod.vidible.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.turn.com": {
+    "hostname": "ad.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.adaptv.advertising.com": {
+    "hostname": "ads.adaptv.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.pubmatic.com": {
+    "hostname": "ads.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.stickyadstv.com": {
+    "hostname": "ads.stickyadstv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.mx": {
+    "hostname": "adservice.google.com.mx",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.cloudflare.com": {
+    "hostname": "ajax.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aristeguinoticias.com": {
+    "hostname": "aristeguinoticias.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAABFULcAys3qAHqCzAAqN64AW2TAAP///wApNq0A19nwACo2rQCvs+AAKjetAF9pwgCYntgA5Ob1ADdEsgDy8voAqqNoiIhuz1WIqKqjqoFVW+u76jOqtVXDCVwIMzgVVQiq1IOGoFVZqqgsijiJVVCoiDeoqOVVGjqDjHERdVW2iqOueI71UYOKqKObolVSqoOIikk9VdiIaIg6pyVVKKqoY6ii9V/qqIOqqIP1XIiDM6iKOsX+gziIOoOIBZg4iDMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.cloudflare.com",
+      "www.reforma.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "pbs.twimg.com",
+      "www.facebook.com",
+      "scontent.fmex7-1.fna.fbcdn.net",
+      "scontent.fmex7-2.fna.fbcdn.net",
+      "clientcdn.pushengage.com",
+      "stats.g.doubleclick.net",
+      "www.googletagservices.com",
+      "sb.scorecardresearch.com",
+      "static.criteo.net",
+      "adservice.google.com.mx",
+      "survey.g.doubleclick.net",
+      "ib.adnxs.com",
+      "bidder.criteo.com",
+      "adservice.google.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "securepubads.g.doubleclick.net",
+      "secure.statcounter.com",
+      "staticxx.facebook.com",
+      "cse.google.com",
+      "www.google.com",
+      "www.googleapis.com",
+      "gum.criteo.com",
+      "clients1.google.com",
+      "cdn.inspectlet.com",
+      "cdn.ampproject.org",
+      "c.statcounter.com",
+      "tpc.googlesyndication.com",
+      "static.addevweb.com",
+      "cdn2.tdmd.us",
+      "s.richaudience.com",
+      "hn.inspectlet.com",
+      "static.sunmedia.tv",
+      "static.doubleclick.net",
+      "encrypted-tbn0.gstatic.com",
+      "encrypted-tbn2.gstatic.com",
+      "encrypted-tbn1.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "pagead2.googlesyndication.com",
+      "rosetta.richmediastudio.com",
+      "cm.g.doubleclick.net",
+      "player.aniview.com",
+      "cms.quantserve.com",
+      "d.agkn.com",
+      "track1.aniview.com",
+      "fcmatch.youtube.com",
+      "track.sunmedia.tv",
+      "mx-sunmedia.videoplaza.tv",
+      "js.agkn.com",
+      "go1.aniview.com",
+      "sync.richaudience.com",
+      "pubads.g.doubleclick.net",
+      "vid.springserve.com",
+      "ads.adaptv.advertising.com",
+      "ads.pubmatic.com",
+      "search.spotxchange.com",
+      "www5.smartadserver.com",
+      "secure-assets.rubiconproject.com",
+      "s3.eu-central-1.amazonaws.com",
+      "us-u.openx.net",
+      "pixel.advertising.com",
+      "ima3vpaid.appspot.com",
+      "image6.pubmatic.com",
+      "cdn.digitru.st",
+      "pr-bh.ybp.yahoo.com",
+      "imasdk.googleapis.com",
+      "pixel.mathtag.com",
+      "pixel.adsafeprotected.com",
+      "dis.criteo.com",
+      "demo.smartadserver.com",
+      "pubmatic2waycm-atl.netmng.com",
+      "idpix.media6degrees.com",
+      "vpaid.springserve.net",
+      "acds.prod.vidible.tv",
+      "magnetic.t.domdex.com",
+      "static.adsafeprotected.com",
+      "simage2.pubmatic.com",
+      "ec-ns.sascdn.com",
+      "image2.pubmatic.com",
+      "servedby.flashtalking.com",
+      "image4.pubmatic.com",
+      "token.rubiconproject.com",
+      "cdn-ssl.vidible.tv",
+      "cdn.flashtalking.com",
+      "eu-u.openx.net",
+      "ad.turn.com",
+      "trk.vidible.tv",
+      "bc-iad.springserve.net",
+      "eus.rubiconproject.com",
+      "s0.2mdn.net",
+      "cookie-matching.mediarithmics.com",
+      "z.moatads.com",
+      "dtm.advertising.com",
+      "ad.doubleclick.net",
+      "vid-io.springserve.net",
+      "presentation-sjc2.turn.com",
+      "rtb-csync.smartadserver.com",
+      "ajax.googleapis.com",
+      "pmp.mxptint.net",
+      "c1.adform.net",
+      "px.moatads.com",
+      "auth.svcs.verizon.com",
+      "rtb.openx.net",
+      "pixel.tapad.com",
+      "cms.analytics.yahoo.com",
+      "p.adsymptotic.com",
+      "simage4.pubmatic.com",
+      "cookiex.ngd.yahoo.com",
+      "idsync.rlcdn.com",
+      "tags.bluekai.com",
+      "r.turn.com",
+      "px.powerlinks.com",
+      "dpm.demdex.net",
+      "pixel.rubiconproject.com",
+      "dt.adsafeprotected.com",
+      "ads.stickyadstv.com",
+      "cdn.stickyadstv.com",
+      "www8.smartadserver.com",
+      "sync.1rx.io",
+      "mona.admanmedia.com",
+      "dean.admanmedia.com",
+      "cs.admanmedia.com",
+      "pixel.yabidos.com",
+      "mx-gmtdmp.mookie1.com",
+      "bidtor.admanmedia.com",
+      "static.agkn.com",
+      "vast.mathtag.com",
+      "vpaid.mathtag.com",
+      "pre.glotgrx.com",
+      "toyotamx.solution.weborama.fr",
+      "cdn.doubleverify.com"
+    ]
+  },
+  "auth.svcs.verizon.com": {
+    "hostname": "auth.svcs.verizon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bc-iad.springserve.net": {
+    "hostname": "bc-iad.springserve.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bidder.criteo.com": {
+    "hostname": "bidder.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bidtor.admanmedia.com": {
+    "hostname": "bidtor.admanmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.statcounter.com": {
+    "hostname": "c.statcounter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c1.adform.net": {
+    "hostname": "c1.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-ssl.vidible.tv": {
+    "hostname": "cdn-ssl.vidible.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.digitru.st": {
+    "hostname": "cdn.digitru.st",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.doubleverify.com": {
+    "hostname": "cdn.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.flashtalking.com": {
+    "hostname": "cdn.flashtalking.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.inspectlet.com": {
+    "hostname": "cdn.inspectlet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.stickyadstv.com": {
+    "hostname": "cdn.stickyadstv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn2.tdmd.us": {
+    "hostname": "cdn2.tdmd.us",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clientcdn.pushengage.com": {
+    "hostname": "clientcdn.pushengage.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clients1.google.com": {
+    "hostname": "clients1.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cms.analytics.yahoo.com": {
+    "hostname": "cms.analytics.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cms.quantserve.com": {
+    "hostname": "cms.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cookie-matching.mediarithmics.com": {
+    "hostname": "cookie-matching.mediarithmics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cookiex.ngd.yahoo.com": {
+    "hostname": "cookiex.ngd.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cs.admanmedia.com": {
+    "hostname": "cs.admanmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cse.google.com": {
+    "hostname": "cse.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.agkn.com": {
+    "hostname": "d.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dean.admanmedia.com": {
+    "hostname": "dean.admanmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "demo.smartadserver.com": {
+    "hostname": "demo.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dis.criteo.com": {
+    "hostname": "dis.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dt.adsafeprotected.com": {
+    "hostname": "dt.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dtm.advertising.com": {
+    "hostname": "dtm.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ec-ns.sascdn.com": {
+    "hostname": "ec-ns.sascdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn0.gstatic.com": {
+    "hostname": "encrypted-tbn0.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn1.gstatic.com": {
+    "hostname": "encrypted-tbn1.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn2.gstatic.com": {
+    "hostname": "encrypted-tbn2.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eu-u.openx.net": {
+    "hostname": "eu-u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eus.rubiconproject.com": {
+    "hostname": "eus.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fcmatch.youtube.com": {
+    "hostname": "fcmatch.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "go1.aniview.com": {
+    "hostname": "go1.aniview.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gum.criteo.com": {
+    "hostname": "gum.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hn.inspectlet.com": {
+    "hostname": "hn.inspectlet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idpix.media6degrees.com": {
+    "hostname": "idpix.media6degrees.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idsync.rlcdn.com": {
+    "hostname": "idsync.rlcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ima3vpaid.appspot.com": {
+    "hostname": "ima3vpaid.appspot.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image2.pubmatic.com": {
+    "hostname": "image2.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image4.pubmatic.com": {
+    "hostname": "image4.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image6.pubmatic.com": {
+    "hostname": "image6.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imasdk.googleapis.com": {
+    "hostname": "imasdk.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.agkn.com": {
+    "hostname": "js.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "magnetic.t.domdex.com": {
+    "hostname": "magnetic.t.domdex.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mona.admanmedia.com": {
+    "hostname": "mona.admanmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mx-gmtdmp.mookie1.com": {
+    "hostname": "mx-gmtdmp.mookie1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mx-sunmedia.videoplaza.tv": {
+    "hostname": "mx-sunmedia.videoplaza.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.adsymptotic.com": {
+    "hostname": "p.adsymptotic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.twimg.com": {
+    "hostname": "pbs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.adsafeprotected.com": {
+    "hostname": "pixel.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.advertising.com": {
+    "hostname": "pixel.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.mathtag.com": {
+    "hostname": "pixel.mathtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.tapad.com": {
+    "hostname": "pixel.tapad.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.yabidos.com": {
+    "hostname": "pixel.yabidos.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "player.aniview.com": {
+    "hostname": "player.aniview.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pmp.mxptint.net": {
+    "hostname": "pmp.mxptint.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pr-bh.ybp.yahoo.com": {
+    "hostname": "pr-bh.ybp.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pre.glotgrx.com": {
+    "hostname": "pre.glotgrx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "presentation-sjc2.turn.com": {
+    "hostname": "presentation-sjc2.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pubads.g.doubleclick.net": {
+    "hostname": "pubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pubmatic2waycm-atl.netmng.com": {
+    "hostname": "pubmatic2waycm-atl.netmng.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.moatads.com": {
+    "hostname": "px.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.powerlinks.com": {
+    "hostname": "px.powerlinks.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r.turn.com": {
+    "hostname": "r.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rosetta.richmediastudio.com": {
+    "hostname": "rosetta.richmediastudio.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb-csync.smartadserver.com": {
+    "hostname": "rtb-csync.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb.openx.net": {
+    "hostname": "rtb.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.richaudience.com": {
+    "hostname": "s.richaudience.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.eu-central-1.amazonaws.com": {
+    "hostname": "s3.eu-central-1.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scontent.fmex7-1.fna.fbcdn.net": {
+    "hostname": "scontent.fmex7-1.fna.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scontent.fmex7-2.fna.fbcdn.net": {
+    "hostname": "scontent.fmex7-2.fna.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "search.spotxchange.com": {
+    "hostname": "search.spotxchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-assets.rubiconproject.com": {
+    "hostname": "secure-assets.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.statcounter.com": {
+    "hostname": "secure.statcounter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "servedby.flashtalking.com": {
+    "hostname": "servedby.flashtalking.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage2.pubmatic.com": {
+    "hostname": "simage2.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage4.pubmatic.com": {
+    "hostname": "simage4.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.addevweb.com": {
+    "hostname": "static.addevweb.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.adsafeprotected.com": {
+    "hostname": "static.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.agkn.com": {
+    "hostname": "static.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.criteo.net": {
+    "hostname": "static.criteo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.doubleclick.net": {
+    "hostname": "static.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.sunmedia.tv": {
+    "hostname": "static.sunmedia.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "survey.g.doubleclick.net": {
+    "hostname": "survey.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.1rx.io": {
+    "hostname": "sync.1rx.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.richaudience.com": {
+    "hostname": "sync.richaudience.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.bluekai.com": {
+    "hostname": "tags.bluekai.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "token.rubiconproject.com": {
+    "hostname": "token.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "toyotamx.solution.weborama.fr": {
+    "hostname": "toyotamx.solution.weborama.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.sunmedia.tv": {
+    "hostname": "track.sunmedia.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track1.aniview.com": {
+    "hostname": "track1.aniview.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trk.vidible.tv": {
+    "hostname": "trk.vidible.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us-u.openx.net": {
+    "hostname": "us-u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vast.mathtag.com": {
+    "hostname": "vast.mathtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vid-io.springserve.net": {
+    "hostname": "vid-io.springserve.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vid.springserve.com": {
+    "hostname": "vid.springserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vpaid.mathtag.com": {
+    "hostname": "vpaid.mathtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vpaid.springserve.net": {
+    "hostname": "vpaid.springserve.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleapis.com": {
+    "hostname": "www.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.reforma.com": {
+    "hostname": "www.reforma.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www5.smartadserver.com": {
+    "hostname": "www5.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www8.smartadserver.com": {
+    "hostname": "www8.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z.moatads.com": {
+    "hostname": "z.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aristeguinoticias.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

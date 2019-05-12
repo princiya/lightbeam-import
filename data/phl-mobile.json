@@ -1,0 +1,230 @@
+{
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "app.getresponse.com": {
+    "hostname": "app.getresponse.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-akamai.mookie1.com": {
+    "hostname": "cdn-akamai.mookie1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d6tizftlrpuof.cloudfront.net": {
+    "hostname": "d6tizftlrpuof.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "load.sumome.com": {
+    "hostname": "load.sumome.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "smart.com.ph": {
+    "hostname": "smart.com.ph",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AOj04x+t2JxxdsJguXisNOfUlBX/0ZUV/9CVFf/QlRX/0JUV/9GWGfjYqD7P4r9yl/Ljwj////8A////AP///wBitD7dSqoj/0arI/9ZqCH/ypYW/9KVFf/QlRX/0JQT/8+TEP/PlBP/0Zkd/9SeKf/XpTj35cR7qP///wD///8AlM6ClEupH/9JqiP/SKsk/7SZGP/XkxP/zpIP/9GXGP/WpDT/3LFP/9+5YP/hvWj/4r5r/+PCc/D///8A////AL3ny1d2vVTBSqkg/0GrJP+Knxz/35QW/9alN//ft13/6sBu/+2/bP/rvWn/5b1n/+C8Zv/lx4DT////AP///wBq1KvFquC2cWy4Rs9GqR//XKkn993RlZP45MJr9uTDZ9XWnZSeu2H/vLxl/9q8Zf/rvGb/7tCTs////wD///8AgNmzqEvLmu2Z2qqLcb1Vx0ipHfq936xi////AP///wCi0o2JOrlW/0S8Y/9Yu2H/hbti/+Pdsn7///8A////AL3r2FY/xo3/RsqY9XbSoLZvwmvHYrU+2e736xXV7M04TKwn90a3VP9DvGP/Qbtg/z29Zfff8d4z////AP///wDx+vYSXs+f1T/GjP8+x5H/TcqW6k7EgO1+y4Cxb7pNykqqIv9Ht1P/Rrxj/0a7YP97zo22/f79Af///wD///8A////ALHo0GU/xoz/P8aL/z7Ikf8+x5L/RrRI/0uoHf9KqiX/R7hW/0a8Y/9KvGP40O3WP////wD///8A////AP///wD6/fwGcNWrvT7IlP8/xYn/R7JC/0qoG/9KqSH/Sawr/0a6Xf9GvGH/kdahl/3+/QH///8A////AP///wD///8A////AOD27ShVxYDlSK82/0qpG/9KqiP/Sqke/0mwN/9Gu2P/bcmByfD58hT///8A////AP///wD///8A////AP///wD///8AzunGRFatKu5KqiP/Sqoj/0qqH/9Htkz/Y8Z81+P05yb///8A////AP///wD///8A////AP///wD///8A////AP///wDP6MRCX7Q84EqpIP9JrS//a8iAyuH05ij///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AOPy3SZ+wmK1idCOo+348Bj///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A//8AAOAHAACAAQAAgAEAAMABAAChgQAAg4MAAMGDAADAAwAA4AcAAOAHAADwDwAA+B8AAPw/AAD+fwAA//8AAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "load.sumome.com",
+      "www.edm.smart.com.ph",
+      "app.getresponse.com",
+      "w.usabilla.com",
+      "sumo.com",
+      "www.googletagmanager.com",
+      "connect.facebook.net",
+      "cdn-akamai.mookie1.com",
+      "www.google-analytics.com",
+      "www.googleadservices.com",
+      "tags.tiqcdn.com",
+      "www.facebook.com",
+      "static.ads-twitter.com",
+      "t.co",
+      "googleads.g.doubleclick.net",
+      "www.google.com.ph",
+      "t.mookie1.com",
+      "d6tizftlrpuof.cloudfront.net",
+      "www.gstatic.com",
+      "ajax.googleapis.com",
+      "analytics.twitter.com"
+    ]
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sumo.com": {
+    "hostname": "sumo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.mookie1.com": {
+    "hostname": "t.mookie1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "w.usabilla.com": {
+    "hostname": "w.usabilla.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.edm.smart.com.ph": {
+    "hostname": "www.edm.smart.com.ph",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com.ph": {
+    "hostname": "www.google.com.ph",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "smart.com.ph"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

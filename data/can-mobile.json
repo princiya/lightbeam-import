@@ -1,0 +1,390 @@
+{
+  "5236154.fls.doubleclick.net": {
+    "hostname": "5236154.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "6575269.fls.doubleclick.net": {
+    "hostname": "6575269.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "8460525.fls.doubleclick.net": {
+    "hostname": "8460525.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "acs.adgear.com": {
+    "hostname": "acs.adgear.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.adobedtm.com": {
+    "hostname": "assets.adobedtm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.koodomobile.com": {
+    "hostname": "b.koodomobile.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dcs.adgear.com": {
+    "hostname": "dcs.adgear.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dev.visualwebsiteoptimizer.com": {
+    "hostname": "dev.visualwebsiteoptimizer.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nexus.ensighten.com": {
+    "hostname": "nexus.ensighten.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.tapad.com": {
+    "hostname": "pixel.tapad.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rp.gwallet.com": {
+    "hostname": "rp.gwallet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rs.gwallet.com": {
+    "hostname": "rs.gwallet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rules.quantcount.com": {
+    "hostname": "rules.quantcount.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.quantserve.com": {
+    "hostname": "secure.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "siteintercept.qualtrics.com": {
+    "hostname": "siteintercept.qualtrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp.analytics.yahoo.com": {
+    "hostname": "sp.analytics.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.google-analytics.com": {
+    "hostname": "ssl.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.doubleclick.net": {
+    "hostname": "static.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "telus.demdex.net": {
+    "hostname": "telus.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "telus.tt.omtrdc.net": {
+    "hostname": "telus.tt.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.ca": {
+    "hostname": "www.google.ca",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.koodomobile.com": {
+    "hostname": "www.koodomobile.com",
+    "favicon": "data:image/png;base64,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",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.adobedtm.com",
+      "nexus.ensighten.com",
+      "www.google.com",
+      "ajax.googleapis.com",
+      "www.youtube.com",
+      "dpm.demdex.net",
+      "dev.visualwebsiteoptimizer.com",
+      "telus.demdex.net",
+      "b.koodomobile.com",
+      "www.googletagmanager.com",
+      "telus.tt.omtrdc.net",
+      "analytics.twitter.com",
+      "www.googleadservices.com",
+      "googleads.g.doubleclick.net",
+      "8460525.fls.doubleclick.net",
+      "static.doubleclick.net",
+      "connect.facebook.net",
+      "rs.gwallet.com",
+      "adservice.google.com",
+      "www.google.ca",
+      "sp.analytics.yahoo.com",
+      "www.facebook.com",
+      "www.google-analytics.com",
+      "ssl.google-analytics.com",
+      "dcs.adgear.com",
+      "zn_ezyilxhyzpbamlp-telus.siteintercept.qualtrics.com",
+      "znezyilxhyzpbamlp-telus.siteintercept.qualtrics.com",
+      "siteintercept.qualtrics.com",
+      "acs.adgear.com",
+      "5236154.fls.doubleclick.net",
+      "6575269.fls.doubleclick.net",
+      "rp.gwallet.com",
+      "bat.bing.com",
+      "secure.adnxs.com",
+      "secure.quantserve.com",
+      "rules.quantcount.com",
+      "pixel.tapad.com",
+      "pixel.quantserve.com"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "zn_ezyilxhyzpbamlp-telus.siteintercept.qualtrics.com": {
+    "hostname": "zn_ezyilxhyzpbamlp-telus.siteintercept.qualtrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "znezyilxhyzpbamlp-telus.siteintercept.qualtrics.com": {
+    "hostname": "znezyilxhyzpbamlp-telus.siteintercept.qualtrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.koodomobile.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

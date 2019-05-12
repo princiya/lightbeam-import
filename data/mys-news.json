@@ -1,0 +1,448 @@
+{
+  "52a360d4000447a08efd7617080680a9.js.ubembed.com": {
+    "hostname": "52a360d4000447a08efd7617080680a9.js.ubembed.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.cxense.com": {
+    "hostname": "api.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.ubembed.com": {
+    "hostname": "assets.ubembed.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.thestar.com.my": {
+    "hostname": "cdn.thestar.com.my",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnt.netcoresmartech.com": {
+    "hostname": "cdnt.netcoresmartech.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "content.aimatch.com": {
+    "hostname": "content.aimatch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d1z2jf7jlzjs58.cloudfront.net": {
+    "hostname": "d1z2jf7jlzjs58.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fcm.googleapis.com": {
+    "hostname": "fcm.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "j93557g.com": {
+    "hostname": "j93557g.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "logws1344.ati-host.net": {
+    "hostname": "logws1344.ati-host.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media.thestartv.com": {
+    "hostname": "media.thestartv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.yimg.com": {
+    "hostname": "s.yimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3-ap-southeast-1.amazonaws.com": {
+    "hostname": "s3-ap-southeast-1.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scdn.cxense.com": {
+    "hostname": "scdn.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scomcluster.cxense.com": {
+    "hostname": "scomcluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.crazyegg.com": {
+    "hostname": "script.crazyegg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp1cluster.cxense.com": {
+    "hostname": "sp1cluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "srv-2019-03-28-08.config.parsely.com": {
+    "hostname": "srv-2019-03-28-08.config.parsely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "srv-2019-03-28-08.pixel.parsely.com": {
+    "hostname": "srv-2019-03-28-08.pixel.parsely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.aticdn.net": {
+    "hostname": "tag.aticdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trackertest.org": {
+    "hostname": "trackertest.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.mozilla.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tw.netcore.co.in": {
+    "hostname": "tw.netcore.co.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "twa.netcoresmartech.com": {
+    "hostname": "twa.netcoresmartech.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget.dimsum.my": {
+    "hostname": "widget.dimsum.my",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.mozilla.org": {
+    "hostname": "www.mozilla.org",
+    "favicon": "data:image/x-icon;base64,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Cf8XteP/ANf//wbX//8u3P//ONz//zba//802f//Mtf//y/V/xpGje1WUBbe/z4e7/8xJPr/Kiz+/yM9//8bTv//FF///wxw//8Fgf//AJD//wKU/v8Zafn/YWmZ/79nKP/wcAD/+HkA//x+AP/+ggD//YUA//uIAP/kgwn/R7qt/wDd//8Q3v//OeL//z3h//884P//Ot7//znd//832//aNtr/ABy9/AxLIODuPx7u/zIk+v8qK/7/Izz//xxN//8UXv//DW///wWA//8AkP//CoH+/xZp/v8Vd///FIj+/3uFgf/8fwD//YQA//uKAP/4jwD/34oK/zbJwf8A4f//H+T//0Lm//9C5f//QeT//z/j//8+4f//POD//yjS/4Iax/8AAMT/ACdu735AHe3/MyT5/ysq/v8kOv//HEv//xVc//8Nbf//Bn7//wCO//8Lff7/Fmr//xV4//8Siv//Gpzy//yEAf/6iwD/95IA/+yRAP9PxKT/AOX//yno//9G6f//Ruj//0Tn//9D5v//QuX//0Hk//894v/6Bcf/IADE/wAA1f8AAs79Cjc679Y0I/j/LCn+/yU4//8eSf//Flr//w9q//8Ie///AYv//wiB/v9Nab7/rXRQ/8x+Mv/zgwv/+4kA//eSAP/ymQD/qKdA/wDo/v8i6v//Sez//0jr//9I6v//R+n//0bp//9F6P//ROf//yLe/6AA1P8AANT/AADe/wAA3v8AE6jzRjgh7/8tJ/3/JzT//x9F//8YVv//EWb//wl3//8Ch///BI38/9tpEv/1dQD/+34A//2EAP/5jQD/9JcA/+ucAP9Gz67/C+r//0nt//9L7f//Suz//0ns//9J6///SOr//0fq//865//2At//IADe/wAA3v8AAOD/AADg/wALw/ckSB3O/zYj7P8pMP7/IUD//xpR//8TYf//DHH//wWC//8AkP//k3tf//Z2AP/8fwD//IcA//eRAP/ymgD/56AB/wrm8v8s7P//TO7//0zu//9L7v//S+3//0rt//9K7P//ROv//wvh/34A4P8AAOD/AADg/wAA2f8AANn/AADX/gJFK9rsRCHa/z0m3/xSMq3iWUKg/2VOj/+PVFv/bmmF/wSJ+/8Lk/L/t38+//x/AP/8iAD/95IA//KcAP/ZpxH/AOr//0Du//9N7///Te///0zv//9M7v//S+7//0fs//8R3P/UANn/CADZ/wAA2f8AANn/AADK/wAAyv8AAMr/ACtl7JJDIeX/QiPjiEkl1BKKL2Cstj4f/8ZJFP/YVQn/0WQZ/4V9cP9wior/6oIS//yHAP/3kQD/8psA/+SlB/8B6f3/SO///07w//9N8P//Te///03v//9G7P//EM7//ADK/zYAy/8AAMv/AADL/wAAy/8AALb/AAC2/wAAtv8ABan8FDow7dxcIdAMXiHPAF4hzgJ6K5hOtEI00tVTC//mXwH/72sA//Z2AP/8fgD//YUA//iPAP/0mAD/76EA/yTf1/9G8P//TvD//07w//9O8P//PO7/7gm9/+gAtP+KALf/AAC3/wAAt/8AALf/AAC3/wAAoP8AAKD/AACg/wAAoP8AD4P6LD1Y4gA9WOIAPVjiAD1Y4gA9WeECWmatRI9yYJ7VbRrk9HMA//p8AP/+ggD/+ooA//aTAP/ynAD/bciK+Drv//9P8f//TvD//yrt/+oB6v8uAMT/cACg/w4AoP8AAKD/AACg/wAAoP8AAKD/AADp/wAA6f8AAOn/AADp/wAA6f8AAOn/AADp/wAA6f8AAOn/AADp/wAA6f8AAOn/AADp/gIY3uUYOs/DOkvKskxNy7FMS86xPEvPsRw11sciJe3/+k7w//8h7P/uAOr/LgDq/wAA6f8CAOf/AADn/wAA5/8AAOf/AADn/wAA5/8AAOr/AADq/wAA6v8AAOr/AADq/wAA6v8AAOr/AADq/wAA6v8AAOr/AADq/wAA6v8AAOr/AADq/wAA6v8AAOr/AADq/wAA6v8AAOr/AADq/wAJ6v+KLu7//wDq/0YA6v8AAOr/AADq/wAA6v8AAOr/AADq/wAA6v8AAOr/AADq/wAA5vsAAOb7AADm+wAA5vsAAOb7AADm+wAA5vsAAOb7AADm+wAA5vsAAOb7AADm+wAA5vsAAOb7AADm+wAA5vsAAOb7AADm+wAA5vsAAOb7AADm+woB6Px+AOr/AADq/wAA6v8AAOr/AADq/wAA6v8AAOr/AADq/wAA6v8AAOr/AP/4B///wAH//wAA//wAAD/4AAAf8AAAD+AAAAfgAAADwAAAA8AAAAOAAAABgAAAAYAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAGAAAABgAAAAcAAAAPAAAAD4AAAB+AAAA/gAAAP4gAAH/eAAB//4AD////x////8///////",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "trackertest.org"
+    ]
+  },
+  "www.star2.com": {
+    "hostname": "www.star2.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.thestar.com.my"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.thestar.com.my": {
+    "hostname": "www.thestar.com.my",
+    "favicon": "data:image/x-icon;base64,AAABAAMAEBAAAAAAIABoBAAANgAAACAgAAAAACAAqBAAAJ4EAAAwMAAAAAAgAKglAABGFQAAKAAAABAAAAAgAAAAAQAgAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAACgh2v8oIdr/NS/c/zoz3f80Ldz/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/b2vm/////////////////+Lh+v+Sjuz/Mivb/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/29r5v///////////////////////////97d+f8+ON3/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9va+b/3t35/7688//Myvb//Pv+////////////zcz2/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KyTa/ygh2v8oIdr/KCHa/11Y4/////////////////9TTeH/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v87Nd3/////////////////e3fo/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9NR+D/2Nf4/////////////////2tm5f8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v+Ggur/+vr+/////////////////+Xk+v8xKtv/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9oY+X//////////////////////+Hg+f9NR+D/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/sa7x/////////////////6mn8P8yK9v/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/7e18v///////////83M9v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v+TkOz////////////n5vr/OTPd/ygh2v8oIdr/Lifb/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/Pzne//f3/f////////////f3/f/V0/f/4eD6/9bV+P8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9rZuX/9vX9///////////////////////6+v7/Lifb/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/z853v+bl+3/zcz2/+Hg+v/c2/n/0M/3/0E73v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//KAAAACAAAABAAAAAAQAgAAAAAACAEAAAAAAAAAAAAAAAAAAAAAAAACgh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/zkz3P9MRuD/TEbg/0xG4P9MRuD/NC3c/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v+3tfL/////////////////////////////////4eD5/6uo8P9gW+P/NjDc/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/7e18v////////////////////////////////////////////Dv/P/AvvT/UUzh/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/t7Xy///////////////////////////////////////////////////////z8v3/kI3r/yok2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v+3tfL////////////////////////////////////////////////////////////29f3/e3fo/yok2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/7e18v/////////////////////////////////////////////////////////////////w7/z/cm7m/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/t7Xy/9XT9/+lou//iofq/3Ju5v+Hg+r/q6jw//Py/P/////////////////////////////////V0/f/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v80Ldz/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/PDbd/7q48/////////////////////////////////9jXuT/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/V1Li/////////////////////////////////5mW7f8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8uJ9v/////////////////////////////////vbvz/y4n2/8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/29r5v/////////////////////////////////Jx/X/OjPd/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/y4n2/+Bfen/7ez7/////////////////////////////////7278/8uJ9v/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9AOd7/n5zu//Py/f//////////////////////////////////////mZbt/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8xKtv/cm7m/+3s+/////////////////////////////////////////////b1/f9MReD/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/4SA6v/w7/z////////////////////////////////////////////8+/7/paLv/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/yki2v90b+f//////////////////////////////////////////////////Pv+/6Kf7/86M93/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/OzXd/8fF9f////////////////////////////////////////////Py/f+Wk+3/MCrb/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9jXuT/8/L9//////////////////////////////////n4/v/Jx/b/UUzh/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/29r5v//////////////////////////////////////paLv/z853v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/b2vm/////////////////////////////////8C+9P8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9va+b/////////////////////////////////eHTn/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/1lU4v/o6Pv///////////////////////////+rqfD/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/Pjjd/83M9v////////////////////////////Py/f9saOX/KiTa/ygh2v8oIdr/KCHa/ygh2v80Ldz/NC3c/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/e3fo///////////////////////////////////////h4Pn/tLHy/6Kf7/+3tfP/z833//////+cme3/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v80Ldz/4eD5/////////////////////////////////////////////////////////////////8C+9P8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9WUOH/1tX4////////////////////////////////////////////////////////////7ez7/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/yki2v9WUOH/29r4////////////////////////////////////////////////////////////QDne/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v80Ldz/e3fo/9LQ9//z8v3///////////////////////////////////////////9va+b/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/Qjze/2Ne5P+Khuv/rqvx/7e18//Pzff/vbvz/7e18/+uq/H/lpPt/0U/3/8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAwAAAAYAAAAAEAIAAAAAAAgCUAAAAAAAAAAAAAAAAAAAAAAAAoIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v81L9z/Xlnj/15Z4/9eWeP/Xlnj/15Z4/9eWeP/Xlnj/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa///////////////////////////////////////////////////////k4/r/rqzx/2tm5v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa///////////////////////////////////////////////////////////////////////y8f3/lJDt/zUv3P8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa//////////////////////////////////////////////////////////////////////////////////Lx/f+Ggur/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa////////////////////////////////////////////////////////////////////////////////////////////ycj2/zUv3P8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/////////////////////////////////////////////////////////////////////////////////////////////////9fV+P81L9z/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa///////////////////////////////////////////////////////////////////////////////////////////////////////X1fj/NS/c/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa////////////////////////////////////////////////////////////////////////////////////////////////////////////vLrz/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/////////////////////////////////////////////////////////////////////////////////////////////////////////////////3l06P8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa///////X1fj/lJDt/2tm5v9eWeP/NS/c/ygh2v9DPd//Xlnj/5SQ7f/k4/r//////////////////////////////////////////////////////+Tj+v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/0M93/8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/hoLq//////////////////////////////////////////////////////9rZub/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/66s8f////////////////////////////////////////////////+urPH/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/1BL4f/////////////////////////////////////////////////k4/r/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v//////////////////////////////////////////////////////KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/0M93///////////////////////////////////////////////////////Xlnj/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/7y68///////////////////////////////////////////////////////Xlnj/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/rqzx////////////////////////////////////////////////////////////Qz3f/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/0M93//JyPb/////////////////////////////////////////////////////////////////KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/lJDt//Lx/f////////////////////////////////////////////////////////////////+8uvP/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/1BL4f/X1fj///////////////////////////////////////////////////////////////////////////95dOj/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/eXTo/////////////////////////////////////////////////////////////////////////////////9fV+P8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v95dOj/////////////////////////////////////////////////////////////////////////////////8vH9/1BL4f8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/2tm5v//////////////////////////////////////////////////////////////////////////////////////eXTo/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/NS/c//Lx/f////////////////////////////////////////////////////////////////////////////Lx/f9QS+H/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/eXTo////////////////////////////////////////////////////////////////////////////ycj2/zUv3P8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/ycj2//////////////////////////////////////////////////////////////////Lx/f+Ggur/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/////////////////////////////////////////////////////////////////ycj2/0M93/8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr///////////////////////////////////////////////////////////+urPH/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr//////////////////////////////////////////////////////8nI9v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr//////////////////////////////////////////////////////1BL4f8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr//////////////////////////////////////////////////////ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/ycj2/////////////////////////////////////////////////15Z4/8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/oZ7v/////////////////////////////////////////////////8nI9v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/UEvh//////////////////////////////////////////////////////+8uvP/NS/c/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/Xlnj/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/8nI9v///////////////////////////////////////////////////////////7y68/+UkO3/hoLq/2tm5v+UkO3/lJDt/8nI9v///////////15Z4/8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/15Z4////////////////////////////////////////////////////////////////////////////////////////////////////////////4aC6v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v+8uvP//////////////////////////////////////////////////////////////////////////////////////////////////////66s8f8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v81L9z/19X4/////////////////////////////////////////////////////////////////////////////////////////////////9fV+P8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/NS/c/9fV+P////////////////////////////////////////////////////////////////////////////////////////////////8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/zUv3P+urPH///////////////////////////////////////////////////////////////////////////////////////////9eWeP/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/Xlnj/8nI9v////////////////////////////////////////////////////////////////////////////////+Ggur/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9eWeP/rqzx//Lx/f////////////////////////////////////////////////////////////////+urPH/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v9DPd//a2bm/5SQ7f+UkO3/lJDt/8nI9v+hnu//lJDt/5SQ7f+UkO3/a2bm/15Z4/8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8oIdr/KCHa/ygh2v8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdnjs.cloudflare.com",
+      "fonts.googleapis.com",
+      "cdn.thestar.com.my",
+      "s3-ap-southeast-1.amazonaws.com",
+      "content.aimatch.com",
+      "tw.netcore.co.in",
+      "media.thestartv.com",
+      "ajax.googleapis.com",
+      "connect.facebook.net",
+      "tag.aticdn.net",
+      "www.googletagservices.com",
+      "securepubads.g.doubleclick.net",
+      "adservice.google.com",
+      "j93557g.com",
+      "d1z2jf7jlzjs58.cloudfront.net",
+      "widget.dimsum.my",
+      "s.yimg.com",
+      "www.google-analytics.com",
+      "tpc.googlesyndication.com",
+      "logws1344.ati-host.net",
+      "srv-2019-03-28-08.config.parsely.com",
+      "www.googletagmanager.com",
+      "ad.doubleclick.net",
+      "sb.scorecardresearch.com",
+      "staticxx.facebook.com",
+      "52a360d4000447a08efd7617080680a9.js.ubembed.com",
+      "assets.ubembed.com",
+      "srv-2019-03-28-08.pixel.parsely.com",
+      "fonts.gstatic.com",
+      "scdn.cxense.com",
+      "cdnt.netcoresmartech.com",
+      "www.facebook.com",
+      "twa.netcoresmartech.com",
+      "www.star2.com",
+      "pagead2.googlesyndication.com",
+      "script.crazyegg.com",
+      "api.cxense.com",
+      "sp1cluster.cxense.com",
+      "ib.adnxs.com",
+      "scomcluster.cxense.com",
+      "www.google.com",
+      "fcm.googleapis.com"
+    ]
+  }
+}

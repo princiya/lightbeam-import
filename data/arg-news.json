@@ -1,0 +1,807 @@
+{
+  "accounts.us1.gigya.com": {
+    "hostname": "accounts.us1.gigya.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.atdmt.com": {
+    "hostname": "ad.atdmt.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "addons.mozilla.org": {
+    "hostname": "addons.mozilla.org",
+    "favicon": "data:image/x-icon;base64,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",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "ade.googlesyndication.com": {
+    "hostname": "ade.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.clarinssp.com": {
+    "hostname": "ads.clarinssp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.rubiconproject.com": {
+    "hostname": "ads.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads01.groovinads.com": {
+    "hostname": "ads01.groovinads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads02.groovinads.com": {
+    "hostname": "ads02.groovinads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.ar": {
+    "hostname": "adservice.google.com.ar",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.bluekai.com": {
+    "hostname": "analytics.bluekai.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api-editoriales.clarin.com": {
+    "hostname": "api-editoriales.clarin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.cxense.com": {
+    "hostname": "api.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apis.google.com": {
+    "hostname": "apis.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bcp.crwdcntrl.net": {
+    "hostname": "bcp.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon-us-iad2.rubiconproject.com": {
+    "hostname": "beacon-us-iad2.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bs.serving-sys.com": {
+    "hostname": "bs.serving-sys.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdns.gigya.com": {
+    "hostname": "cdns.gigya.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdns.us1.gigya.com": {
+    "hostname": "cdns.us1.gigya.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clarin.com": {
+    "hostname": "clarin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.createjs.com": {
+    "hostname": "code.createjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collector.cint.com": {
+    "hostname": "collector.cint.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "contenidos2.clarin.com": {
+    "hostname": "contenidos2.clarin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "content-thumbnail.cxpublic.com": {
+    "hostname": "content-thumbnail.cxpublic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cookiex.ngd.yahoo.com": {
+    "hostname": "cookiex.ngd.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eus.rubiconproject.com": {
+    "hostname": "eus.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fcm.googleapis.com": {
+    "hostname": "fcm.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads4.g.doubleclick.net": {
+    "hostname": "googleads4.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gscounters.us1.gigya.com": {
+    "hostname": "gscounters.us1.gigya.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.cxense.com": {
+    "hostname": "id.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idsync.rlcdn.com": {
+    "hostname": "idsync.rlcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.clarin.com": {
+    "hostname": "images.clarin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "optimized-by.rubiconproject.com": {
+    "hostname": "optimized-by.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ping.chartbeat.net": {
+    "hostname": "ping.chartbeat.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r.turn.com": {
+    "hostname": "r.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scdn.cxense.com": {
+    "hostname": "scdn.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scomcluster.cxense.com": {
+    "hostname": "scomcluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sig.atdmt.com": {
+    "hostname": "sig.atdmt.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp1cluster.cxense.com": {
+    "hostname": "sp1cluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "st-wzb.clarin.com": {
+    "hostname": "st-wzb.clarin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stags.bluekai.com": {
+    "hostname": "stags.bluekai.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stat.clarinssp.com": {
+    "hostname": "stat.clarinssp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static-elle.clarin.com": {
+    "hostname": "static-elle.clarin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.chartbeat.com": {
+    "hostname": "static.chartbeat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.clarin.com": {
+    "hostname": "static.clarin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.clarinssp.com": {
+    "hostname": "static.clarinssp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.groovinads.com": {
+    "hostname": "static.groovinads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.crwdcntrl.net": {
+    "hostname": "sync.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.bkrtx.com": {
+    "hostname": "tags.bkrtx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.bluekai.com": {
+    "hostname": "tags.bluekai.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.crwdcntrl.net": {
+    "hostname": "tags.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vc.hotjar.io": {
+    "hostname": "vc.hotjar.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.clarin.com": {
+    "hostname": "www.clarin.com",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApw1AAADAFBMVEUAAADWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACbWACau9qm2AAAA/3RSTlMAAAQOGS5Ucoibq7/T5e/++uvgz7yqmYl1Uy8bDwUBME9rmsHj8vz98eTWxKA2FBo3bsLn++zLfUIjCQYgSpTU8PXhrGYxEAgkZaPc9r6C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",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images.clarin.com",
+      "static.clarin.com",
+      "st-wzb.clarin.com",
+      "clarin.com",
+      "tags.bkrtx.com",
+      "fonts.googleapis.com",
+      "tags.crwdcntrl.net",
+      "fonts.gstatic.com",
+      "api-editoriales.clarin.com",
+      "cdns.gigya.com",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "sb.scorecardresearch.com",
+      "stags.bluekai.com",
+      "static.chartbeat.com",
+      "connect.facebook.net",
+      "cdns.us1.gigya.com",
+      "accounts.us1.gigya.com",
+      "ping.chartbeat.net",
+      "staticxx.facebook.com",
+      "www.googleadservices.com",
+      "static.hotjar.com",
+      "apis.google.com",
+      "www.googletagservices.com",
+      "www.facebook.com",
+      "securepubads.g.doubleclick.net",
+      "adservice.google.com.ar",
+      "googleads.g.doubleclick.net",
+      "adservice.google.com",
+      "vars.hotjar.com",
+      "script.hotjar.com",
+      "www.google.com",
+      "www.google.com.ar",
+      "tpc.googlesyndication.com",
+      "vc.hotjar.io",
+      "cdn.ampproject.org",
+      "pagead2.googlesyndication.com",
+      "s0.2mdn.net",
+      "cm.g.doubleclick.net",
+      "ad.doubleclick.net",
+      "contenidos2.clarin.com",
+      "googleads4.g.doubleclick.net",
+      "ad.atdmt.com",
+      "gscounters.us1.gigya.com",
+      "sig.atdmt.com",
+      "tags.bluekai.com",
+      "beacon.krxd.net",
+      "bcp.crwdcntrl.net",
+      "collector.cint.com",
+      "idsync.rlcdn.com",
+      "sync.crwdcntrl.net",
+      "ade.googlesyndication.com",
+      "www.gstatic.com",
+      "fcm.googleapis.com",
+      "analytics.bluekai.com",
+      "ib.adnxs.com",
+      "r.turn.com",
+      "scdn.cxense.com",
+      "ads02.groovinads.com",
+      "api.cxense.com",
+      "static.clarinssp.com",
+      "ads01.groovinads.com",
+      "ajax.googleapis.com",
+      "static.groovinads.com",
+      "ads.clarinssp.com",
+      "bs.serving-sys.com",
+      "ads.rubiconproject.com",
+      "optimized-by.rubiconproject.com",
+      "eus.rubiconproject.com",
+      "stat.clarinssp.com",
+      "beacon-us-iad2.rubiconproject.com",
+      "pixel.rubiconproject.com",
+      "cookiex.ngd.yahoo.com",
+      "code.createjs.com",
+      "static-elle.clarin.com",
+      "sp1cluster.cxense.com",
+      "content-thumbnail.cxpublic.com",
+      "scomcluster.cxense.com",
+      "id.cxense.com"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com.ar": {
+    "hostname": "www.google.com.ar",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.clarin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

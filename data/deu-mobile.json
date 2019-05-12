@@ -1,0 +1,130 @@
+{
+  "ad.ad-srv-track.com": {
+    "hostname": "ad.ad-srv-track.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.whisbi.com": {
+    "hostname": "api.whisbi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dyn.vodafone.de": {
+    "hostname": "dyn.vodafone.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "events-pre.sp.vodafone.com": {
+    "hostname": "events-pre.sp.vodafone.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "events.sp.vodafone.com": {
+    "hostname": "events.sp.vodafone.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "library.whisbi.com": {
+    "hostname": "library.whisbi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nupload.whisbi.com": {
+    "hostname": "nupload.whisbi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.whisbi.com": {
+    "hostname": "static.whisbi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget.whisbi.com": {
+    "hostname": "widget.whisbi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.trustedshops.com": {
+    "hostname": "widgets.trustedshops.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.vodafone.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.vodafone.de": {
+    "hostname": "www.vodafone.de",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAAAAAAAAAAAAAAA5gAAAOYHAADmSQAA5qgAAObkAADm/AAA5vwAAObkAADmqAAA5kkAAOYHAADmAAAAAAAAAAAAAADmAAAA5gAAAOYZAADmkwAA5u8AAOb/AADm/wAA5v8AAOb/AADm/wAA5v8AAObvAADmkwAA5hkAAOYAAADmAAAA5gAAAOYZAADmsQAA5v8AAOb/AADm/wAA5v8AAOb/AADm/wAA5v8AAOb/AADm/wAA5v8AAOaxAADmGQAA5gAAAOYGAADmkwAA5v8AAOb/AADm/wYG5v83N+v/a2vx/3Bw8f9DQ+3/DAzn/wAA5v8AAOb/AADm/wAA5pMAAOYGAADmSgAA5u0AAOb/AADm/xAQ5/+MjPT/7e39////////////9fX+/6en9v8dHen/AADm/wAA5v8AAObtAADmSgAA5qgAAOb/AADm/wIC5v+FhfP//f3/////////////////////////////oKD2/wgI5/8AAOb/AADm/wAA5qgAAObjAADm/wAA5v8rK+r/5eX8/////////////////////////////////+7u/f84OOv/AADm/wAA5v8AAObjAADm+wAA5v8AAOb/XV3v//7+///////////////////////////////////+/v//Xl7v/wAA5v8AAOb/AADm+wAA5vsAAOb/AADm/21t8f///////////////////////////////////////Pz//1ZW7v8AAOb/AADm/wAA5vsAAObjAADm/wAA5v9YWO///Pz//////////////////////////////////+Dg/P8oKOr/AADm/wAA5v8AAObjAADmqAAA5v8AAOb/KCjq/+Pj/P////////////////////////////Hx/v9sbPH/AQHm/wAA5v8AAOb/AADmqAAA5koAAObtAADm/wMD5v+SkvT/////////////////8/P+/6ys9/9KSu3/BQXm/wAA5v8AAOb/AADm7QAA5koAAOYGAADmkwAA5v8AAOb/IiLp/8jI+v///////////9HR+v8VFej/AADm/wAA5v8AAOb/AADm/wAA5pMAAOYGAADmAAAA5hkAAOaxAADm/wAA5v8vL+r/vb35//7+///y8v7/SEjt/wAA5v8AAOb/AADm/wAA5rEAAOYZAADmAAAA5gAAAOYAAADmGQAA5pMAAObvAADm/xUV6P9wcPH/ycn6/7y8+P85Oez/BATm7wAA5pMAAOYZAADmAAAA5gAAAAAAAAAAAAAA5gAAAOYHAADmSQAA5qgAAObkAADm/BMT6PxGRu3kZWXwqCws6kkAAOQHAADmAAAAAAAAAAAA4AcAAMADAACAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAADAAwAA4AcAAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "api.whisbi.com",
+      "events.sp.vodafone.com",
+      "static.whisbi.com",
+      "tags.tiqcdn.com",
+      "dyn.vodafone.de",
+      "widgets.trustedshops.com",
+      "widget.whisbi.com",
+      "library.whisbi.com",
+      "fonts.googleapis.com",
+      "events-pre.sp.vodafone.com",
+      "ad.ad-srv-track.com",
+      "nupload.whisbi.com"
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "127.demdex.net": {
+    "hostname": "127.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "accdn.lpsnmedia.net": {
+    "hostname": "accdn.lpsnmedia.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.analytics-egain.com": {
+    "hostname": "analytics.analytics-egain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.adobedtm.com": {
+    "hostname": "assets.adobedtm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.virginmedia.com": {
+    "hostname": "assets.virginmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnssl.clicktale.net": {
+    "hostname": "cdnssl.clicktale.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ecustomeropinions.com": {
+    "hostname": "ecustomeropinions.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ir-conductor.clicktale.net": {
+    "hostname": "ir-conductor.clicktale.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ir-ing-district.clicktale.net": {
+    "hostname": "ir-ing-district.clicktale.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "libertyglobalpaneu.tt.omtrdc.net": {
+    "hostname": "libertyglobalpaneu.tt.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lo.v.liveperson.net": {
+    "hostname": "lo.v.liveperson.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lpcdn.lpsnmedia.net": {
+    "hostname": "lpcdn.lpsnmedia.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lptag.liveperson.net": {
+    "hostname": "lptag.liveperson.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "siteintercept.qualtrics.com": {
+    "hostname": "siteintercept.qualtrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "store.virginmedia.com": {
+    "hostname": "store.virginmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "upc.d2.sc.omtrdc.net": {
+    "hostname": "upc.d2.sc.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "virginmedia.tt.omtrdc.net": {
+    "hostname": "virginmedia.tt.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.virginmedia.com": {
+    "hostname": "www.virginmedia.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAAAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AQkc/HkJHPzBCRz8wQkc/KMJHPwd////Af///wH///8B////Af///wH///8B////Af///wH///8B////AQkc/LUJHPzhCRz8WQkc/E8JHPybCRz87Qkc/J////8B////Af///wH///8B////Af///wH///8B////AQkc/FMJHPzT////Af///wH///8B////AQkc/CsJHPzfCRz8tf///wH///8BCRz8LQkc/MsJHPy9CRz8wQkc/BMJHPyrCRz8bf///wH///8B////Af///wH///8B////AQkc/OEJHPyTCRz8MQkc/OsJHPx/CRz8EQkc/JcJHPy1CRz8wwkc/Ef///8B////Af///wH///8B////Af///wH///8BCRz8zwkc/PkJHPwf////Af///wEJHPwHCRz8wQkc/MMJHPxH////Af///wH///8B////Af///wH///8B////AQkc/M8JHPz5CRz8H////wH///8BCRz8Bwkc/MEJHPyrCRz8bf///wH///8B////Af///wH///8B////AQkc/OEJHPyTCRz8MQkc/OsJHPx/CRz8EQkc/JcJHPy1CRz8Uwkc/NP///8B////Af///wH///8BCRz8Kwkc/N8JHPy1////Af///wEJHPwtCRz8ywkc/L0JHPzBCRz8E////wEJHPy1CRz84Qkc/FkJHPxPCRz8mwkc/O0JHPyf////Af///wH///8B////Af///wH///8B////Af///wH///8B////AQkc/HkJHPzBCRz8wQkc/KMJHPwd////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8BAAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//w==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.adobedtm.com",
+      "assets.virginmedia.com",
+      "dpm.demdex.net",
+      "upc.d2.sc.omtrdc.net",
+      "tags.tiqcdn.com",
+      "127.demdex.net",
+      "libertyglobalpaneu.tt.omtrdc.net",
+      "virginmedia.tt.omtrdc.net",
+      "sb.scorecardresearch.com",
+      "www.googletagservices.com",
+      "connect.facebook.net",
+      "www.facebook.com",
+      "adservice.google.com",
+      "securepubads.g.doubleclick.net",
+      "ecustomeropinions.com",
+      "store.virginmedia.com",
+      "zn4hhwcajzb97gay5-virginmedia.siteintercept.qualtrics.com",
+      "analytics.analytics-egain.com",
+      "lptag.liveperson.net",
+      "siteintercept.qualtrics.com",
+      "accdn.lpsnmedia.net",
+      "lpcdn.lpsnmedia.net",
+      "cdnssl.clicktale.net",
+      "lo.v.liveperson.net",
+      "ir-ing-district.clicktale.net",
+      "ir-conductor.clicktale.net"
+    ]
+  },
+  "zn4hhwcajzb97gay5-virginmedia.siteintercept.qualtrics.com": {
+    "hostname": "zn4hhwcajzb97gay5-virginmedia.siteintercept.qualtrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.virginmedia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" />
+  <link href="src/css/main.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <span class="logo-image"></span>
+      <span class="logo-text">Lightbeam</span>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="sidebar">
+      <ul class="list" id="country-list"></ul>
+    </div>
+
+    <div class="main">
+      <svg id="world-map" class="world-map"></svg>
+      <div class="modal" id="modal">
+        <div id="visualization-mobile" class="visualization">
+          <div id="viz-tooltip-mobile" class="tooltip"></div>
+          <div class="mobile">
+            <h1 id="mobile__title">Mobile</h1>
+            <div id="mobile__information"></div>
+          </div>
+        </div>
+        <div id="visualization-news" class="visualization">
+          <div id="viz-tooltip-news" class="tooltip"></div>
+          <div class="news">
+            <h1 id="news__title">News</h1>
+            <div id="news__information"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    Made with 💙 for the global web tracking study
+  </footer>
+  <script src="src/lib/d3.min.js"></script>
+  <script src="src/lib/d3-queue.v1.min.js"></script>
+  <script src="src/lib/d3-topojson.v1.min.js"></script>
+  <script src="src/js/d3-tip.js"></script>
+  <script src="src/js/viz.js"></script>
+  <script src="src/js/map.js"></script>
+  <script src="src/js/country-code-map.js"></script>
+  <script src="src/js/main.js"></script>
+</body>
+
+</html>

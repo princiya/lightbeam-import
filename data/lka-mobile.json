@@ -1,0 +1,120 @@
+{
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bid.g.doubleclick.net": {
+    "hostname": "bid.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.dialog.lk": {
+    "hostname": "connect.dialog.lk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rum-collector-2.pingdom.net": {
+    "hostname": "rum-collector-2.pingdom.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rum-static.pingdom.net": {
+    "hostname": "rum-static.pingdom.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.dialog.lk": {
+    "hostname": "www.dialog.lk",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAD////////////////+/f///v3////////59P//tZrr/8/H6////////v7///38///+/v////////////////////////////////////////7+///Su/j/l1n1/2cq2f9KKrX/mH3g/+7p+////////v3+/////////////////////////////v3//+LT+/+ibvP/eC/s/3808v9yONz/RiWz/0QUxv9gLdn/tpnx//j2//////////7////////+/f///////97M+/+BO+7/cyXs/4I+7f+GP/L/cDXb/0gntP9TJsj/URrY/0oG6P+DS+P/+PP5///////+/v//////////////////59n8/6d28/96Muz/fzTy/2832/9HJ7X/TSPR/1cg0f9uKbL/fjep/+7l9f///////v7+////////////////////////////1MD5/5hb9f9zLdr/SSSy/14lpP91KoL/fTKK/4RArP/v5/f///////7+/v/////////////////8/P//+/z//////v/8+P//fYfn/1ojbf+AG1f/dyt8/3gxlf+DPqz/7+f2///////+/v7////////////9/v///v/////////U6P3/X7T5/x2d+v8lhef/UE6l/3koev+AK4v/gkCt/+/n9////////v7+///////+/////////+r1/v9+wvr/IJX3/xGP9/8fjPb/HoT6/xiM//8wc+H/Zkar/4U4pv/u5fb///////7+/v/9/v///////7bf/f8smff/D4z2/x6U9/8hl/f/H4v2/yJz8/8ldvL/HHv6/wtw+f9Wb93/9u74///////+/v///P7///////9zzv3/GqX7/yea+P8dkff/HZb3/yGJ9v8kZ/L/FmDy/yJm8f99p/f/5PP////////+/v////////3+////////ftL+/yq3/f83uf3/Kqb6/yGa+P8XfPT/GU3w/12H9f/R3fz///////7+/v/////////////////8/v///////3zR/v8ns/3/Orr9/zO6/f8ks/3/RZ34/7a/+f////////////z9///9/v///////////////////P7///////9+0v7/JrP9/yq0/f8+u/3/nt7+//b9/////////f7///39//////////////////////////////z+////////ds/+/yaz/f+E1P7/5/b////////9/v///P3////////////////////////////////////////+/////////6De/v/A6f7///////7////8/v///v//////////////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "rum-static.pingdom.net",
+      "connect.dialog.lk",
+      "www.google-analytics.com",
+      "www.googletagmanager.com",
+      "www.googleadservices.com",
+      "bid.g.doubleclick.net",
+      "googleads.g.doubleclick.net",
+      "rum-collector-2.pingdom.net",
+      "www.google.com",
+      "www.google.lk"
+    ]
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.lk": {
+    "hostname": "www.google.lk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dialog.lk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

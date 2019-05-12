@@ -1,25 +1,28 @@
 // eslint-disable-next-line no-unused-vars
 const viz = {
-  scalingFactor: 2,
-  circleRadius: 5,
-  resizeTimer: null,
-  minZoom: 0.5,
-  maxZoom: 1.5,
-  collisionRadius: 10,
-  chargeStrength: -100,
-  tickCount: 100,
-  canvasColor: 'white',
-  alphaStart: 1,
-  alphaTargetStart: 0.1,
-  alphaTargetStop: 0,
+  resetValues() {
+    this.scalingFactor = 2;
+    this.circleRadius = 5;
+    this.resizeTimer = null;
+    this.minZoom = 0.5;
+    this.maxZoom = 1.5;
+    this.collisionRadius = 10;
+    this.chargeStrength = -100;
+    this.tickCount = 100;
+    this.canvasColor = 'white';
+    this.alphaStart = 1;
+    this.alphaTargetStart = 0.1;
+    this.alphaTargetStop = 0;
+  },
 
-  init(nodes, links) {
-    const { width, height } = this.getDimensions();
-    const { canvas, context } = this.createCanvas();
+  init(nodes, links, type) {
+    // this.clearCanvas();
+    this.resetValues();
+    const { width, height } = this.getDimensions(type);
+    const { canvas, context } = this.createCanvas(type);
 
     this.canvas = canvas;
     this.context = context;
-    this.tooltip = document.getElementById('viz-tooltip');
     this.circleRadius = this.circleRadius * this.scalingFactor;
     this.collisionRadius = this.collisionRadius * this.scalingFactor;
     this.scale = (window.devicePixelRatio || 1) * this.scalingFactor;
@@ -101,11 +104,13 @@ const viz = {
     this.simulation.force('collide', collisionForce);
   },
 
-  createCanvas() {
-    const base = document.getElementById('visualization');
+  createCanvas(type) {
+    const base = document.getElementById(`visualization-${type}`);
     const canvas = document.createElement('canvas');
     const context = canvas.getContext('2d');
 
+    canvas.setAttribute('id', `canvas-${type}`);
+    this.tooltip = document.getElementById(`viz-tooltip-${type}`);
     base.appendChild(canvas);
 
     return {
@@ -124,13 +129,13 @@ const viz = {
     this.context.scale(this.scale, this.scale);
   },
 
-  getDimensions() {
-    const element = document.body;
+  getDimensions(type) {
+    const element = document.getElementById(`visualization-${type}`);
     const { width, height } = element.getBoundingClientRect();
 
     return {
       width,
-      height
+      height: height - 100
     };
   },
 
@@ -180,9 +185,9 @@ const viz = {
       this.context.fill();
 
       if (node.favicon) {
-        // this.drawFavicon(node, x, y, radius);
+        this.drawFavicon(node, x, y, radius);
       } else {
-        // this.drawFavicon(node, x, y, this.circleRadius);
+        this.drawFavicon(node, x, y, this.circleRadius);
       }
     }
   },
@@ -224,20 +229,28 @@ const viz = {
     context.fillStyle = this.canvasColor;
     context.fillRect(0, 0, canvas.width, canvas.height);
 
-    context.drawImage(image, 0, 0, side * this.scale, side * this.scale);
+    try {
+      context.drawImage(image, 0, 0, side * this.scale, side * this.scale);
+    } catch (error) {
+      // console.log('error', error);
+    }
 
     return context.getImageData(0, 0, canvas.width, canvas.height);
   },
 
-  drawFavicon(node, x, y, radius) {
+  async drawFavicon(node, x, y, radius) {
     const offset = this.getSquare(radius).offset,
       side = this.getSquare(radius).side,
       tx = this.transform.applyX(x) - offset,
       ty = this.transform.applyY(y) - offset;
 
-    /* if (!node.image) {
-      node.image = await this.loadImage(node.favicon);
-    } */
+    if (!node.image) {
+      try {
+        node.image = await this.loadImage(node.favicon);
+      } catch (error) {
+        // console.log('error', error);
+      }
+    }
 
     this.context.putImageData(
       this.scaleFavicon(node.image, side),
@@ -354,9 +367,9 @@ const viz = {
 
   addListeners() {
     this.addMouseMove();
-    this.addWindowResize();
+    // this.addWindowResize();
     this.addDrag();
-    this.addZoom();
+    // this.addZoom();
   },
 
   addMouseMove() {

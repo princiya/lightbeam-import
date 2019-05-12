@@ -1,0 +1,460 @@
+{
+  "aamapi.com": {
+    "hostname": "aamapi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aamcf.aamsitecertifier.com": {
+    "hostname": "aamcf.aamsitecertifier.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aamcftag.aamsitecertifier.com": {
+    "hostname": "aamcftag.aamsitecertifier.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ade.googlesyndication.com": {
+    "hostname": "ade.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.ca": {
+    "hostname": "adservice.google.ca",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.foresee.com": {
+    "hostname": "analytics.foresee.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ca-gmtdmp.mookie1.com": {
+    "hostname": "ca-gmtdmp.mookie1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-akamai.mookie1.com": {
+    "hostname": "cdn-akamai.mookie1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.krxd.net": {
+    "hostname": "cdn.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consumer.krxd.net": {
+    "hostname": "consumer.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d1fc8wv8zag5ca.cloudfront.net": {
+    "hostname": "d1fc8wv8zag5ca.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dev.appboy.com": {
+    "hostname": "dev.appboy.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gateway.foresee.com": {
+    "hostname": "gateway.foresee.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "geo.moatads.com": {
+    "hostname": "geo.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads4.g.doubleclick.net": {
+    "hostname": "googleads4.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gwiq-v3.globalwebindex.net": {
+    "hostname": "gwiq-v3.globalwebindex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gwiqcdn.globalwebindex.net": {
+    "hostname": "gwiqcdn.globalwebindex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idsync.rlcdn.com": {
+    "hostname": "idsync.rlcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jadserve.postrelease.com": {
+    "hostname": "jadserve.postrelease.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.matheranalytics.com": {
+    "hostname": "js.matheranalytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "load77.exelator.com": {
+    "hostname": "load77.exelator.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.moatads.com": {
+    "hostname": "px.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.acxiomapac.com": {
+    "hostname": "s.acxiomapac.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ntv.io": {
+    "hostname": "s.ntv.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp-prd.theglobeandmail.ca": {
+    "hostname": "sp-prd.theglobeandmail.ca",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp.theglobeandmail.com": {
+    "hostname": "sp.theglobeandmail.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.ca": {
+    "hostname": "www.google.ca",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.i.matheranalytics.com": {
+    "hostname": "www.i.matheranalytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.theglobeandmail.com": {
+    "hostname": "www.theglobeandmail.com",
+    "favicon": "data:image/png;base64,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",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.googletagservices.com",
+      "www.googletagmanager.com",
+      "cdn.krxd.net",
+      "securepubads.g.doubleclick.net",
+      "www.google-analytics.com",
+      "sp-prd.theglobeandmail.ca",
+      "adservice.google.ca",
+      "adservice.google.com",
+      "d1fc8wv8zag5ca.cloudfront.net",
+      "sp.theglobeandmail.com",
+      "tpc.googlesyndication.com",
+      "z.moatads.com",
+      "consumer.krxd.net",
+      "ad.doubleclick.net",
+      "www.google.ca",
+      "gwiqcdn.globalwebindex.net",
+      "px.moatads.com",
+      "s0.2mdn.net",
+      "geo.moatads.com",
+      "pagead2.googlesyndication.com",
+      "googleads4.g.doubleclick.net",
+      "analytics.twitter.com",
+      "gwiq-v3.globalwebindex.net",
+      "beacon.krxd.net",
+      "sb.scorecardresearch.com",
+      "s.acxiomapac.com",
+      "load77.exelator.com",
+      "idsync.rlcdn.com",
+      "cdn-akamai.mookie1.com",
+      "s.ntv.io",
+      "js.matheranalytics.com",
+      "dev.appboy.com",
+      "tags.tiqcdn.com",
+      "www.i.matheranalytics.com",
+      "connect.facebook.net",
+      "aamcftag.aamsitecertifier.com",
+      "gateway.foresee.com",
+      "jadserve.postrelease.com",
+      "secure.adnxs.com",
+      "ca-gmtdmp.mookie1.com",
+      "www.facebook.com",
+      "aamapi.com",
+      "aamcf.aamsitecertifier.com",
+      "analytics.foresee.com",
+      "ade.googlesyndication.com"
+    ]
+  },
+  "z.moatads.com": {
+    "hostname": "z.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.theglobeandmail.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

@@ -1,0 +1,770 @@
+{
+  "a.disquscdn.com": {
+    "hostname": "a.disquscdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.dochase.com": {
+    "hostname": "ads.dochase.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.ng": {
+    "hostname": "adservice.google.com.ng",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api-public.addthis.com": {
+    "hostname": "api-public.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.amplitude.com": {
+    "hostname": "api.amplitude.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.paystack.co": {
+    "hostname": "api.paystack.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.disquscdn.com": {
+    "hostname": "c.disquscdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c0.wp.com": {
+    "hostname": "c0.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cas.criteo.com": {
+    "hostname": "cas.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cat.nl.eu.criteo.com": {
+    "hostname": "cat.nl.eu.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.mgid.com": {
+    "hostname": "cdn.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.onesignal.com": {
+    "hostname": "cdn.onesignal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.onthe.io": {
+    "hostname": "cdn.onthe.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "certify-js.alexametrics.com": {
+    "hostname": "certify-js.alexametrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "certify.alexametrics.com": {
+    "hostname": "certify.alexametrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "checkout.paystack.com": {
+    "hostname": "checkout.paystack.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clients1.google.com": {
+    "hostname": "clients1.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.marketgid.com": {
+    "hostname": "cm.marketgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.mgid.com": {
+    "hostname": "cm.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.steepto.com": {
+    "hostname": "cm.steepto.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cse.google.com": {
+    "hostname": "cse.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eboundservices.com": {
+    "hostname": "eboundservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "freecurrencyrates.com": {
+    "hostname": "freecurrencyrates.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "graph.facebook.com": {
+    "hostname": "graph.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.liadm.com": {
+    "hostname": "i.liadm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i0.wp.com": {
+    "hostname": "i0.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i1.wp.com": {
+    "hostname": "i1.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i2.wp.com": {
+    "hostname": "i2.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "j.dochase.com": {
+    "hostname": "j.dochase.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.paystack.co": {
+    "hostname": "js.paystack.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jsc.mgid.com": {
+    "hostname": "jsc.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthis.com": {
+    "hostname": "m.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthisedge.com": {
+    "hostname": "m.addthisedge.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media.premiumtimesng.com": {
+    "hostname": "media.premiumtimesng.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "onesignal.com": {
+    "hostname": "onesignal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-422124-i1-v6exp3.ds.metric.gstatic.com": {
+    "hostname": "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-422124-i1-v6exp3.ds.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-422124-i2-v6exp3.v4.metric.gstatic.com": {
+    "hostname": "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-422124-i2-v6exp3.v4.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-422124-s1-v6exp3-v4.metric.gstatic.com": {
+    "hostname": "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-422124-s1-v6exp3-v4.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-if-v6exp3-v4.metric.gstatic.com": {
+    "hostname": "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-if-v6exp3-v4.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "paystack.com": {
+    "hostname": "paystack.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.wp.com": {
+    "hostname": "pixel.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "premiumtimes.disqus.com": {
+    "hostname": "premiumtimes.disqus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "publisher.eboundservices.com": {
+    "hostname": "publisher.eboundservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s-img.mgid.com": {
+    "hostname": "s-img.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.wp.com": {
+    "hostname": "s0.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s7.addthis.com": {
+    "hostname": "s7.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.gravatar.com": {
+    "hostname": "secure.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "servicer.mgid.com": {
+    "hostname": "servicer.mgid.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.google-analytics.com": {
+    "hostname": "ssl.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.wp.com": {
+    "hostname": "stats.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tt.onthe.io": {
+    "hostname": "tt.onthe.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.pinterest.com": {
+    "hostname": "widgets.pinterest.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.alternativeadvert.com": {
+    "hostname": "www.alternativeadvert.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com.ng": {
+    "hostname": "www.google.com.ng",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleapis.com": {
+    "hostname": "www.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.premiumtimesng.com": {
+    "hostname": "www.premiumtimesng.com",
+    "favicon": "data:image/webp;base64,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",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.onesignal.com",
+      "js.paystack.co",
+      "publisher.eboundservices.com",
+      "c0.wp.com",
+      "s7.addthis.com",
+      "secure.gravatar.com",
+      "premiumtimes.disqus.com",
+      "s0.wp.com",
+      "stats.wp.com",
+      "cdn.onthe.io",
+      "fonts.googleapis.com",
+      "onesignal.com",
+      "media.premiumtimesng.com",
+      "static.ads-twitter.com",
+      "j.dochase.com",
+      "pagead2.googlesyndication.com",
+      "www.google-analytics.com",
+      "www.googletagservices.com",
+      "eboundservices.com",
+      "googleads.g.doubleclick.net",
+      "cas.criteo.com",
+      "adservice.google.com.ng",
+      "c.disquscdn.com",
+      "www.tickcounter.com",
+      "cse.google.com",
+      "a.disquscdn.com",
+      "www.google.com",
+      "ads.dochase.com",
+      "freecurrencyrates.com",
+      "pixel.wp.com",
+      "jsc.mgid.com",
+      "tt.onthe.io",
+      "t.co",
+      "securepubads.g.doubleclick.net",
+      "m.addthisedge.com",
+      "www.googletagmanager.com",
+      "adservice.google.com",
+      "ssl.google-analytics.com",
+      "certify-js.alexametrics.com",
+      "connect.facebook.net",
+      "m.addthis.com",
+      "i1.wp.com",
+      "cat.nl.eu.criteo.com",
+      "www.googleapis.com",
+      "clients1.google.com",
+      "analytics.twitter.com",
+      "servicer.mgid.com",
+      "ajax.googleapis.com",
+      "i2.wp.com",
+      "www.facebook.com",
+      "cdn.mgid.com",
+      "cdnjs.cloudflare.com",
+      "i0.wp.com",
+      "s-img.mgid.com",
+      "sb.scorecardresearch.com",
+      "cm.mgid.com",
+      "fonts.gstatic.com",
+      "staticxx.facebook.com",
+      "www.google.com.ng",
+      "cm.steepto.com",
+      "cm.marketgid.com",
+      "certify.alexametrics.com",
+      "widgets.pinterest.com",
+      "api-public.addthis.com",
+      "graph.facebook.com",
+      "tpc.googlesyndication.com",
+      "i.liadm.com",
+      "paystack.com",
+      "checkout.paystack.com",
+      "api.paystack.co",
+      "api.amplitude.com",
+      "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-if-v6exp3-v4.metric.gstatic.com",
+      "www.alternativeadvert.com",
+      "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-422124-i2-v6exp3.v4.metric.gstatic.com",
+      "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-422124-i1-v6exp3.ds.metric.gstatic.com",
+      "p4-ed5p2ltydrpgw-svi7vgumece2l4lb-422124-s1-v6exp3-v4.metric.gstatic.com"
+    ]
+  },
+  "www.tickcounter.com": {
+    "hostname": "www.tickcounter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.premiumtimesng.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

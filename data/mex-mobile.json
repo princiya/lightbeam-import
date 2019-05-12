@@ -1,0 +1,320 @@
+{
+  "6839023.fls.doubleclick.net": {
+    "hostname": "6839023.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.adobedtm.com": {
+    "hostname": "assets.adobedtm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.krxd.net": {
+    "hostname": "cdn.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.rawgit.com": {
+    "hostname": "cdn.rawgit.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.scarabresearch.com": {
+    "hostname": "cdn.scarabresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "configusa.veinteractive.com": {
+    "hostname": "configusa.veinteractive.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consumer.krxd.net": {
+    "hostname": "consumer.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "crossmetrix.com": {
+    "hostname": "crossmetrix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ec-ns.sascdn.com": {
+    "hostname": "ec-ns.sascdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "recommender.scarabresearch.com": {
+    "hostname": "recommender.scarabresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.acxiomapac.com": {
+    "hostname": "s.acxiomapac.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "seal.websecurity.norton.com": {
+    "hostname": "seal.websecurity.norton.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "smetrics.tienda.telcel.com": {
+    "hostname": "smetrics.tienda.telcel.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com.mx": {
+    "hostname": "www.google.com.mx",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.telcel.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.telcel.com": {
+    "hostname": "www.telcel.com",
+    "favicon": "data:image/x-icon;base64,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",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdnjs.cloudflare.com",
+      "www.google.com",
+      "assets.adobedtm.com",
+      "fonts.googleapis.com",
+      "cdn.rawgit.com",
+      "seal.websecurity.norton.com",
+      "ec-ns.sascdn.com",
+      "cdn.scarabresearch.com",
+      "fonts.gstatic.com",
+      "www.gstatic.com",
+      "www.googletagmanager.com",
+      "smetrics.tienda.telcel.com",
+      "configusa.veinteractive.com",
+      "6839023.fls.doubleclick.net",
+      "adservice.google.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "cdn.krxd.net",
+      "www.googleadservices.com",
+      "static.hotjar.com",
+      "vars.hotjar.com",
+      "googleads.g.doubleclick.net",
+      "script.hotjar.com",
+      "www.google.com.mx",
+      "consumer.krxd.net",
+      "sb.scorecardresearch.com",
+      "beacon.krxd.net",
+      "s.acxiomapac.com",
+      "crossmetrix.com",
+      "www.facebook.com",
+      "recommender.scarabresearch.com"
+    ]
+  }
+}

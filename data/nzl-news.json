@@ -1,0 +1,590 @@
+{
+  "ad.crwdcntrl.net": {
+    "hostname": "ad.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ade.googlesyndication.com": {
+    "hostname": "ade.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.co.nz": {
+    "hostname": "adservice.google.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.ubembed.com": {
+    "hostname": "assets.ubembed.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bam.nr-data.net": {
+    "hostname": "bam.nr-data.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bcp.crwdcntrl.net": {
+    "hostname": "bcp.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "be122bb39b9d48ffbd628a0d8271a0c2.js.ubembed.com": {
+    "hostname": "be122bb39b9d48ffbd628a0d8271a0c2.js.ubembed.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "carousel.grabone.co.nz": {
+    "hostname": "carousel.grabone.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-gl.imrworldwide.com": {
+    "hostname": "cdn-gl.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "content.aimatch.com": {
+    "hostname": "content.aimatch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "data.apn.co.nz": {
+    "hostname": "data.apn.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dc05l3o2tcnzf.cloudfront.net": {
+    "hostname": "dc05l3o2tcnzf.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dt.adsafeprotected.com": {
+    "hostname": "dt.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fastlane.rubiconproject.com": {
+    "hostname": "fastlane.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fw.adsafeprotected.com": {
+    "hostname": "fw.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads4.g.doubleclick.net": {
+    "hostname": "googleads4.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js-agent.newrelic.com": {
+    "hostname": "js-agent.newrelic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lefrontend.nzmelistings.co.nz": {
+    "hostname": "lefrontend.nzmelistings.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lestorage.nzmelistings.co.nz": {
+    "hostname": "lestorage.nzmelistings.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "main-cdn.grabone.co.nz": {
+    "hostname": "main-cdn.grabone.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maps.google.com": {
+    "hostname": "maps.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maps.googleapis.com": {
+    "hostname": "maps.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media.nzherald.co.nz": {
+    "hostname": "media.nzherald.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nzme-ads-production.s3.amazonaws.com": {
+    "hostname": "nzme-ads-production.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nzme-ads.co.nz": {
+    "hostname": "nzme-ads.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ping.chartbeat.net": {
+    "hostname": "ping.chartbeat.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.adsafeprotected.com": {
+    "hostname": "pixel.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.ads.linkedin.com": {
+    "hostname": "px.ads.linkedin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sc.iasds01.com": {
+    "hostname": "sc.iasds01.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.crazyegg.com": {
+    "hostname": "script.crazyegg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-nz.imrworldwide.com": {
+    "hostname": "secure-nz.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sjs.bizographics.com": {
+    "hostname": "sjs.bizographics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.adsafeprotected.com": {
+    "hostname": "static.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.chartbeat.com": {
+    "hostname": "static.chartbeat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.nzherald.co.nz": {
+    "hostname": "syndication.nzherald.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.crwdcntrl.net": {
+    "hostname": "tags.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "web-sdk.urbanairship.com": {
+    "hostname": "web-sdk.urbanairship.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.nzherald.co.nz": {
+    "hostname": "www.nzherald.co.nz",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACNUlEQVR4AcXTP0jUYRjA8ccLTgpSh4LL/mhdQxcNEQldNARKREjYELpENwRxxcUJcoZh4SQV2RLUECRBid0NFkFUi1RDg1xKFCERVFQUZriYmMfTd3iHlxf68Tvvd78e+CzP8n6H9xF34k3NDbiKj5hGAWnEsQF96IJYVqEHRfzCZzxCClEIYhCXu1iDt1APoxDLARTxDPexCLVMYRA9fgLuomC8hzruoRZi9EHRgSwasA3voJYcxE/AJoilCUdxCknEcQeb0Q01tloBgo34CkUa4jfASyfmkUcjFqBGsx1gHEIaEkRAO0pQHEcG6h0ABBEQxReo0YYrYQYchFr2YzjMgMwyA6I4jfpKAiLILiOgEc+h+IaucgMymMUivpcZ0IYfUMcTxP0EtEIdfgMuox8XsAR1TPkJGK0goB1i7MUHqOWMn4A3GMAe7MNYBVeQglqO+AlIQizZAAM6PAMsa9GPQYyEHVCHaSiAkAPOQv9nwDjm8BhPMQ+1tMANiAUZcAt1//iEJdQ7AbNYEWSAKwc1HkKQhxrXIdUMGIJiCTshmIRiBrFqBxShOAHBFijmkIRUM6AVC0hBjDwmkIBUO+ASdmAdzmMCihlM4iY6sdIK2B5kQAS9+A318BMvcRG9HgGHywmoxRi0DN0Qy0moZVc5ASMoYRxDyCGLPtzAK6glDXEMQI1PiPgN2I1hrId4SOCB87jtBdQ4BvEOCFYL1LgGCTNgNV7jD86hJsyAGhRwGwmIl7/Yat/Gt/UgvgAAAABJRU5ErkJggg==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "syndication.nzherald.co.nz",
+      "googleads.g.doubleclick.net",
+      "ade.googlesyndication.com",
+      "main-cdn.grabone.co.nz",
+      "ping.chartbeat.net",
+      "media.nzherald.co.nz",
+      "tags.crwdcntrl.net",
+      "cdn-gl.imrworldwide.com",
+      "www.oneroof.co.nz",
+      "www.yudu.co.nz",
+      "www.youtube.com",
+      "web-sdk.urbanairship.com",
+      "s.ytimg.com",
+      "nzme-ads.co.nz",
+      "data.apn.co.nz",
+      "secure-nz.imrworldwide.com",
+      "www.googletagmanager.com",
+      "cdnjs.cloudflare.com",
+      "maps.google.com",
+      "nzme-ads-production.s3.amazonaws.com",
+      "fonts.gstatic.com",
+      "www.googletagservices.com",
+      "fastlane.rubiconproject.com",
+      "adservice.google.co.nz",
+      "securepubads.g.doubleclick.net",
+      "sjs.bizographics.com",
+      "script.crazyegg.com",
+      "connect.facebook.net",
+      "ib.adnxs.com",
+      "www.google-analytics.com",
+      "adservice.google.com",
+      "be122bb39b9d48ffbd628a0d8271a0c2.js.ubembed.com",
+      "assets.ubembed.com",
+      "www.facebook.com",
+      "js-agent.newrelic.com",
+      "bcp.crwdcntrl.net",
+      "ad.crwdcntrl.net",
+      "pixel.adsafeprotected.com",
+      "px.ads.linkedin.com",
+      "fw.adsafeprotected.com",
+      "stats.g.doubleclick.net",
+      "ad.doubleclick.net",
+      "s0.2mdn.net",
+      "bam.nr-data.net",
+      "tpc.googlesyndication.com",
+      "static.adsafeprotected.com",
+      "content.aimatch.com",
+      "sc.iasds01.com",
+      "pagead2.googlesyndication.com",
+      "googleads4.g.doubleclick.net",
+      "dt.adsafeprotected.com",
+      "static.chartbeat.com",
+      "maps.googleapis.com",
+      "lefrontend.nzmelistings.co.nz",
+      "dc05l3o2tcnzf.cloudfront.net",
+      "fonts.googleapis.com",
+      "lestorage.nzmelistings.co.nz",
+      "carousel.grabone.co.nz"
+    ]
+  },
+  "www.oneroof.co.nz": {
+    "hostname": "www.oneroof.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.yudu.co.nz": {
+    "hostname": "www.yudu.co.nz",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nzherald.co.nz"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

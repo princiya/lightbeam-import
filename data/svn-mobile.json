@@ -1,0 +1,327 @@
+{
+  "app.wisepops.com": {
+    "hostname": "app.wisepops.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clients1.google.com": {
+    "hostname": "clients1.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connected-by.connectad.io": {
+    "hostname": "connected-by.connectad.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent.cookiebot.com": {
+    "hostname": "consent.cookiebot.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consentcdn.cookiebot.com": {
+    "hostname": "consentcdn.cookiebot.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cse.google.com": {
+    "hostname": "cse.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dmp.adform.net": {
+    "hostname": "dmp.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "in.hotjar.com": {
+    "hostname": "in.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "insight.adsrvr.org": {
+    "hostname": "insight.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "loader.wisepops.com": {
+    "hostname": "loader.wisepops.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maxcdn.bootstrapcdn.com": {
+    "hostname": "maxcdn.bootstrapcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "popup.wisepops.com": {
+    "hostname": "popup.wisepops.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sbb.rs": {
+    "hostname": "sbb.rs",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "telemach.si": {
+    "hostname": "telemach.si",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAABtYmAAi4KAAP///wDw7+8AUENAAOLg3wDT0M8AxcC/ABYEAACZkY8AqKGfAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiCJyGCeHKIiIIAIYJ4coiIgkQpgmhyiIiCoSWSITKIiCInIyJiJ4iIgoiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "sbb.rs",
+      "consent.cookiebot.com",
+      "www.youtube.com",
+      "cse.google.com",
+      "fonts.gstatic.com",
+      "s.ytimg.com",
+      "www.googletagmanager.com",
+      "static.hotjar.com",
+      "track.adform.net",
+      "www.google.com",
+      "vars.hotjar.com",
+      "script.hotjar.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "stats.g.doubleclick.net",
+      "clients1.google.com",
+      "loader.wisepops.com",
+      "www.googleadservices.com",
+      "popup.wisepops.com",
+      "connected-by.connectad.io",
+      "googleads.g.doubleclick.net",
+      "app.wisepops.com",
+      "dmp.adform.net",
+      "www.google.si",
+      "insight.adsrvr.org",
+      "in.hotjar.com",
+      "www.facebook.com",
+      "maxcdn.bootstrapcdn.com",
+      "consentcdn.cookiebot.com",
+      "tracking.wisepops.com"
+    ]
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tracking.wisepops.com": {
+    "hostname": "tracking.wisepops.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.24ur.com": {
+    "hostname": "www.24ur.com",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABNVBMVEVAT69AT69AT69AT69AT69AT69AT68/Tq9OXLU+Ta4/Tq5AT68/Tq89Ta49TK4/Tq4+Tq5PXLVrd8Fwe8NYZbl0f8XW2e74+Pz6+v3m6PSUnNJEUrBEU7FtecJ3gsZWZLg+Ta5aZ7rg4/L////j5fPo6vX09fpxfMM7Sq18hsjy8/r7/P38/P6Mlc88TK19h8jn6fVjb75+iMn7+/2SmtFRX7bY2+6Ol9BKWLNlcb5uecJBULCVntP+/v+DjculrNn+/v709PpBUK+LlM7v8fjCx+Xz9Prg4vKzud+ts92vtd1kcL7R1eyFj8w5Saxhbb3P0uvFyed8h8iutN2CjMu1u+Cxt955g8eXn9T9/f7+///h5PPi5PPv8Pju7/jh4/JIVrKdpNb7/P6WntM/T69XZLhVYrgoxe2EAAAAC3RSTlMcnfD+nv3u/v7u/Sa7J90AAAABYktHRCMqYmw6AAAAB3RJTUUH4QwTDRY6RNyIwQAAAOFJREFUGNNjYGBkYuaGAmYmRgYGFlZuHl4+fqgQKwsDG7eAoJCwCIjHy8fHz8bAzCMqJi4hKSXNIyMrJyfPzqCgqKSsoqqspq6hqaWto6vHwKevZWBoZKxsYmqmrKxsrsfAbWFpZW1jq2Nn7+AIEeDRc3J2UXa1c3P3gAgomHqKi3t5++j4migr6/oxKPgH2NoGBgUrq4SEKiuHhTPwRQDN0om0VbZ1iFJWtrVl4HNWiY6OiYmJjomOVVaOi2dgTjCFAsHEJONkDga2FB4oUEgVFU3jBHkOBvj5+LhYGNC9DwCWciR2zItvXwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0xMi0xOVQxMzoyMjo1OCswMTowMOtBWocAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMTItMTlUMTM6MjI6NTgrMDE6MDCaHOI7AAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.si": {
+    "hostname": "www.google.si",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telemach.si"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

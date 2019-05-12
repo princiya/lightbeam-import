@@ -1,0 +1,1060 @@
+{
+  "a.ligatus.com": {
+    "hostname": "a.ligatus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "abs.proxistore.com": {
+    "hostname": "abs.proxistore.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "abs.twimg.com": {
+    "hostname": "abs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.atdmt.com": {
+    "hostname": "ad.atdmt.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ade.googlesyndication.com": {
+    "hostname": "ade.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads-ipm.adhese.com": {
+    "hostname": "ads-ipm.adhese.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads-pebblemedia.adhese.com": {
+    "hostname": "ads-pebblemedia.adhese.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.pubmatic.com": {
+    "hostname": "ads.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.videoadex.com": {
+    "hostname": "ads.videoadex.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adx.ligadx.com": {
+    "hostname": "adx.ligadx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.cxense.com": {
+    "hostname": "api.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.dmcdn.net": {
+    "hostname": "api.dmcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b1sync.zemanta.com": {
+    "hostname": "b1sync.zemanta.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon-eu-ams3.rubiconproject.com": {
+    "hostname": "beacon-eu-ams3.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.pebblemedia.be": {
+    "hostname": "c.pebblemedia.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.cookielaw.org": {
+    "hostname": "cdn.cookielaw.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.cxense.com": {
+    "hostname": "cdn.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.digitru.st": {
+    "hostname": "cdn.digitru.st",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.lqmcdn.com": {
+    "hostname": "cdn.lqmcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.spotxcdn.com": {
+    "hostname": "cdn.spotxcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.syndication.twimg.com": {
+    "hostname": "cdn.syndication.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clientstorage.cxense.com": {
+    "hostname": "clientstorage.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.createjs.com": {
+    "hostname": "code.createjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code3.adtlgc.com": {
+    "hostname": "code3.adtlgc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cookies.onetrust.mgr.consensu.org": {
+    "hostname": "cookies.onetrust.mgr.consensu.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ct.ligatus.com": {
+    "hostname": "ct.ligatus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dig.ultimedia.com": {
+    "hostname": "dig.ultimedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dig2.ultimedia.com": {
+    "hostname": "dig2.ultimedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "elb-imp-aws-fr-1.bidswitch.net": {
+    "hostname": "elb-imp-aws-fr-1.bidswitch.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eus.rubiconproject.com": {
+    "hostname": "eus.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fo-api.omnitagjs.com": {
+    "hostname": "fo-api.omnitagjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fo-ssp.omnitagjs.com": {
+    "hostname": "fo-ssp.omnitagjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fo-static.omnitagjs.com": {
+    "hostname": "fo-static.omnitagjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gabe.hit.gemius.pl": {
+    "hostname": "gabe.hit.gemius.pl",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads4.g.doubleclick.net": {
+    "hostname": "googleads4.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hello.lqm.io": {
+    "hostname": "hello.lqm.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imasdk.googleapis.com": {
+    "hostname": "imasdk.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "infosports.lalibre.be": {
+    "hostname": "infosports.lalibre.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ls.hit.gemius.pl": {
+    "hostname": "ls.hit.gemius.pl",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthis.com": {
+    "hostname": "m.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthisedge.com": {
+    "hostname": "m.addthisedge.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maps.googleapis.com": {
+    "hostname": "maps.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maps.gstatic.com": {
+    "hostname": "maps.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.adsrvr.org": {
+    "hostname": "match.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "medialb.digiteka.net": {
+    "hostname": "medialb.digiteka.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "medialb.ultimedia.com": {
+    "hostname": "medialb.ultimedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ngs35a.digiteka.net": {
+    "hostname": "ngs35a.digiteka.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ngs37a.digiteka.net": {
+    "hostname": "ngs37a.digiteka.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ngs39a.digiteka.net": {
+    "hostname": "ngs39a.digiteka.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "o0.llb.be": {
+    "hostname": "o0.llb.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "o1.llb.be": {
+    "hostname": "o1.llb.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "o2.llb.be": {
+    "hostname": "o2.llb.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "offer.slgnt.eu": {
+    "hostname": "offer.slgnt.eu",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "parismatch.be": {
+    "hostname": "parismatch.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.twimg.com": {
+    "hostname": "pbs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.moatads.com": {
+    "hostname": "px.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.update.rubiconproject.com": {
+    "hostname": "s.update.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s7.addthis.com": {
+    "hostname": "s7.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scdn.cxense.com": {
+    "hostname": "scdn.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scomcluster.cxense.com": {
+    "hostname": "scomcluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "search.spotxchange.com": {
+    "hostname": "search.spotxchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-assets.rubiconproject.com": {
+    "hostname": "secure-assets.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "siteeuwest.slgnt.eu": {
+    "hostname": "siteeuwest.slgnt.eu",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp1cluster.cxense.com": {
+    "hostname": "sp1cluster.cxense.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.ligatus.com": {
+    "hostname": "ssl.ligatus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.cinebel.be": {
+    "hostname": "static.cinebel.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.idalgo.info": {
+    "hostname": "static.idalgo.info",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ligatus.com": {
+    "hostname": "static.ligatus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.ligadx.com": {
+    "hostname": "sync.ligadx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.search.spotxchange.com": {
+    "hostname": "sync.search.spotxchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t1.llb.be": {
+    "hostname": "t1.llb.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t2.llb.be": {
+    "hostname": "t2.llb.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t3.llb.be": {
+    "hostname": "t3.llb.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "targetemsecure.blob.core.windows.net": {
+    "hostname": "targetemsecure.blob.core.windows.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ton.twimg.com": {
+    "hostname": "ton.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tracking.omnitagjs.com": {
+    "hostname": "tracking.omnitagjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "user-sync.adhese.com": {
+    "hostname": "user-sync.adhese.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.be": {
+    "hostname": "www.google.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.lalibre.be": {
+    "hostname": "www.lalibre.be",
+    "favicon": "data:image/gif;base64,R0lGODlhEAAQALMPAABbcrUOW////3+tuCBwhPHS4BBle74scMhKhHCjsLodZVCOnp/Cyo+3wezD1v///yH5BAEAAA8ALAAAAAAQABAAAAQ78DUCqr1mvHF7H8YljB4QXgtZeuoqCm7XxsActwy1kkQCu6Pgj0akIQLIpFKJKCiWUGThUThEkwfHIwIAOw==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "o0.llb.be",
+      "s7.addthis.com",
+      "o2.llb.be",
+      "m.addthisedge.com",
+      "gabe.hit.gemius.pl",
+      "fonts.googleapis.com",
+      "api.dmcdn.net",
+      "m.addthis.com",
+      "t2.llb.be",
+      "t1.llb.be",
+      "t3.llb.be",
+      "www.googletagmanager.com",
+      "offer.slgnt.eu",
+      "c.pebblemedia.be",
+      "targetemsecure.blob.core.windows.net",
+      "ads-pebblemedia.adhese.com",
+      "cdn.cxense.com",
+      "connect.facebook.net",
+      "www.ultimedia.com",
+      "cdn.cookielaw.org",
+      "ls.hit.gemius.pl",
+      "fo-api.omnitagjs.com",
+      "fonts.gstatic.com",
+      "ajax.googleapis.com",
+      "www.google-analytics.com",
+      "ads.videoadex.com",
+      "fo-static.omnitagjs.com",
+      "www.googleadservices.com",
+      "static.hotjar.com",
+      "code3.adtlgc.com",
+      "scdn.cxense.com",
+      "secure-assets.rubiconproject.com",
+      "ads.pubmatic.com",
+      "user-sync.adhese.com",
+      "abs.proxistore.com",
+      "api.cxense.com",
+      "staticxx.facebook.com",
+      "infosports.lalibre.be",
+      "www.youtube.com",
+      "ads-ipm.adhese.com",
+      "script.hotjar.com",
+      "platform.twitter.com",
+      "imasdk.googleapis.com",
+      "googleads.g.doubleclick.net",
+      "vars.hotjar.com",
+      "www.facebook.com",
+      "tracking.omnitagjs.com",
+      "medialb.digiteka.net",
+      "sp1cluster.cxense.com",
+      "sb.scorecardresearch.com",
+      "static.idalgo.info",
+      "fo-ssp.omnitagjs.com",
+      "s.ytimg.com",
+      "clientstorage.cxense.com",
+      "www.google.com",
+      "www.google.be",
+      "medialb.ultimedia.com",
+      "ngs39a.digiteka.net",
+      "dig.ultimedia.com",
+      "dig2.ultimedia.com",
+      "a.ligatus.com",
+      "pagead2.googlesyndication.com",
+      "cdn.syndication.twimg.com",
+      "syndication.twitter.com",
+      "scomcluster.cxense.com",
+      "ssl.ligatus.com",
+      "ngs35a.digiteka.net",
+      "s0.2mdn.net",
+      "abs.twimg.com",
+      "pbs.twimg.com",
+      "www.googletagservices.com",
+      "googleads4.g.doubleclick.net",
+      "ton.twimg.com",
+      "ngs37a.digiteka.net",
+      "beacon-eu-ams3.rubiconproject.com",
+      "ad.atdmt.com",
+      "code.createjs.com",
+      "tpc.googlesyndication.com",
+      "s.update.rubiconproject.com",
+      "maps.googleapis.com",
+      "adx.ligadx.com",
+      "eus.rubiconproject.com",
+      "ct.ligatus.com",
+      "maps.gstatic.com",
+      "static.ligatus.com",
+      "cdn.spotxcdn.com",
+      "cdn.digitru.st",
+      "elb-imp-aws-fr-1.bidswitch.net",
+      "sync.search.spotxchange.com",
+      "match.adsrvr.org",
+      "sync.ligadx.com",
+      "search.spotxchange.com",
+      "hello.lqm.io",
+      "cdn.lqmcdn.com",
+      "ad.doubleclick.net",
+      "b1sync.zemanta.com",
+      "z.moatads.com",
+      "px.moatads.com",
+      "siteeuwest.slgnt.eu",
+      "cookies.onetrust.mgr.consensu.org",
+      "o1.llb.be",
+      "ade.googlesyndication.com",
+      "static.cinebel.be",
+      "stats.g.doubleclick.net",
+      "parismatch.be"
+    ]
+  },
+  "www.ultimedia.com": {
+    "hostname": "www.ultimedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z.moatads.com": {
+    "hostname": "z.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lalibre.be"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}
